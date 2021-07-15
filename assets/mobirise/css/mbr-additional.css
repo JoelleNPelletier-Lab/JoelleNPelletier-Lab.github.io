@@ -679,6 +679,7 @@
 
 
 
+
 #dropdown-menu-2btn-3g .hide-buttons [data-button] {
   display: none !important;
 }
@@ -795,6 +796,22 @@
   color: #ffffff;
 }
 #msg-box3-3g .mbr-article P {
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box3-61 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 21px;
+}
+#msg-box3-61 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-61 .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-61 .mbr-article P {
   text-align: left;
   font-size: 16px;
 }
@@ -1967,6 +1984,9 @@
 
 
 
+
+
+
 #dropdown-menu-2btn-50 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2000,9 +2020,51 @@
 }
 #msg-box3-3h .mbr-header .mbr-header__text {
   text-align: center;
+  font-size: 48px;
 }
 #msg-box3-3h .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#content5-2v .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-2v .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #efefef;
+}
+#content5-2v .mbr-article {
+  color: #fff;
+}
+#content5-2v .mbr-header .mbr-header__text DIV {
+  font-size: 23px;
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+#msg-box4-2w .mbr-header__text {
+  color: #222222;
+  font-size: 22px;
+  font-family: 'Bitter', serif;
+}
+#msg-box4-2w .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2w .mbr-article {
+  color: #333333;
+}
+#msg-box4-2w .mbr-article P {
+  text-align: left;
+}
+#msg-box3-3d .mbr-header .mbr-header__text {
+  text-align: left;
+}
+#msg-box3-3d .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3d .mbr-article {
+  color: #000000;
 }
 #content5-2x .mbr-header .mbr-header__text {
   text-align: left;
@@ -2022,6 +2084,44 @@
   font-size: 22px;
   font-family: 'Bitter', serif;
 }
+#msg-box4-5y .mbr-header__text {
+  color: #000000;
+  font-family: 'Bitter', serif;
+  font-size: 20px;
+}
+#msg-box4-5y .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-5y .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-5z .mbr-header .mbr-header__text {
+  text-align: left;
+}
+#msg-box3-5z .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5z .mbr-article {
+  color: #000000;
+}
+#content5-60 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-60 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #efefef;
+}
+#content5-60 .mbr-article {
+  color: #fff;
+}
+#content5-60 .mbr-header .mbr-header__text DIV {
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Bitter', serif;
+}
 #msg-box4-2z .mbr-header__text {
   color: #000000;
   font-family: 'Bitter', serif;
@@ -2034,7 +2134,7 @@
   color: #000000;
 }
 #msg-box3-3f .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-3f .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -2072,53 +2172,12 @@
   color: #333333;
 }
 #msg-box3-3e .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-3e .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-3e .mbr-article {
-  color: #000000;
-}
-#content5-2v .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-}
-#content5-2v .mbr-header .mbr-header__subtext {
-  text-align: left;
-  color: #efefef;
-}
-#content5-2v .mbr-article {
-  color: #fff;
-}
-#content5-2v .mbr-header .mbr-header__text DIV {
-  font-size: 23px;
-  font-family: 'Bitter', serif;
-  text-align: center;
-}
-#msg-box4-2w .mbr-header__text {
-  color: #222222;
-  font-size: 22px;
-  font-family: 'Bitter', serif;
-}
-#msg-box4-2w .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-2w .mbr-article {
-  color: #333333;
-}
-#msg-box4-2w .mbr-article P {
-  text-align: left;
-}
-#msg-box3-3d .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-3d .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-3d .mbr-article {
   color: #000000;
 }
 #contacts2-51 DIV {
