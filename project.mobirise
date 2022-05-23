@@ -32,9 +32,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "publishChangesOnly": true,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/jonat/Documents/School/1-Doctorat/Web%20page%20lab"
+    "publishChangesOnly": true
   },
   "pages": {
     "publications.html": {
@@ -1783,7 +1781,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/enzymes%20lab-1400x573.png",
+              "src": "@PROJECT_PATH@/assets/images/enzymes-lab-1400x573.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -4236,7 +4234,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alexis%20bonneau%20burke-600x600.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/alexis-bonneau-burke-600x600.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -4260,7 +4258,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/chlo%C3%A9%20louis%20gavet-600x602.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/chlo-louis-gavet-600x602.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -4414,7 +4412,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/maxime%20st%20aubin-600x800.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/maxime-st-aubin-600x800.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -4568,7 +4566,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/l%C3%A9a%20rochet-430x542.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/la-rochet-430x542.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -4769,7 +4767,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur_stella-d0407276.webp",
+              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276.webp",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -11124,7 +11122,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csm_galerie_campusmil-005_7a9a2f188c-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -11162,7 +11160,7 @@
             "paddingBottom": "2",
             "columns": "6",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csm_galerie_campusmil-005_7a9a2f188c-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -15597,7 +15595,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur_stella-d0407276.webp",
+              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276.webp",
               "link": "",
               "alt": "",
               "title": "",
@@ -16055,7 +16053,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/126912250_3382412045139627_399114037261310840_n-1400x1362.jpg",
+              "src": "@PROJECT_PATH@/assets/images/126912250-3382412045139627-399114037261310840-n-1400x1362.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -16564,7 +16562,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/maxime%20st%20aubin-1400x1867.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/maxime-st-aubin-1400x1867.jpeg",
               "link": "",
               "alt": "",
               "title": "",
