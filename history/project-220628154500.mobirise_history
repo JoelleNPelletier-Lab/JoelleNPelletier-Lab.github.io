@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "Megan-Faye_Parker.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11173,7 +11173,7 @@
             "overlayOpacity": "0.8"
           },
           "headerAlign": "left",
-          "header": "LAB NEWS &nbsp;<br> &nbsp;",
+          "header": "NEWS &nbsp;<br> &nbsp;",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -11196,7 +11196,7 @@
             }
           },
           "title1": "TRAVEL AWARDS GRANTED FOR PROTEIN SOCIETY SYMPOSIUM - POSTER PRESENTATIONS",
-          "caption1": "&nbsp;Congratulations to Adem H.-Parisien and Jonathan Besna for their Protein Society Travel Award and EDI Travel Award. The Protein Society Annual Symposium 2022 (PS36) takes place July 7-10, in San Francisco, California.<br>",
+          "caption1": "&nbsp;Congratulations to Adem H.-Parisien and Jonathan Besna for their Protein Society Travel Awards Grants. The Protein Society Annual Symposium 2022 (PS36) takes place July 7-10, in San Francisco, California.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.proteinsociety.org/page/PROGRAM-AND-SPEAKERS\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
@@ -11218,8 +11218,8 @@
               "size": 0
             }
           },
-          "title2": "NEW SUMMER INTERNS AND NEW GRADUATE STUDENTS ACCEPTED - 2022<div></div>",
-          "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br>Welcome to Megan Faye-Parker and Maxime Saint-Onges, two new master students.",
+          "title2": "NEW SUMMER INTERNS - 2022<div></div>",
+          "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br><br>Meet the new faces on the Intern page!",
           "button2": "<a data-app-btn=\"true\" href=\"Interns.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MEET THE INTERNS</a>",
           "media3": {
             "image": {
@@ -11241,9 +11241,9 @@
               "size": 0
             }
           },
-          "title3": "<div>PRESENTATION  AWARDS AT THE 4th PROTEIN ENGINEERING CANADA CONFERENCE 2022</div>",
-          "caption3": "Congratulations to Adem H.-Parisien for his talk award and to Claudèle Lemay St-Denis for her poster presentation prize! Both will be presenting their posters at the upcoming Protein Society Annual Symposium 2022 (PS36).",
-          "button3": "<a data-app-btn=\"true\" href=\"https://event.fourwaves.com/pec2022/pages\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "title3": "RECENT GRADUATE STUDENTS ACCEPTED<div><br></div>",
+          "caption3": "The Joelle Pelletier Lab is happy to welcome two new graduate students:&nbsp; Maxime Saint-Aubin and Megan-Faye Parker (IRSC scholarship recipient).<br>&nbsp;<br>Read more about their projects in the members column!",
+          "button3": "<a data-app-btn=\"true\" href=\"Megan-Faye_Parker.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -11307,7 +11307,7 @@
               "size": 0
             }
           },
-          "title6": "FIRST PRIZE POSTER PRESENTATION AWARDS AT THE 21st PROTEO SYMPOSIUM 2022",
+          "title6": "FIRST PLACE POSTER PRESENTATION AWARDS FOR THE 21st PROTEO SYMPOSIUM 2022",
           "caption6": "Congratulations to Stella Cellier-Goetghebeur and Jonathan Besna for first place prizes at the 2022 PROTEO Symposium, held on May 13th.&nbsp;<br><br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://proteo.ca/en/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
@@ -16168,7 +16168,7 @@
           },
           "title": "Education\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; B.Sc. 2021 (Biochemistry), Département de Biochimie - Honors, Université de Montréal, Canada</p>",
+          "text": "<p>•&nbsp; &nbsp; M.Sc. 2021 (Biochemistry), Département de Biochimie, Université de Sherbrooke, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -16220,7 +16220,7 @@
           },
           "title": "Research Experience\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;05/2021 - 12/2021: Undergraduate internship, ELISA characterization of immune response of Anti-Spike IgG Antibody levels in non-hospitalized individuals against COVID-19. Joelle Pelletier Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;07/2018 - 08/2018: Collaborative internship, Héma-Québec, Québec.</p>",
+          "text": "<p>• &nbsp; &nbsp;09/2018 - 04/2019: Undergraduate internship, Maturation of microRNAs associated with stress-related behavior, Pascale Legault Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate internship, Characterization of variants of TEM-1 β-lactamase, Joelle Pelletier Lab, Université de Montréal, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -16272,7 +16272,7 @@
           },
           "title": "Scholarship and Awards\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• 08/2022 - 08/2024: CREATE-APRENTICE Scholarship Trainee Program - uOttawa (NSERC)&nbsp;&nbsp;</p><p>• 08/2022 - 08/2024: CIHR Grant - Master's Studentships&nbsp; &nbsp;&nbsp;</p><p>• 05/2022: NORVATIS Prize - Oral presentation - 55th Research Intern Convention&nbsp;</p><p>• 05/2021 - 08/2021: PROTEO Grant - Summer internship (declined) </p><p>• 05/2021 - 08/2021: PREMIER Grant - Summer internship (accepted)</p><p>\n</p><p>\n</p>",
+          "text": "<p>• 08/2022 - 08/2024: IRSC Grant - Master's Studentships&nbsp; &nbsp;&nbsp;</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
