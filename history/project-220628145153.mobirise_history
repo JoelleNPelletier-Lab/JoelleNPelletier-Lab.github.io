@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "Maxime_Saint-Aubin.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4229,7 +4229,7 @@
             }
           },
           "title1": "Frédérick Langlois",
-          "caption1": "B.Sc. student (Biochemistry)\n<br>Université de Montréal<br>",
+          "caption1": "B.Sc. student (Chemistry)\n<br>Université de Montréal<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -11173,7 +11173,7 @@
             "overlayOpacity": "0.8"
           },
           "headerAlign": "left",
-          "header": "LAB NEWS &nbsp;<br> &nbsp;",
+          "header": "NEWS &nbsp;<br> &nbsp;",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -11218,8 +11218,8 @@
               "size": 0
             }
           },
-          "title2": "NEW 2022 SUMMER INTERNS ACCEPTED<div></div>",
-          "caption2": "<br>Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br><br>Meet the new faces on our intern page!<br><br>",
+          "title2": "NEW SUMMER INTERNS - 2022<div></div>",
+          "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br><br>Meet the new faces on the Intern page!",
           "button2": "<a data-app-btn=\"true\" href=\"Interns.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MEET THE INTERNS</a>",
           "media3": {
             "image": {
@@ -11264,7 +11264,7 @@
               "size": 0
             }
           },
-          "title4": "RECENT PUBLICATIONS: TWO REVIEWS ON IMMOBILIZATION AND MUTAGENESIS",
+          "title4": "2 RECENT REVIEWS HAVE RECENTLY BEEN PUBLISHED",
           "caption4": "<i>Cytochrome P450 Immobilization Strategies</i> [...] was published in ACS catalysis.<br>_________________________<br><br><i>Methods of mutagenesis and library creation</i> was published in BioEssays.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"Last_articles.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">READ ARTICLES</a>",
           "media5": {
@@ -11288,7 +11288,7 @@
             }
           },
           "title5": "ALI FENDRI, TALK PRESENTATION FOR CGCC'S 12th ANNUAL SYMPOSIUM",
-          "caption5": "<br>Congratulations to Ali for his oral presentation: Cofactor-free biocatalysis flow system of P450 BM3 enzyme immobilization. The event was held at the MIL campus on May 20th.&nbsp;&nbsp;<br>",
+          "caption5": "Congratulations to Ali for his oral presentation: Cofactor-free biocatalysis flow system of P450 BM3 enzyme immobilization. The event was held at the MIL campus on May 20th.&nbsp;&nbsp;<br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://ccvc-cgcc.ca/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -11307,8 +11307,8 @@
               "size": 0
             }
           },
-          "title6": "&nbsp;PRESENTATION AWARDS FOR THE 4th PROTEIN ENGINEERING CANADA CONFERENCE 2022",
-          "caption6": "Congratulations to Adem H.-Parisien and for his talk award and Claudèle Lemay St-Denis for her poster presentation prize at the 4th PEC conference, held at Concordia University.<br>",
+          "title6": "FIRST PLACE POSTER PRESENTATION AWARDS FOR THE 21st PROTEO SYMPOSIUM 2022",
+          "caption6": "Congratulations to Stella Cellier-Goetghebeur and Jonathan Besna for first place prizes at the 2022 PROTEO Symposium, held on May 13th.&nbsp;<br><br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://proteo.ca/en/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
             "Thème"
@@ -16168,7 +16168,7 @@
           },
           "title": "Education\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; B. Sc. 2022 (Biochemistry), Département de Biochimie, (Honors). Université de Montréal, Canada</p>",
+          "text": "<p>•&nbsp; &nbsp; M.Sc. 2021 (Biochemistry), Département de Biochimie, Université de Sherbrooke, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -16220,7 +16220,7 @@
           },
           "title": "Research Experience\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;05/2021 - 12/2021: Undergraduate honors internship, Longitudinal Analysis of Anti-Spike IgG Antibody Levels in Non-Hospitalized COVID-19 Positive Individuals. Joelle Pelletier Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;07/2021 - 08/2021: Collaborative program internship - Héma-Québec, Québec, Canada.</p>",
+          "text": "<p>• &nbsp; &nbsp;09/2018 - 04/2019: Undergraduate internship, Maturation of microRNAs associated with stress-related behavior, Pascale Legault Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate internship, Characterization of variants of TEM-1 β-lactamase, Joelle Pelletier Lab, Université de Montréal, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -16272,7 +16272,7 @@
           },
           "title": "Scholarship and Awards\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• 08/2022 - 08/2024: APRENTICE Scholarship Trainee Program - uOttawa (NSERC - CREATE)&nbsp;</p><p>• 08/2022 - 08/2024: CIHR Grant - Master's Studentships \n</p><p>\n</p><p>• 04/2022 : NORVATIS - Oral presentation award - 55th Research Intern Convention (PREMIER)</p><p>\n</p><p> </p><p>• 08/2022 - 08/2024: PROTEO Summer internship Grant - Declined</p><p>\n</p><p>• 05/2021 - 08/2021: PREMIER Summer internship grant - Accepted</p><p><br></p>",
+          "text": "<p>• 08/2022 - 08/2024: IRSC Grant - Master's Studentships&nbsp; &nbsp;&nbsp;</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
