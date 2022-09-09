@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "Megan-Faye_Parker.html",
+    "currentPage": "Stella-Cellier-Goetghebeur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20,7 +20,7 @@
     "versionFirst": "4.10.3",
     "siteFonts": [],
     "uniqCompNum": 263,
-    "versionPublish": "5.3.10",
+    "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/th-1-128x93_1.png",
     "noImageResize": "",
@@ -52,7 +52,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5u"
+          "_anchor": "header3-5u",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -64,7 +65,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5n"
+          "_anchor": "header3-5n",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>92.&nbsp; &nbsp;Alejaldre, L., <b>Pelletier, J. N.,</b> &amp; Quaglia, D. (2021). Title: Methods for enzyme library creation: Which one will you choose? BioEssays, 43, e2100052. <a href=\"https://doi.org/10.1002/bies.202100052\" class=\"text-primary\" target=\"_blank\">https://doi.org/10.1002/bies.202100052</a></p>",
@@ -81,7 +83,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-79"
+          "_anchor": "content1-79",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>91.&nbsp; &nbsp;Valikhani, D,. Bolivar, J. M.,&nbsp; <b>Pelletier, J. N.</b> An Overview of Cytochrome P450 Immobilization Strategies for Drug Metabolism Studies, Biosensing, and Biocatalytic Applications: Challenges and Opportunities. ACS Catalysis 2021 11 (15), 9418-9434 DOI: 10.1021/acscatal.1c02017&nbsp;<a href=\"https://www.nature.com/articles/s41598-021-00844-z\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">10.1038/s41598-021-00844-z</a>.</p>",
@@ -98,7 +101,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-78"
+          "_anchor": "content1-78",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>90.&nbsp; &nbsp;Jodaylami, M.H., Djaileb, A., Ricard, P., Lavallée, E., Cellier-Goetghebeur, S., Parker, M.-F., Coutu, J., Stuible, M., Gervais, C., Durocher, Y., Cayer, M.-P., De Grandmont, M.J., Rochette, S., Brouard, D., Trottier, S., Boudreau, D., <b>Pelletier, J.N.</b>, Masson, J.-F. (2021): Cross-reactivity of antibodies from non-hospitalized COVID-19 positive individuals against the native, B.1.351, B.1.617.2, and P.1 SARS-CoV-2 spike proteins. Nature Scientific Reports. doi: <a href=\"https://www.nature.com/articles/s41598-021-00844-z\" class=\"text-primary\" target=\"_blank\">10.1038/s41598-021-00844-z</a>.</p>",
@@ -115,7 +119,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-5q"
+          "_anchor": "content1-5q",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>89.&nbsp; &nbsp; Djaileb, A., Hojjat Jodaylami, M., Coutu J, Ricard, P., Lamarre, M., Rochet, L., Cellier-Goetghebeur, S., Macaulay, D., Charron, B., Lavallée, É., Thibault, V., Stevenson, K., Forest, S., Live, LS., Abonnenc, N., Guedon, A., Quessy, P., Lemay, JF., Farnós, O., Kamen, A., Stuible, M., Gervais, C., Durocher, Y., Cholette, F., Mesa, C., Kim, J., Cayer, MP., de Grandmont, MJ., Brouard, D., Trottier, S., Boudreau, D., Pelletier, JN., Masson, JF. Cross-validation of ELISA and a portable surface plasmon resonance instrument for IgG antibody serology with SARS-CoV-2 positive individuals. Analyst. 2021 Jul 26;146(15):4905-4917. doi: <a href=\"https://pubmed.ncbi.nlm.nih.gov/34250530/\" class=\"text-primary\" target=\"_blank\">10.1039/d1an00893e</a>. PMID: 34250530.&nbsp;</p>",
@@ -132,7 +137,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-5t"
+          "_anchor": "content1-5t",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>88.&nbsp; &nbsp; Lemay-St-Denis, C., Diwan, S. S., <b>Pelletier, J.N.</b>&nbsp;(2021): The Bacterial Genomic Context of Highly Trimethoprim-Resistant DfrB Dihydrofolate Reductases Highlights An Emerging Threat to Public Health. Antibiotics. <a href=\"https://www.mdpi.com/2079-6382/10/4/433\" class=\"text-primary\" target=\"_blank\">https://www.mdpi.com/2079-6382/10/4/433</a></p>",
@@ -149,7 +155,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-5r"
+          "_anchor": "content1-5r",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>87.&nbsp; &nbsp; &nbsp;Paquet-Côté, P.-A., Alejaldre, L., Verreault, C. L., Gobeil S.M.C., Lamoureux, R., Bédard, L., Normandeau, C.-O., Lemay-St-Denis, C., <b>Pelletier, J.N., </b>Voyer, N. (2021) Development of sulfahydantoin derivatives as β-lactamase inhibitors. Bioorganic &amp; Medicinal Chemistry Letters&nbsp;<a href=\"https://www.sciencedirect.com/science/article/pii/S0960894X2100007X\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://www.sciencedirect.com/science/article/pii/S0960894X2100007X</a></p>",
@@ -166,7 +173,8 @@
             }
           },
           "_params": {},
-          "_anchor": "content1-5s"
+          "_anchor": "content1-5s",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -178,7 +186,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-36"
+          "_anchor": "header3-36",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>86.&nbsp; &nbsp; &nbsp;Djaileb, A., Charron, B., Jodaylami, M. H., Thibault V., Coutu, J., Stevenson, K., Forest, S., Live,&nbsp; L. S., Boudreau, D., <b>Pelletier, J.N.</b>, Masson, J.-F. (2020): A Rapid and Quantitative Serum Test for SARS-CoV-2 Antibodies with Portable Surface Plasmon Resonance Sensing. ChemRxiv. Preprint. <a href=\"https://doi.org/10.26434/chemrxiv.12118914.v1\" class=\"text-primary\" target=\"_blank\">https://doi.org/10.26434/chemrxiv.12118914.v1</a></p>",
@@ -195,7 +204,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>85.&nbsp; &nbsp;Alejaldre, L., Lemay-St-Denis, C., Perez, C., Sancho Jodar, F., Guallar, V. and <b>Pelletier, J.N.</b> Known evolutionary paths are accessible to engineered ß-lactamases having altered protein motions at the timescale of catalytic turnover. Frontiers (in press).</p>",
@@ -209,7 +219,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>84.&nbsp; &nbsp;Deweid, L.*, H.-Parisien, A.*, Lafontaine, K., Rochet, L.N.C., Kolmar, H. and <b>Pelletier, J.N.</b> (2020) Glutamine-walking: creating reactive substrates for transglutaminase-mediated protein labelling. Met. Enzymol., 644:121-148. (*equal contribution)</p>",
@@ -223,7 +234,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -235,7 +247,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-2h"
+          "_anchor": "header3-2h",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>83.&nbsp; &nbsp;<b style=\"\"> </b>Rousseau, O., Ebert, M.C., Quaglia, D., Fendri, A., H.-Parisien, A., Besna, J. N., Iyathurai, S. and <b style=\"\">Pelletier, J.N. </b>(2019) Indigo Formation and Rapid NADPH Consumption Provide Robust Prediction of Raspberry Ketone Synthesis by Engineered Cytochrome P450 BM3. ChemCatChem, 12(3): 837-845.</p>",
@@ -249,7 +262,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>82.&nbsp; &nbsp;Toulouse, J., Yachnin, B., Ruediger, E., Deon, D., Gagnon, M., Saint-Jacques, K., Ebert, M., Forge, D., Bastien, D., Colin, D., Vanden Eynde, J.-J., Marinier, A., Berghuis, A. and <b>Pelletier, J.N. </b>(2019) Structure-based design of dimeric bisbenzimidazole inhibitors to an emergent trimethoprim-resistant type II dihydrofolate reductase guide the design of monomeric analogs. ACS Omega, 4(6):10056-10069.</p>",
@@ -263,7 +277,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>81. &nbsp; &nbsp;Gobeil, S. M., Ebert, M. C., Park, J., Gagné, D., Doucet, N., Berghuis, A. M. &amp; <b>Pelletier, J.</b> <b>N.&nbsp;</b>(2019). the structural Dynamics of engineered β-Lactamases Vary Broadly on three timescales yet sustain Native Function. Scientific reports, 9(1), 6656.</p>",
@@ -277,7 +292,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>80.&nbsp; &nbsp; Quaglia, D., Alejaldre, L., Ouadhi, S., Rousseau, O., <b>Pelletier, J.N.</b> (2019) Holistic engineering of Cal-A lipase chain-length selectivity identifies triglyceride binding spot. PLOS One, 14 (1), e0210100.\n</p>",
@@ -291,7 +307,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -303,7 +320,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-2g"
+          "_anchor": "header3-2g",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>79.&nbsp; &nbsp; Charbonneau, D., Breault-Turcot, J., Sinnett, D., Krajinovic, M., Leclerc, J-M, Masson, J-F., <b>Pelletier, J. N.</b> (2017). Tracking silent hypersensitivity reactions to asparaginase during leukemia therapy using single-chip indirect plasmonic and fluorescence immunosensing. ACS Sensors. In press</p>",
@@ -317,7 +335,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>78.&nbsp; &nbsp; Rachel, N. M., Toulouse, J. L. and <b>Pelletier, J. N.</b> (2017) Transglutaminase-Catalyzed Bioconjugation Using One-Pot Metal-Free Bioorthogonal Chemistry. ACS Bioconjugate Chemistry, 28(10), 2518-2523.</p>",
@@ -331,7 +350,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>77.&nbsp; &nbsp; Rachel, N. M., Quaglia, D., Lévesque, E., Charette, A. B. and <b>Pelletier, J. N.</b> (2017) Engineered, highly reactive substrates of microbial transglutaminase enable protein labeling within various secondary structure elements. Protein Science, 26(11), 2268-2279.</p>",
@@ -345,7 +365,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>76.&nbsp;&nbsp;&nbsp;&nbsp;Ebert, M.C.C.J.C., Guzman Espinola, J., Lamoureux, G. and <b>Pelletier, J. N.</b> (2017) Substrate-specific screening for mutational hotspots using biased molecular dynamics simulations. ACS Catalysis, 7(10), 6786–6797.</p>",
@@ -359,7 +380,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>75.&nbsp; &nbsp; Charbonneau, D. M., Aubé, A., Rachel. N. M., Guerrero, V., Delorme, K., Breault-Turcot, J., Masson, J.-F. and <b>Pelletier, J. N</b>. (2017) Development of E. coli asparaginase II for immunosensing: A trade-off between receptor density and sensing efficiency. ACS Omega, 2(5), 2114–2125</p>",
@@ -373,7 +395,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>74.&nbsp; &nbsp; Lévesque, É., Bechara, W., Constantineau-Forget, L., Pelletier, G., Rachel, N. M.,<b> Pelletier, J. N.</b> and Charette, A. B. (2017) General C–H Arylation Strategy for the Synthesis of Tunable Visible Light Emitting High Stokes Shift Benzo[a]imidazo[2,1,5-c,d]indolizine Fluorophores. Journal of Organic Chemistry, p.5046-5067.</p>",
@@ -387,7 +410,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>73.&nbsp; &nbsp; Toulouse, J. L., Abraham, S. M. J., Kadnikova, N., Bastien, D., Gauchot, V., Schmitzer. A. R., and <b>Pelletier, J. N.</b> (2017) Investigation of classical organic and ionic liquid co-solvents for early stage screening in fragment-based inhibitor design with unrelated bacterial and human dihydrofolate reductases. Assay and Drug Development Technologies, p.141-153.</p>",
@@ -401,7 +425,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>72.&nbsp; &nbsp; Toulouse, J. L. , Edens, T. J., Alejaldre, L., Manges, A. R. and <b>Pelletier, J. N.</b> (2017) Integron-Associated DfrB4, a Previously Uncharacterized Member of the Trimethoprim-Resistant Dihydrofolate Reductase B Family, Is a Clinically Identified Emergent Source of Antibiotic Resistance. Antimicrobial Agents and Chemotherapy 61 (5) e02665-16.</p>",
@@ -415,7 +440,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>71.&nbsp; &nbsp; Quaglia, D., Ebert, M. C. C. J. C., Mugford,P. F. and <b>Pelletier, J. N.</b> (2017) Enzyme engineering: A synthetic biology approach for more effective library generation and automated high-throughput screening. PloS One http://dx.doi.org/10.1371/journal.pone.0171741.</p>",
@@ -429,7 +455,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>70.&nbsp; &nbsp; Ebert, M. C. C. J. C. and <b>Pelletier, J. N. </b>(2017) Computational tools for enzyme improvement: why everyone can – and should – use them. Curr. Opin. Chem. Biol., 37, 89–96.</p>",
@@ -443,7 +470,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -455,7 +483,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-23"
+          "_anchor": "header3-23",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>69.&nbsp; &nbsp; Aubé, A., Charbonneau, D., Pelletier, J. N. and Masson, J.-F. (2016) Response monitoring of acute lymphoblastic leukemia (ALL) patients undergoing L-asparaginase therapy: Successes and challenges associated with clinical sample analysis in plasmonic sensing. ACS Sensors 1, 1358−1365.</p>",
@@ -464,7 +493,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-22"
+          "_anchor": "content1-22",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>68.&nbsp; &nbsp; Ebert, M. C. C. J. C., Dürr, S. L., Houle, A. A., Lamoureux, G. and Pelletier, J. N. (2016) Evolution of P450 Monooxygenases toward Formation of Transient Channels and Exclusion of Nonproductive Gases. ACS Catal. 6, 7426−7437.</p>",
@@ -473,7 +503,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-21"
+          "_anchor": "content1-21",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>67.&nbsp; &nbsp; Rachel, N. M. and Pelletier, J. N. (2016) One-Pot Peptide and Protein Conjugation: Combination of Enzymatic Transamidation and Click Chemistry. Chemical Communications, 52, 2541 – 2544.</p>",
@@ -482,7 +513,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-20"
+          "_anchor": "content1-20",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>66.&nbsp; &nbsp; St-Jacques, A. D., Rachel, N. M., Curry, D. R., Gillet, S. M. F. G., Clouthier, C. M., Keillor, J. W., Pelletier, J. N. and Chica, R. A. (2016) Specificity of Transglutaminase-Catalyzed Peptide Synthesis.  J. Mol. Catal. B: Enzymatic, 123: 53–61. doi:10.1016/j.molcatb.2015.11.009.</p>",
@@ -491,7 +523,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1y"
+          "_anchor": "content1-1y",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>65.&nbsp; &nbsp; Gobeil, S. M. C., Gagné, D., Doucet, N. and Pelletier, J. N. (2016) 15N, 13C and 1H backbone resonance assignments of an artificially engineered TEM-1/PSE-4 class A β-lactamase chimera and its deconvoluted mutant. Biomol NMR Assign, doi:10.​1007/​s12104-015-9645-8.</p>",
@@ -500,7 +533,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1z"
+          "_anchor": "content1-1z",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>64.&nbsp; &nbsp; Yockell-Lelièvre, H., Bukar, N., Toulouse, J. L., Pelletier, J. N. and Masson, J.-F. (2016) Naked-eye nanobiosensor for therapeutic drug monitoring of methotrexate. Analyst, 141, 697 – 703.\r</p>",
@@ -509,7 +543,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1x"
+          "_anchor": "content1-1x",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -521,7 +556,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-1w"
+          "_anchor": "header3-1w",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>63.&nbsp; &nbsp; Editorial: Masson JF, Pelletier JN. (2015) Will nanobiosensors change therapeutic drug monitoring? The case of methotrexate. Nanomedicine(lond.). 10(4), 521-524.</p>",
@@ -530,7 +566,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1p"
+          "_anchor": "content1-1p",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>62.&nbsp; &nbsp; Invited article: Ebert MC, Morley KL, Volpato JP, Schmitzer AR, Pelletier JN. (2015) Asymmetric mutations in the tetrameric R67 dihydrofolate reductase reveal high tolerance to active-site substitutions. Protein Sci. vol 24, 495-507.</p>",
@@ -539,7 +576,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1q"
+          "_anchor": "content1-1q",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -551,7 +589,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-1v"
+          "_anchor": "header3-1v",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>61.&nbsp; &nbsp; Zhao SS, Bukar N, Toulouse JL, Pelechacz D, Robitaille R, Pelletier JN, Masson JF. (2014) Miniature multi-channel SPR instrument for methotrexate monitoring in clinical samples. Biosens. Bioelectron. 64, 664-670.</p>",
@@ -560,7 +599,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1n"
+          "_anchor": "content1-1n",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>60.&nbsp; &nbsp; Gobeil SM, Clouthier CM, Park J, Gagné D, Berghuis AM, Doucet N, Pelletier JN. (2014) Maintenance of native-like protein dynamic may not be required for engineering functional proteins. Chem Biol. 21(10), 1330-1340 Article previewed in: Tokuriki N, Jackson CJ (2014) Enzyme dynamics and engineering: one step at a time, Chem Biol. 21(10), 1259-1260.</p>",
@@ -569,7 +609,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1r"
+          "_anchor": "content1-1r",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>59.&nbsp; &nbsp; Gundersen MT, Keillor JW, Pelletier JN. (2014) Microbial transglutaminase displays broad acyl-acceptor substrate specificity.Appl Microbiol Biotechnol 98:219–230.</p>",
@@ -578,7 +619,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1m"
+          "_anchor": "content1-1m",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>58.&nbsp; &nbsp; Bukar N, Zhao SS, Charbonneau DM, Pelletier JN, Masson JF. (2014) Influence of the Debye length on the interaction of small molecule-modified nanoparticle with a surface-bound bioreceptor. Chem Commun (Camb). 18;50(38) 4947-4950.</p>",
@@ -587,7 +629,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1s"
+          "_anchor": "content1-1s",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -599,7 +642,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-1u"
+          "_anchor": "header3-1u",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>57.&nbsp; &nbsp; Aubé A, Breault-Turcot J, Chaurand P, Pelletier JN, Masson JF. (2013) Non-specific adsorption of crude cell lysate on surface plasmon resonance sensors. Langmuir. 2013 Aug 13;29(32):10141-8. doi: 10.1021/la401837y.</p>",
@@ -608,7 +652,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1o"
+          "_anchor": "content1-1o",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>56.&nbsp; &nbsp; Ratel M, Provencher-Girard A, Zhao SS, Breault-Turcot J, Labrecque-Carbonneau J, Branca M, Pelletier JN, Schmitzer AR, Masson JF. (2013) Imidazolium-based ionic liquid surfaces for biosensing. Anal Chem. 2013 Jun 18;85(12):5770-7. doi: 10.1021/ac400386z.</p>",
@@ -617,7 +662,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1t"
+          "_anchor": "content1-1t",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>55.&nbsp; &nbsp; Rachel NM, Pelletier JN. (2013) Biotechnological Applications of Transglutaminases. Biomolecules 2013, 3, 870-888. doi:10.3390/biom3040870.</p>",
@@ -626,7 +672,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1l"
+          "_anchor": "content1-1l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -638,7 +685,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-1j"
+          "_anchor": "header3-1j",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>54.&nbsp; &nbsp; Clouthier CM, Morin S, Gobeil SM, Doucet N, Blanchet J, Nguyen E, Gagné SM, Pelletier JN. (2012) Chimeric β-lactamases: global conservation of parental function and fast time-scale dynamics with increased slow motions. PLoS One. 2012;7(12):e52283.</p>",
@@ -647,7 +695,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1k"
+          "_anchor": "content1-1k",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>53.&nbsp; &nbsp; Zhao, S. S., Bichelberger, M. A., Colin, D. Y., Robitaille, R., Pelletier, J. N., and Masson, J. F. (2012) Monitoring methotrexate in clinical samples of cancer patients during chemotherapy with a LSPR-based competitive sensor. Analyst 2012, 137, 4742-4750.</p>",
@@ -656,7 +705,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1h"
+          "_anchor": "content1-1h",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>52.&nbsp; &nbsp; Gnaccarini, C., Ben-Tahar, W., Mulani, A., Roy, I., Lubell, W. D., Pelletier, J. N. and Keillor, J. W. Site-Specific Protein Propargylation Using Tissue Transglutaminase (2012) Org. Biomol. Chem. DOI: 10.1039/C2OB25752A.</p>",
@@ -665,7 +715,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-1i"
+          "_anchor": "content1-1i",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>51.&nbsp; &nbsp; Bastien, D., Ebert, M. C. C. J. C., Forge,D., Toulouse, J., Kadnikova, N., Perron, F., Mayence, A., Huang, T. L., Vanden Eynde, J. J., and Pelletier, J. N. (2012) Fragment-Based Design of Symmetrical Bis-benzimidazoles as Selective Inhibitors of the Trimethoprim-Resistant, Type II R67 Dihydrofolate Reductase. J. Med. Chem. 55, 3182-3192.</p>",
@@ -673,7 +724,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1m"
+          "_anchor": "content1-1m",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>50.&nbsp;&nbsp;&nbsp;&nbsp;Clouthier, C. M., and Pelletier, J.N. (2012) Expanding the organic toolbox: a guide to integrating biocatalysis in synthesis. Chem. Soc. Rev. 41, 1585–1605.\r</p>",
@@ -681,7 +733,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1k"
+          "_anchor": "content1-1k",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -693,7 +746,8 @@
             "Thème"
           ],
           "_name": "header3",
-          "_anchor": "header3-1g"
+          "_anchor": "header3-1g",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>49.&nbsp;&nbsp;&nbsp;&nbsp;Yachnin, B. J.; Colin, D. Y.; Volpato, J. P.; Ebert, M.; Pelletier, J. N.; Berghuis, A. M. (2011) Novel crystallization conditions for tandem variant R67 DHFR yield a wild-type crystal structure. Acta Crystallogr., Sect. F: Struct. Biol. Cryst. Commun. 67, 1316-1322.\r</p><p>48.&nbsp;&nbsp;&nbsp;&nbsp;Bolduc, O. R., Lambert-Lanteigne, P., Colin, D.P., Shuo Zhao, S., Proulx, C., Boeglin, D., Lubell, W., Pelletier, J. N., Féthière, J., Ong, H. and Masson, J.-F. (2011) Peptidomimetic monolayer binding His-tagged biomolecules for small ligand screening with SPR biosensors. Analyst, 136, 3142-3148.\r</p><p>47.&nbsp;&nbsp;&nbsp;&nbsp;Tang, M-C., Nisole, A., Dupont, C., Pelletier, J.N. and Waldron, K.C. (2011) Chemical profiling of the deacetylase activity of acetyl xylan esterase A (AxeA) variants on chitooligosaccharides using hydrophilic interaction chromatography-mass spectrometry. J. Biotechnol. 155 257– 265\r</p><p>46.&nbsp;&nbsp;&nbsp;&nbsp;Volpato J.P., Mayotte N., Fossati E., Guerrero V., Sauvageau G., Pelletier J.N. (2011) Selectively weakened binding of methotrexate by human dihydrofolate reductase allows rapid ex vivo selection of mammalian cells. J Mol Recognit., 24 (2):188-98.\r</p><p>45.&nbsp;&nbsp;&nbsp;&nbsp;Banka S., Blom H.J., Walter J., Aziz M., Urquhart J., Clouthier C.M., Rice G.I., de Brouwer A.P., Hilton E., Vassallo G., Will A., Smith D.E., Smulders Y.M., Wevers R.A., Steinfeld R., Heales S., Crow Y.J., Pelletier J.N., Jones S., Newman W.G. (2011) Identification and characterization of an inborn error of metabolism caused by dihydrofolate reductase deficiency. Am J Hum Genet., 88 (2):216-25.</p>",
@@ -701,7 +755,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1j"
+          "_anchor": "content1-1j",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -713,7 +768,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1h"
+          "_anchor": "header3-1h",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>44.&nbsp;&nbsp;&nbsp;&nbsp;Morin S., Clouthier C.M., Gobeil S., Pelletier J.N., Gagné S.M. (2010) Backbone resonance assignments of an artificially engineered TEM-1/PSE-4 Class A beta-lactamase chimera. Biomol NMR Assign., 4 (2):127-30\n</p><p>43.&nbsp;&nbsp;&nbsp;&nbsp;Bolduc O.R., Pelletier J.N., Masson J.F. (2010) SPR Biosensing in Crude Serum Using Ultralow Fouling Binary Patterned Peptide SAM. Anal Chem., 82 (9):3699-706.</p>",
@@ -721,7 +777,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1g"
+          "_anchor": "content1-1g",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -733,7 +790,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3m"
+          "_anchor": "header3-3m",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>42.&nbsp;&nbsp;&nbsp;&nbsp;Doucet, N., and Pelletier, J. N. (2009) Gaining insight into enzyme function through correlation with protein motions. In: Protein Engineering Handbook. S. Lutz, and U. Bornscheuer, eds., Wiley-VCH, Weinheim pp187-211.\n</p><p>41.&nbsp;&nbsp;&nbsp;&nbsp;Gnaccarini C., Ben-Tahar W., Lubell W.D., Pelletier J.N., Keillor J.W. (2009) Fluorometric assay for tissue transglutaminase-mediated transamidation activity. Bioorg Med Chem., 17 (17): 6354-9.\n</p><p>40.&nbsp;&nbsp;&nbsp;&nbsp;Bolduc O.R., Clouthier C.M., Pelletier J.N., Masson J.F. (2009) Peptide self-assembled monolayers for label-free and unamplified surface plasmon resonance biosensing in crude cell lysate. Anal Chem., 81 (16): 6779-88.\n</p><p>39.&nbsp;&nbsp;&nbsp;&nbsp;Volpato J.P., Yachnin B.J., Blanchet J., Guerrero V., Poulin L., Fossati E., Berghuis A.M., Pelletier J.N. (2009) Multiple conformers in active site of human dihydrofolate reductase F31R/Q35E double mutant suggest structural basis for methotrexate resistance. J Biol Chem, 284 (30): 20079-89.\n</p><p>38.&nbsp;&nbsp;&nbsp;&nbsp;Pardin C., Roy I., Chica R.A., Bonneil E., Thibault P., Lubell W.D., Pelletier J.N., Keillor J.W. (2009) Photolabeling of tissue transglutaminase reveals the binding mode of potent cinnamoyl inhibitors. Biochemistry 48 (15): 3346-53.\n</p><p>37.&nbsp;&nbsp;&nbsp;&nbsp;Volpato J. P., and Pelletier J.N. (2009) Sequence and structural comparison of mammalian, bacterial and parasitic dihydrofolate reductases: cross-species mutational ‘hot-spots’ provide antifolate resistance. Drug Resistance Updates, 12 (1-2): 28-41.\n</p><p>36.&nbsp;&nbsp;&nbsp;&nbsp;De Wals P.-Y., Doucet N. and Pelletier J.N. (2009) High tolerance to simultaneous active-site mutations in TEM-1 beta-lactamase: Distinct mutational paths provide more generalized beta-lactam recognition. Protein Science, 18 (1): 147-160.</p>",
@@ -741,7 +799,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1i"
+          "_anchor": "content1-1i",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -753,7 +812,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3k"
+          "_anchor": "header3-3k",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>35.&nbsp;&nbsp;&nbsp;&nbsp;Fossati, E. Volpato, J. P., Poulin, L., Guerrero, V., Dugas, D. A. et Pelletier, J. N. (2008) Two-tier in vivo and in vitro selection of active and methotrexate-resistant variants of human dihydrofolate &nbsp; reductase. Journal of Biomolecular Screening, 13(6) 504-514.\n</p><p>34.&nbsp;&nbsp;&nbsp;&nbsp;Pardin, C., Pelletier, J. N., Keillor, J. W. and Lubell, W. D. (2008) Cinnamoyl inhibitors of tissue transglutaminase. Journal of Organic Chemistry, 73, 5766-5775.\n</p><p>33.&nbsp;&nbsp;&nbsp;&nbsp;Keillor, J. W., Chica, R. A., Chabot, N., Vinci, V., Pardin, C., Fortin, E., Gillet, S.M.F.G., Nakano, Y., Kaartinen, M., Pelletier, J. N. and Lubell, W.D. (2008) The Bioorganic Chemistry of Transglutaminase: From Mechanism to Inhibition and Engineering. Canadian Journal of Chemistry,86, 271-276.</p>",
@@ -761,7 +821,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3h"
+          "_anchor": "content1-3h",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -773,7 +834,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3c"
+          "_anchor": "header3-3c",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>32.&nbsp;&nbsp;&nbsp;&nbsp;Pelletier, J.N., De Wals, P.-Y., Doucet, N. and Volpato, J.P. (2007) Modifying enzyme specificity by combinatorial active site mutations. In: Molecular Interactions: Bringing Chemistry to Life. The 2006 Proceedings of the International Beilstein Workshop. M. Hicks &amp; C. Kettners, eds. pp 59 – 76.\n</p><p>31.&nbsp;&nbsp;&nbsp;&nbsp;M. Denault and J. N. Pelletier \"Protein library design and screening: Working out the probabilities\". Methods in Molecular Biology: Protein Engineering Protocols., Humana Press (2007)\n</p><p>*EXCEL SPREADSHEETS\n</p><p>30.&nbsp;&nbsp;&nbsp;&nbsp;J. Volpato, E. Fossati and J. N. Pelletier \"Increasing methotrexate resistance by combination of active-site mutations in human dihydrofolate reductase.\" J. Mol. Biol., 373, 599-611 (2007)\n</p><p>29.&nbsp;&nbsp;&nbsp;&nbsp;N. Doucet and J. N. Pelletier \"Simulated annealing exploration of an active-site tyrosine in TEM-1 ß-lactamase suggests the existence of alternate conformations.\" Proteins, 69, 340-348 (2007)\n</p><p>28.&nbsp;&nbsp;&nbsp;&nbsp;N. Doucet, P.-Y. Savard, J. N. Pelletier and S. M. Gagné \"NMR investigation of Tyr-105 mutants in TEM-1 ß-lactamase: Dynamics are correlated with function.\" J. Biol. Chem., 282, 21448-21459 (2007)\n</p><p>27.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier and Robert Lortie \"Sequence activity relationships guide directed evolution\" Nat. Biotechnol., 25, 297-298 (2007)</p>",
@@ -781,7 +843,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3i"
+          "_anchor": "content1-3i",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -793,7 +856,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3b"
+          "_anchor": "header3-3b",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>26.&nbsp;&nbsp;&nbsp;&nbsp;J. Puglia, T. Wang, C. Smith-Snyder, M. Cote, M. Scher, J. N. Pelletier, S. John, C. B. Jonsson and M. J. Roth. \"Revealing Domain Structure through Linker-Scanning Analysis of the Murine Leukemia Virus (MuLV) RNase H and MuLV and Human Immunodeficiency Virus Type 1 Integrase Proteins.\" J. Virol., 80, 9497-9510 (2006)\n</p><p>25.&nbsp;&nbsp;&nbsp;&nbsp;A. Nisole, F.-X. Lussier, K. L. Morley, F. Shareck, R. J. Kazlauskas, C. Dupont and J. N. Pelletier. \"Extracellular Production of Streptomyces lividans Acetyl-xylan Esterase A in Escherichia coli for Rapid Detection of Activity.\" Protein Expr. Purif., 46, 274-284 (2006)</p>",
@@ -801,7 +865,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3j"
+          "_anchor": "content1-3j",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -813,7 +878,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3e"
+          "_anchor": "header3-3e",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>24.&nbsp;&nbsp;&nbsp;&nbsp;S. M. F. G. Gillet, J. N. Pelletier and J. W. Keillor. \"A Direct Fluorometric Assay for Tissue Transglutaminase.\" Anal. Biochem., 347, 221-226 (2005)\n</p><p>23.&nbsp;&nbsp;&nbsp;&nbsp;R. A. Chica*, N. Doucet* and J. N. Pelletier. \"Engineering enzyme activity by semi-rational approaches: combining the benefits of directed evolution and rational design.\" Curr. Opin. Biotechnol., 16, 378-384 (2005) (*Equal contribution)\n</p><p>22.&nbsp;&nbsp;&nbsp;&nbsp;L. Berrou, Y. Dodier, A. Raybaud, A. Tousignant, O. Dafi, J. N. Pelletier and L. Parent. \"The C-terminal Residues in the Alpha-interacting Domain (AID) Helix Anchor CaV {beta} Subunit Interaction and Modulation of CaV2.3 Channels.\" J. Biol. Chem., 280, 494-505 (2005)</p>",
@@ -821,7 +887,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3g"
+          "_anchor": "content1-3g",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -833,7 +900,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3d"
+          "_anchor": "header3-3d",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>21.&nbsp;&nbsp;&nbsp;&nbsp;A.R. Schmitzer, F. Lépine and J. N. Pelletier. \"Combinatorial exploration of the catalytic site of a drug-resistant dihydrofolate reductase: creating alternative functional configurations.\" Protein Eng. Des. Sel., 11, 17, 809-819 (2004)\r</p><p>20.&nbsp;&nbsp;&nbsp;&nbsp;N. Doucet, P.-Y. De Wals and J. N. Pelletier. \"Site-saturation mutagenesis of Tyr105 reveals its importance in substrate stabilization and discrimination in TEM-1 ß-lactamase.\" J. Biol. Chem., 279, 46295-46303 (2004)\r</p><p>19.&nbsp;&nbsp;&nbsp;&nbsp;A. Tousignant and J. N. Pelletier. \"Protein motions promote catalysis.\" Chemistry &amp; Biology, 11, 1037-1042 (2004)\r</p><p>18.&nbsp;&nbsp;&nbsp;&nbsp;R. A. Chica, P. Gagnon, J. W. Keillor and J. N. Pelletier. \"Tissue transglutaminase acylation: Proposed role of conserved active site Tyr and Trp residues revealed by molecular modelling of peptide substrate binding.\" Protein Science, 13, 979-991 (2004)\r</p><p>17.&nbsp;&nbsp;&nbsp;&nbsp;S. M. F. G. Gillet, R. A. Chica, J. W. Keillor and J. N. Pelletier. \"Expression and rapid purification of highly active hexahistidine-tagged guinea pig liver transglutaminase.\" Protein Expr. Purif., 33, 256-264 (2004)</p>",
@@ -841,7 +909,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3f"
+          "_anchor": "content1-3f",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -853,7 +922,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-39"
+          "_anchor": "header3-39",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>16.&nbsp;&nbsp;&nbsp;&nbsp;K. M. Arndt, J. N. Pelletier, K. M. Muller, A. Pluckthun and T. Alber. \"Comparison of In Vivo Selection and Rational Design of Heterodimeric Coiled Coils.\" Structure 10, 1235-1248 (2002)\r</p><p>15.&nbsp;&nbsp;&nbsp;&nbsp;P. Amstutz, J. N. Pelletier, A. Guggisberg, L. Jermutus, S. Cesaro-Tadic, C. Zahnd and A. Plückthun. \"In vitro selection for catalytic activity with ribosome display.\" J. Am. Chem. Soc. 124(32), 9396-403 (2002)</p>",
@@ -861,7 +931,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3l"
+          "_anchor": "content1-3l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -873,7 +944,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-31"
+          "_anchor": "header3-31",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>14.&nbsp;&nbsp;&nbsp;&nbsp;Remy, J. N. Pelletier, A. Galarneau and S. W. Michnick. \"Dynamic visualisation and library screening of protein interactions in living cells with protein fragment complementation strategies\". Protein-protein interactions: A molecular cloning laboratory manual, J. Sambrook, ed., Cold Spring Harbour Laboratory Press (2001)\n</p><p>13.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier and S. Sidhu. \"Mapping protein-protein interactions with combinatorial biology methods\" Curr. Opin. Biotechnol. 12, 340-347 (2001)\n</p><p>12.&nbsp;&nbsp;&nbsp;&nbsp;L. Jermutus and J. N. Pelletier. \"Creating and evaluating protein diversity\" Curr. Opin. Biotechnol. 12, 331-333 (2001)\n</p><p>11.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier. \"A RACHITT for our toolbox\" Nature Biotech. 19, 314-315 (2001)\n</p>",
@@ -881,7 +953,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3a"
+          "_anchor": "content1-3a",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -893,7 +966,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-33"
+          "_anchor": "header3-33",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>10.&nbsp;&nbsp;&nbsp;&nbsp;S. W. Michnick, I. Remy, F.-X. Campbell-Valois, A. Vallée-Bélisle and J. N. Pelletier. Detection of protein-protein interactions with protein fragment complementation strategies. Methods in Enzymology, 328, 208-230 (2000)\n</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;K. M. Arndt, J. N. Pelletier, K. M. Müller, T. Alber, S. W. Michnick and A. Plückthun. \"A heterodimeric coiled-coil pair selected in vivo from a designed library-vs-library ensemble.\" J. Mol. Biol. 295, 627-639 (2000)</p>",
@@ -901,7 +975,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-37"
+          "_anchor": "content1-37",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -913,7 +988,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-32"
+          "_anchor": "header3-32",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>8.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier, K.M. Arndt, A. Plückthun and S.W. Michnick. \"An in vivo library-vs-library selection of optimized protein-protein interactions.\" Nature Biotech. 17:683-690 (1999)\r</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier, I. Remy and S. W. Michnick. \"Protein-fragment complementation assays: A general strategy for in vivo detection of protein-protein interactions.\" J. Biomol. Tech. 10: 32-40 (1999)</p>",
@@ -921,7 +997,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-38"
+          "_anchor": "content1-38",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -933,7 +1010,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-30"
+          "_anchor": "header3-30",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>6.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier, F.-X. Campbell-Valois and S. W. Michnick. \"Oligomerization domain-directed reassembly of active dihydrofolate reductase from rationally designed fragments.\" Proc. Nat. Acad. Sci. USA 95: 12141-12146 (1998)\n</p>",
@@ -941,7 +1019,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-36"
+          "_anchor": "content1-36",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -953,7 +1032,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2z"
+          "_anchor": "header3-2z",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>5.&nbsp;&nbsp;&nbsp;&nbsp;J. N. Pelletier and S. W. Michnick. \"A Strategy for Detecting Protein-Protein Interactions in vivo Based on Protein Fragment Complementation.\" Protein Engineering 10 supp: 89 (1997)\n</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;M. Allaire, Y. Li, N. Mejia, J. N. Pelletier, R. E. MacKenzie and M. Cygler. \"Crystallization of the Bifunctional Methylenetetrahydrofolate Dehydrogenase/ Methenyltetrahydrofolate Cyclohydrolase Domain of the Human Trifunctional Enzyme.\" Proteins, 26:479-480 (1997)</p>",
@@ -961,7 +1041,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-35"
+          "_anchor": "content1-35",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -973,7 +1054,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2x"
+          "_anchor": "header3-2x",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>3.&nbsp; &nbsp; J. N. Pelletier and R. E. MacKenzie. \"Methenyltetrahydrofolate Cyclohydrolase Catalyzes the Synthesis of (6S)-5-Formyltetrahydrofolate.\" Bioorganic Chemistry, 24: 220-228 (1996)\n</p>",
@@ -981,7 +1063,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2y"
+          "_anchor": "content1-2y",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "dropdown-menu",
@@ -1045,7 +1128,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2o"
+          "_anchor": "dropdown-menu-2btn-2o",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1057,7 +1141,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-34"
+          "_anchor": "header3-34",
+          "_sourceTheme": "default"
         },
         {
           "text": "2. J. N. Pelletier and R. E. MacKenzie. \"Binding and Interconversion of Tetrahydrofolates at a Single Site in the Bifunctional Methylenetetrahydrofolate Dehydrogenase/ Cyclohydrolase.\" Biochemistry, 34: 12673-12680 (1995)",
@@ -1070,7 +1155,8 @@
             "DIV": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1082,7 +1168,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2t"
+          "_anchor": "header3-2t",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>1.&nbsp; &nbsp; J. N. Pelletier and R.E. MacKenzie. \"Binding to the 2',5'-ADP Subsite Stimulates Cyclohydrolase Activity of Human NADP+-dependent Methylenetetrahydrofolate Dehydrogenase/ Cyclohydrolase.\" Biochemistry, 33:1900-1906 (1994)</p>",
@@ -1090,7 +1177,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2u"
+          "_anchor": "content1-2u",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1121,7 +1209,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1141,7 +1230,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2q"
+          "_anchor": "footer1-2q",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -1214,7 +1304,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2l"
+          "_anchor": "dropdown-menu-2btn-2l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1392,7 +1483,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-5v"
+          "_anchor": "features1-5v",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1570,7 +1662,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-5w"
+          "_anchor": "features1-5w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -1617,7 +1710,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4n"
+          "_anchor": "content5-4n",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1648,7 +1742,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1668,7 +1763,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2n"
+          "_anchor": "footer1-2n",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -1741,7 +1837,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1y"
+          "_anchor": "dropdown-menu-2btn-1y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1758,7 +1855,8 @@
             "H3": {
               "font-size": "30px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>The complexity of enzyme catalysis, consisting of ligand recognition and exquisite discrimination followed by rapid catalytic turnover, has traditionally been difficult to study. Recent developments in molecular modelling of macromolecules and powerful molecular biological methodologies now offer new approaches for improving our understanding of enzyme structure-function relationships. Our research program combines these methodologies to explore the fundamentals of enzyme catalysis. The benefits of better understanding enzyme catalysis are numerous: we are gaining a better understanding of enzyme-based drug resistances and are modifying enzymes for synthetic applications. Currently, there is a pressing for development of complementary strategies to provide greater detail about the nature of enzyme-ligand interactions for applications including drug design and biocatalysis. To improve our capacity to modify enzymes for synthetic purposes, we are gaining additional insight into the plasticity of enzyme active sites by distinguishing the elements that are indispensable for function from those that can be altered. We develop and apply methodologies that enhance the speed, power and information-content of the various steps implicated in enzyme engineering.</p><p></p>",
@@ -1771,7 +1869,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1798,7 +1897,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-7a"
+          "_anchor": "image2-7a",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1810,7 +1910,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-23"
+          "_anchor": "header3-23",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>Transglutaminases (TGase) catalyse the formation of crosslinks between proteins or peptides. In humans, the TGase-mediated cross-linking of proteins is implicated in blood clotting, endocytosis, apoptosis and can also lead to physiological disorders such as cataract formation and Celiac disease. It is thus a target for drug design. In a long-standing collaboration with Professor Jeffrey Keillor (Ottawa U.), we generated a model for the binding of small acyl-donor peptide substrates to mammalian tissue transglutaminase toward the development of model substrates and inhibitors (Chica et al. (2004) Prot. Sci. 13(4):979-991), and explored the use of non-native substrates (Keillor et al.(2008) Canadian J. Chemistry,86, 271-276. Making use of new assays such as this fluorometric assay for transamidation activity (Gnaccarini et al. (2009) . Bioorg Med Chem., 17 (17): 6354-9) we discovered potent cinnamoyl inhibitors of mammalian TGase (Pardin et al.(2009) Biochemistry 48 (15): 3346-53; Pardin et al. (2008) J. Organic Chemistry, 73, 5766-5775.</p>",
@@ -1823,7 +1924,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1851,7 +1953,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-25"
+          "_anchor": "image2-25",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>In a bid to develop its use as a biocatalyst, we also demonstrated site-specific protein propargylation using mammalian tissue transglutaminase (Gnaccarini et al.(2012) Org. Biomol. Chem.DOI: 10.1039/C2OB25752A). We have more recently turned<b> </b>to microbial transglutaminases (MTG) as a green alternative to amide synthesis. MTG is widely used in the food and textile industries. MTG is tolerant to a broad range of reaction conditions and is therefore suitable for further development as a biocatalyst. We investigated a wide range of non-natural, small-molecule substrates, which were chosen to explore enzyme reactivity and to yield synthetically relevant products. Our results indicate that a variety of amines function as an acceptor substrate, but stricter requirements apply for the donor substrate. Importantly, we demonstrated that MTG can be used to add an alkyne or an azide onto a peptide chain, for ulterior 'Click' reaction (Gundersen et al., Appl Microbiol Biotechnol DOI 10.1007/s00253-013-4886-x).</p><p>__________________________________________________________________________________________________</p>",
@@ -1864,7 +1967,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1876,7 +1980,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-27"
+          "_anchor": "header3-27",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>Biomarkers are specific molecules that correlate with the progression of diseases or with the susceptibility of a disease to a given treatment. They are useful indicators for monitoring the state of progression or the treatment of a particular disease. We are developing protocols for monitoring different cancer-related biomarkers using surface plasmon resonance (SPR). The attachment of a particular protein of interest on gold surface allows for specific detection of protein-protein interaction or binding of a target molecule of interest using SPR. For example the attachment of an antibody on a gold surface allows for the detection of its specific antigen in clinical samples or the attachment of a specific antigen on the surface may allow for monitoring the level of antibody, a useful indicator of the course of treatment of many diseases.</p>",
@@ -1892,7 +1997,8 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-28"
+          "_anchor": "content1-28",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1919,7 +2025,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-29"
+          "_anchor": "image2-29",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>We are developing protocols adaptable to a new portable SPR device designed by Professor Jean-François Masson. We developed and patented different types of surface monolayers preventing non-specific adsorption that allow for SPR detection of specific molecules using crude serum (Ratel et al., Anal Chem 2013, 85, 5770-5777; Aubé et al., Langmuir 2013, 29, 10141-10148; Bolduc et al., Analyst 2011, 136, 3142-3148; Bolduc et al., Anal Chem 2010, 82, 3699-3706; Bolduc et al., Anal Chem 2009, 81, 6779-6788). We employ this approach for monitoring methotrexate in clinical samples of cancer patients (Zhao et al., Analyst 2012, 137, 4742-4750). We are now developing different new SPR assays for monitoring cancer-related biomarkers and bacterial infections. We are working on improving the sensitivity of detection by optimizing both the physical and the biological aspects of the SPR system. Our work includes protein engineering and surface chemistry to work out new SPR protocols for improving the accessibility of diagnosis by monitoring the progression, the course of treatment or the screening of different diseases.</p><p>__________________________________________________________________________________________________</p>",
@@ -1932,7 +2039,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1944,7 +2052,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2b"
+          "_anchor": "header3-2b",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>The continuously increasing use of trimethoprim as a common antibiotic for medical use and its preventive application in terrestrial and aquatic animal farming has increased its prevalence in the environment. This has been accompanied by increased drug resistance, generally in the form of alterations in the drug target, dihydrofolate reductase (DHFR). The most highly resistant variants of DHFR are known as type II DHFRs, among which R67 DHFR is the most broadly studied variant. It is imperative to discover inhibitors of this new source of antibiotic resistance, to maintain the efficacy of trimethoprim in treatment of diseases including pneumonia, gonorrhea and adventitious infections in AIDS patients.\n</p><p>\n</p><p>We have reported the first specific inhibitors of this emerging drug target, obtained by fragment-based design (Bastien et al. (2012) J. Med. Chem. 55, 3182-3192.). We developed a functional screening platform for the identification of selective inhibitors of the bacterial antibiotic-resistance enzyme, R67 DHFR. The platform is based on semiautomated determination of enzymatic activity in the presence of a variety of fragments, or simple compounds similar to the native ligands of the enzyme, to assess inhibition. We observed that a variety of small aromatic compounds offer millimolar range inhibition of R67 DHFR, which is consistent with the proposed “primitive” nature of its relatively promiscuous binding site (Schmitzer et al. Protein Eng. Des. Sel., 11, 17, 809-819 (2004)). By those means, small aromatic molecules of 150−250 g/mol (fragments) inhibiting R67 DHFR selectively in the low millimolar range were identified. Weakly inhibiting molecules provided the basis for testing compounds of greater complexity, which provided an increase in affinity from millimolar to micromolar. More complex, symmetrical bis-benzimidazoles and a bis-carboxyphenylprocured selective inhibition of the target in the low micromolar range (Ki = 2−4 μM). Molecular docking using our high-resolution crystal structure (Yachnin et al. (2011) Acta Crystallogr. F 67, 1316-1322) offered insights into the binding mode of these inhibitors. Importantly, we screened the human DHFR in parallel with R67 DHFR to identify compounds with the best prospects for selective inhibition. Thus, we identified a new class of selective, symmetrical, and competitive inhibitors of R67 DHFR.</p><p>We are currently working on the next generation of R67 DHFR inhibitors.\n</p><p>__________________________________________________________________________________________________</p>",
@@ -1957,7 +2066,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1969,7 +2079,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2d"
+          "_anchor": "header3-2d",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>Beta-lactamase production has become a world-wide contributor of bacterial resistance to widely-used clinical antibiotics such as penicillins and cephalosporins. Class A beta-lactamases have become extensively studied model enzymes. The high rate of occurrence of mutated enzymes capable of hydrolysing higher generation cephalosporins has stimulated research on the mechanisms of beta-lactamase adaptation to these new substrates, to understand the molecular basis of this evolutionary chain of events. By performing directed evolution where concurrent mutations were focussed within the active-site cavity, we observed a high tolerance to simultaneous active-site mutations in TEM-1 beta-lactamase, as well as distinct mutational paths which provide more generalized substrate recognition (P.-Y. De Wals et al. (2009) Protein Science, 18 (1): 147-160).\n</p><p>\n</p><p>By way of mutagenesis, enzyme kinetics, protein NMR dynamics and molecular simulations, we showed that the conserved residue Tyr105, which delineates one of the edges of the active site cavity, serves as a 'gate-keeping' residue, conferring selectivity for the incoming substrates. The adopted conformation of residue 105 prevents detrimental steric interactions with the substrate in the active site cavity and provides a rationalization for the strong aromatic bias found in nature at this position among Class-A beta-lactamases. (N. Doucet, P.-Y. De Wals and J. N. Pelletier (2004) J. Biol. Chem. 279 (44): 46295-46303). We performed simulated annealing of tyrosine 105 in TEM-1 ß-lactamase. It suggested the existence of alternate conformations (N. Doucet and J. N. Pelletier (2007) Proteins, 69, 340-348). These were further investigated using protein NMR spectroscopy. The number and magnitude of short and long range effects on (1)H-(15)N chemical shifts were correlated with the catalytic efficiencies of Tyr105X mutants. In addition, (15)N relaxation experiments revealed that several active-site residues display altered motions on both picosecond-nanosecond and microsecond-millisecond time scales despite many being far away from the site of mutation. The altered motions may account for the decreased catalytic efficiency, suggesting that short and long range residue motions could play an important catalytic role in TEM-1 beta-lactamase (N. Doucet et al. (2007) J. Biol. Chem., 282, 21448-21459).\n</p><p>\n</p><p><br></p>",
@@ -1982,7 +2093,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2009,7 +2121,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-2f"
+          "_anchor": "image2-2f",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>To better understand , we investigated laboratory-evolved 'chimeric' beta-lactamases, that are constituted of alternating blocks from TEM-1 and fromthe contribution of dynamics to catalysis in beta-lactamases PSE-4 beta-lactamases (Voigt et al., Nat. Struct. Biol. 2002 9:553). We characterized a series of functional TEM-1/PSE-4 chimeras possessing between 17 and 92 substitutions relative to TEM-1 β-lactamase. Circular dichroism and thermal scanning fluorimetry revealed that the chimeras were generally well folded. Despite harbouring important sequence variation relative to either of the two 'parental' β-lactamases, the chimeric β-lactamases displayed substrate recognition spectra and reactivity similar to their most closely-related parent (Clouthier et al. (2012) PLoS One. 7(12):e52283). NMR backbone resonance assignments confirmed the native-like fold of the chimera with 17 substitutions, consistent with its native-like activity (S. Morin et al. (2010) Biomol NMR Assign., 4 (2):127-30). To gain further insight into the changes induced by chimerization, that chimera was investigated by NMR spin relaxation. While high order was conserved on the ps-ns timescale, a hallmark of class A β-lactamases, evidence of additional slow motions on the µs-ms timescale was extracted from model-free calculations. This is consistent with the greater number of resonances that could not be assigned in this chimera relative to the parental β-lactamases, and is consistent with this well-folded and functional chimeric β-lactamase displaying increased slow time-scale motions (Clouthier et al. (2012) PLoS One. 7(12):e52283).</p><p>__________________________________________________________________________________________________</p>",
@@ -2022,7 +2135,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2053,7 +2167,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2073,7 +2188,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-20"
+          "_anchor": "footer1-20",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -2146,7 +2262,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2i"
+          "_anchor": "dropdown-menu-2btn-2i",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2199,7 +2316,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2p"
+          "_anchor": "content5-2p",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -2270,7 +2388,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2m"
+          "_anchor": "msg-box4-2m",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2322,7 +2441,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2r"
+          "_anchor": "msg-box3-2r",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2374,7 +2494,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2t"
+          "_anchor": "msg-box3-2t",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2426,7 +2547,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2u"
+          "_anchor": "msg-box3-2u",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2478,7 +2600,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-64"
+          "_anchor": "msg-box3-64",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2509,7 +2632,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2529,7 +2653,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2k"
+          "_anchor": "footer1-2k",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -2602,7 +2727,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2v"
+          "_anchor": "dropdown-menu-2btn-2v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2655,7 +2781,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2w"
+          "_anchor": "content5-2w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -2725,7 +2852,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2x"
+          "_anchor": "msg-box4-2x",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2778,7 +2906,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2y"
+          "_anchor": "msg-box3-2y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2830,7 +2959,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2z"
+          "_anchor": "msg-box3-2z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2882,7 +3012,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-30"
+          "_anchor": "msg-box3-30",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2934,7 +3065,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-33"
+          "_anchor": "msg-box3-33",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -2986,7 +3118,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-34"
+          "_anchor": "msg-box3-34",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3017,7 +3150,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3037,7 +3171,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-32"
+          "_anchor": "footer1-32",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3110,7 +3245,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-35"
+          "_anchor": "dropdown-menu-2btn-35",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3163,7 +3299,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-36"
+          "_anchor": "content5-36",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3233,7 +3370,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-37"
+          "_anchor": "msg-box4-37",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3286,7 +3424,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-38"
+          "_anchor": "msg-box3-38",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3338,7 +3477,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-39"
+          "_anchor": "msg-box3-39",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3390,7 +3530,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3a"
+          "_anchor": "msg-box3-3a",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3442,7 +3583,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3b"
+          "_anchor": "msg-box3-3b",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3494,7 +3636,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3f"
+          "_anchor": "msg-box3-3f",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3546,7 +3689,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3c"
+          "_anchor": "msg-box3-3c",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3577,7 +3721,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3597,7 +3742,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3e"
+          "_anchor": "footer1-3e",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3670,7 +3816,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3g"
+          "_anchor": "dropdown-menu-2btn-3g",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3723,7 +3870,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-3h"
+          "_anchor": "content5-3h",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3793,7 +3941,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3i"
+          "_anchor": "msg-box4-3i",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3846,7 +3995,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3f"
+          "_anchor": "msg-box3-3f",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3898,7 +4048,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3e"
+          "_anchor": "msg-box3-3e",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3950,7 +4101,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3d"
+          "_anchor": "msg-box3-3d",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -4002,7 +4154,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3g"
+          "_anchor": "msg-box3-3g",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -4054,7 +4207,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-61"
+          "_anchor": "msg-box3-61",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4085,7 +4239,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4105,7 +4260,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3p"
+          "_anchor": "footer1-3p",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -4178,7 +4334,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3q"
+          "_anchor": "dropdown-menu-2btn-3q",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4356,7 +4513,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-63"
+          "_anchor": "features1-63",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4534,7 +4692,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-5p"
+          "_anchor": "features1-5p",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4711,7 +4870,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3g"
+          "_anchor": "features1-3g",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4888,7 +5048,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3h"
+          "_anchor": "features1-3h",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5064,7 +5225,8 @@
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5238,7 +5400,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3u"
+          "_anchor": "features1-3u",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5413,7 +5576,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3v"
+          "_anchor": "features1-3v",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5587,7 +5751,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3w"
+          "_anchor": "features1-3w",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5761,7 +5926,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3x"
+          "_anchor": "features1-3x",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5935,7 +6101,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-3y"
+          "_anchor": "features1-3y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6111,7 +6278,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-41"
+          "_anchor": "features1-41",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6287,7 +6455,8 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features1-42"
+          "_anchor": "features1-42",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6318,7 +6487,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6338,7 +6508,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3s"
+          "_anchor": "footer1-3s",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -6411,7 +6582,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2v"
+          "_anchor": "dropdown-menu-2btn-2v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -6482,7 +6654,8 @@
           "meta": "Professor Daniela Quaglia",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://www.danielaquaglia.com/about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-5c"
+          "_anchor": "msg-box4-5c",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6652,7 +6825,8 @@
               "font-size": "32px"
             }
           },
-          "_anchor": "features1-2y"
+          "_anchor": "features1-2y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6683,7 +6857,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-2w"
+          "_anchor": "contacts2-2w",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6703,7 +6878,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2x"
+          "_anchor": "footer1-2x",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -6776,7 +6952,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-35"
+          "_anchor": "dropdown-menu-2btn-35",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -6829,7 +7006,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-36"
+          "_anchor": "content5-36",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -6899,7 +7077,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-37"
+          "_anchor": "msg-box4-37",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -6951,7 +7130,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-38"
+          "_anchor": "msg-box3-38",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7003,7 +7183,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-39"
+          "_anchor": "msg-box3-39",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7055,7 +7236,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3a"
+          "_anchor": "msg-box3-3a",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7107,7 +7289,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3b"
+          "_anchor": "msg-box3-3b",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7159,7 +7342,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3c"
+          "_anchor": "msg-box3-3c",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -7190,7 +7374,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-3d"
+          "_anchor": "contacts2-3d",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -7210,7 +7395,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3e"
+          "_anchor": "footer1-3e",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -7283,7 +7469,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2v"
+          "_anchor": "dropdown-menu-2btn-2v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -7336,7 +7523,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2w"
+          "_anchor": "content5-2w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -7406,7 +7594,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2x"
+          "_anchor": "msg-box4-2x",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7458,7 +7647,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2y"
+          "_anchor": "msg-box3-2y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7510,7 +7700,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2z"
+          "_anchor": "msg-box3-2z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7562,7 +7753,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-30"
+          "_anchor": "msg-box3-30",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7614,7 +7806,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2v"
+          "_anchor": "msg-box3-2v",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7666,7 +7859,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-31"
+          "_anchor": "msg-box3-31",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -7718,7 +7912,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-32"
+          "_anchor": "msg-box3-32",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -7749,7 +7944,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-33"
+          "_anchor": "contacts2-33",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -7769,7 +7965,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-34"
+          "_anchor": "footer1-34",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -7842,7 +8039,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3f"
+          "_anchor": "dropdown-menu-2btn-3f",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -7895,7 +8093,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-3g"
+          "_anchor": "content5-3g",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -7965,7 +8164,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3h"
+          "_anchor": "msg-box4-3h",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8017,7 +8217,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3i"
+          "_anchor": "msg-box3-3i",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8069,7 +8270,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3j"
+          "_anchor": "msg-box3-3j",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8121,7 +8323,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3k"
+          "_anchor": "msg-box3-3k",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8173,7 +8376,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3m"
+          "_anchor": "msg-box3-3m",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -8204,7 +8408,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-3n"
+          "_anchor": "contacts2-3n",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -8224,7 +8429,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3o"
+          "_anchor": "footer1-3o",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -8297,7 +8503,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3p"
+          "_anchor": "dropdown-menu-2btn-3p",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -8350,7 +8557,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-3q"
+          "_anchor": "content5-3q",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -8420,7 +8628,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3r"
+          "_anchor": "msg-box4-3r",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8472,7 +8681,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3s"
+          "_anchor": "msg-box3-3s",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8524,7 +8734,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3t"
+          "_anchor": "msg-box3-3t",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8576,7 +8787,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3u"
+          "_anchor": "msg-box3-3u",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8628,7 +8840,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3w"
+          "_anchor": "msg-box3-3w",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -8659,7 +8872,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-3x"
+          "_anchor": "contacts2-3x",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -8679,7 +8893,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3y"
+          "_anchor": "footer1-3y",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -8752,7 +8967,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-49"
+          "_anchor": "dropdown-menu-2btn-49",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -8805,7 +9021,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4a"
+          "_anchor": "content5-4a",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -8875,7 +9092,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-4b"
+          "_anchor": "msg-box4-4b",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8927,7 +9145,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4c"
+          "_anchor": "msg-box3-4c",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -8979,7 +9198,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4d"
+          "_anchor": "msg-box3-4d",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9031,7 +9251,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4e"
+          "_anchor": "msg-box3-4e",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9083,7 +9304,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4g"
+          "_anchor": "msg-box3-4g",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -9114,7 +9336,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-4h"
+          "_anchor": "contacts2-4h",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -9134,7 +9357,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-4i"
+          "_anchor": "footer1-4i",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -9207,7 +9431,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-4j"
+          "_anchor": "dropdown-menu-2btn-4j",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -9260,7 +9485,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4k"
+          "_anchor": "content5-4k",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -9330,7 +9556,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-4l"
+          "_anchor": "msg-box4-4l",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9382,7 +9609,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4m"
+          "_anchor": "msg-box3-4m",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9434,7 +9662,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4n"
+          "_anchor": "msg-box3-4n",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9486,7 +9715,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4o"
+          "_anchor": "msg-box3-4o",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9538,7 +9768,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4p"
+          "_anchor": "msg-box3-4p",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9590,7 +9821,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4q"
+          "_anchor": "msg-box3-4q",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -9621,7 +9853,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-4r"
+          "_anchor": "contacts2-4r",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -9641,7 +9874,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-4s"
+          "_anchor": "footer1-4s",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -9714,7 +9948,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2w"
+          "_anchor": "dropdown-menu-2btn-2w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -9767,7 +10002,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2x"
+          "_anchor": "content5-2x",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -9837,7 +10073,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2y"
+          "_anchor": "msg-box4-2y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9889,7 +10126,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2z"
+          "_anchor": "msg-box3-2z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9941,7 +10179,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-30"
+          "_anchor": "msg-box3-30",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -9993,7 +10232,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-31"
+          "_anchor": "msg-box3-31",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10045,7 +10285,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-33"
+          "_anchor": "msg-box3-33",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10097,7 +10338,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-34"
+          "_anchor": "msg-box3-34",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -10128,7 +10370,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-35"
+          "_anchor": "contacts2-35",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -10148,7 +10391,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-36"
+          "_anchor": "footer1-36",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -10221,7 +10465,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-50"
+          "_anchor": "dropdown-menu-2btn-50",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10263,7 +10508,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3h"
+          "_anchor": "msg-box3-3h",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -10322,7 +10568,8 @@
           ],
           "meta": "Valikhani, D.,&nbsp; Bolivar, J.M., Pelletier, J.N. (2021). An Overview of Cytochrome P450 Immobilization Strategies for Drug Metabolism Studies, Biosensing, and Biocatalytic Applications: Challenges and Opportunities. ACS. Catal. 11, XXX, 9418–9434&nbsp;<br>",
           "_name": "content5",
-          "_anchor": "content5-2v"
+          "_anchor": "content5-2v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -10397,7 +10644,8 @@
           "meta": "ACS Catalysis",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://doi.org/10.1371/journal.pone.0210100\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW ARTICLE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2w"
+          "_anchor": "msg-box4-2w",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10441,7 +10689,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3d"
+          "_anchor": "msg-box3-3d",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -10500,7 +10749,8 @@
           ],
           "meta": "Alejaldre, L., Pelletier, J.N., Quaglia , D.,(2021) Methods for enzyme library creation: Which one will you choose? A guide for novices and experts to introduce genetic diversity",
           "_name": "content5",
-          "_anchor": "content5-2x"
+          "_anchor": "content5-2x",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -10572,7 +10822,8 @@
           "meta": "A guide for novices and experts to introduce genetic diversity",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://doi.org/10.26434/chemrxiv.12118914.v1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW ARTICLE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-5y"
+          "_anchor": "msg-box4-5y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10616,7 +10867,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5z"
+          "_anchor": "msg-box3-5z",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -10675,7 +10927,8 @@
           ],
           "meta": "<b>Abdelhadi Djaileb</b>, Benjamin Charron, Maryam Hojjat Jodaylami, Vincent Thibault, Julien Coutu, Keisean Stevenson, Simon Forest, Ludovic S. Live, Denis Boudreau, <b>Joelle N. Pelletier</b>, Jean-Francois Masson (2020): A Rapid and Quantitative Serum Test for SARS-CoV-2 Antibodies with Portable Surface Plasmon Resonance Sensing. ChemRxiv.",
           "_name": "content5",
-          "_anchor": "content5-60"
+          "_anchor": "content5-60",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -10747,7 +11000,8 @@
           "meta": "ChemRxiv, Biochemical Analysis",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://doi.org/10.26434/chemrxiv.12118914.v1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW ARTICLE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2z"
+          "_anchor": "msg-box4-2z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10791,7 +11045,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3f"
+          "_anchor": "msg-box3-3f",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -10850,7 +11105,8 @@
           ],
           "meta": "Alejaldre, L., Lemay-St-Denis, C., Perez, C., Sancho Jodar, F., Guallar, V. and Pelletier, J.N. Known evolutionary paths are accessible to engineered ß-lactamases having altered protein motions at the timescale of catalytic turnover. Front. Mol. Biosci.",
           "_name": "content5",
-          "_anchor": "content5-56"
+          "_anchor": "content5-56",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -10922,7 +11178,8 @@
           "meta": "Frontiers in Molecular Biosciences,Structural biology&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://pubs.acs.org/doi/10.1021/acsomega.9b00640\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW ARTICLE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-55"
+          "_anchor": "msg-box4-55",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -10966,7 +11223,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3e"
+          "_anchor": "msg-box3-3e",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -10997,7 +11255,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-51"
+          "_anchor": "contacts2-51",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11017,7 +11276,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-52"
+          "_anchor": "footer1-52",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -11044,7 +11304,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research_themes.html\">Research themes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Last_articles.html\">Latest articles</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Joelle_Pelletier.html\" aria-expanded=\"false\">Pr. Joelle N. Pelletier</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Current members</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Donya.html\" aria-expanded=\"false\"><p>Donya Valikhani</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Adem_Parisien.html\" aria-expanded=\"false\">Adem H. Parisien</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Claudele_Lemay-St-Denis.html\" aria-expanded=\"false\"><p>Claudèle Lemay St-Denis</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Ali_Fendri.html\" aria-expanded=\"false\">Ali Fendri</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JonathanBesna.html\" aria-expanded=\"false\">Jonathan N. Besna</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"KianaLafontaine.html\" aria-expanded=\"false\">Kiana Lafontaine</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Stella-Cellier-Goetghebeur.html\" aria-expanded=\"false\">Stella&nbsp;Cellier-Goetghebeur</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Hadi.html\" aria-expanded=\"false\">Abdelhadi Djaileb&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Megan-Faye_Parker.html\" aria-expanded=\"false\">Megan-Faye Parker</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Maxime_Saint-Aubin.html\" aria-expanded=\"false\">Maxime Saint-Aubin</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Visitors.html\" aria-expanded=\"false\">Visitors</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Interns.html\" aria-expanded=\"false\">Interns</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-2b\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://esilrch1.esi.umontreal.ca/~pelletjo/PageFR/Accueil\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research_themes.html\">Research themes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Last_articles.html\">Latest articles</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Joelle_Pelletier.html\" aria-expanded=\"false\">Pr. Joelle N. Pelletier</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Current members</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Donya.html\" aria-expanded=\"false\"><p>Donya Valikhani</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Adem_Parisien.html\" aria-expanded=\"false\">Adem H. Parisien</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Claudele_Lemay-St-Denis.html\" aria-expanded=\"false\"><p>Claudèle Lemay St-Denis</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Ali_Fendri.html\" aria-expanded=\"false\">Ali Fendri</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JonathanBesna.html\" aria-expanded=\"false\">Jonathan N. Besna</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"KianaLafontaine.html\" aria-expanded=\"false\">Kiana Lafontaine</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Stella-Cellier-Goetghebeur.html\" aria-expanded=\"false\">Stella&nbsp;Cellier-Goetghebeur</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Hadi.html\" aria-expanded=\"false\">Abdelhadi Djaileb&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Megan-Faye_Parker.html\" aria-expanded=\"false\">Megan-Faye Parker</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Maxime_Saint-Aubin.html\" aria-expanded=\"false\">Maxime Saint-Aubin</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Visitors.html\" aria-expanded=\"false\">Visitors</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Interns.html\" aria-expanded=\"false\">Interns</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-2b\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://esilrch1.esi.umontreal.ca/~pelletjo/PageFR/Accueil\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -11093,7 +11353,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1f"
+          "_anchor": "dropdown-menu-2btn-1f",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -11146,7 +11407,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-3p"
+          "_anchor": "content5-3p",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11173,7 +11435,7 @@
             "overlayOpacity": "0.8"
           },
           "headerAlign": "left",
-          "header": "LAB NEWS &nbsp;<br> &nbsp;",
+          "header": "NEWS &nbsp;<br> &nbsp;",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -11196,7 +11458,7 @@
             }
           },
           "title1": "TRAVEL AWARDS GRANTED FOR PROTEIN SOCIETY SYMPOSIUM - POSTER PRESENTATIONS",
-          "caption1": "&nbsp;Congratulations to Adem H.-Parisien and Jonathan Besna for their Protein Society Travel Award and EDI Travel Award. The Protein Society Annual Symposium 2022 (PS36) takes place July 7-10, in San Francisco, California.<br>",
+          "caption1": "&nbsp;Congratulations to Adem H.-Parisien and Jonathan Besna for their Protein Society Travel Awards Grants. The Protein Society Annual Symposium 2022 (PS36) takes place July 7-10, in San Francisco, California.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.proteinsociety.org/page/PROGRAM-AND-SPEAKERS\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
@@ -11218,8 +11480,8 @@
               "size": 0
             }
           },
-          "title2": "NEW SUMMER INTERNS AND NEW GRADUATE STUDENTS ACCEPTED - 2022<div></div>",
-          "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br>Welcome to Megan Faye-Parker and Maxime Saint-Onges, two new master students.",
+          "title2": "NEW SUMMER INTERNS - 2022<div></div>",
+          "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br><br>Meet the new faces on the Intern page!",
           "button2": "<a data-app-btn=\"true\" href=\"Interns.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MEET THE INTERNS</a>",
           "media3": {
             "image": {
@@ -11241,9 +11503,9 @@
               "size": 0
             }
           },
-          "title3": "<div>PRESENTATION  AWARDS AT THE 4th PROTEIN ENGINEERING CANADA CONFERENCE 2022</div>",
-          "caption3": "Congratulations to Adem H.-Parisien for his talk award and to Claudèle Lemay St-Denis for her poster presentation prize! Both will be presenting their posters at the upcoming Protein Society Annual Symposium 2022 (PS36).",
-          "button3": "<a data-app-btn=\"true\" href=\"https://event.fourwaves.com/pec2022/pages\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "title3": "RECENT GRADUATE STUDENTS ACCEPTED<div><br></div>",
+          "caption3": "The Joelle Pelletier Lab is happy to welcome two new graduate students:&nbsp; Maxime Saint-Aubin and Megan-Faye Parker (IRSC scholarship recipient).<br>&nbsp;<br>Read more about their projects in the members column!",
+          "button3": "<a data-app-btn=\"true\" href=\"Megan-Faye_Parker.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -11307,7 +11569,7 @@
               "size": 0
             }
           },
-          "title6": "FIRST PRIZE POSTER PRESENTATION AWARDS AT THE 21st PROTEO SYMPOSIUM 2022",
+          "title6": "FIRST PLACE POSTER PRESENTATION AWARDS FOR THE 21st PROTEO SYMPOSIUM 2022",
           "caption6": "Congratulations to Stella Cellier-Goetghebeur and Jonathan Besna for first place prizes at the 2022 PROTEO Symposium, held on May 13th.&nbsp;<br><br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://proteo.ca/en/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
@@ -11326,7 +11588,8 @@
               "font-size": "16px",
               "color": "#222222"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11353,7 +11616,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-77"
+          "_anchor": "image2-77",
+          "_sourceTheme": "default"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -11448,7 +11712,8 @@
               "color": "#ffffff",
               "text-align": "center"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11479,7 +11744,8 @@
             "DIV": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11499,7 +11765,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-1d"
+          "_anchor": "footer1-1d",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -11572,7 +11839,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3z"
+          "_anchor": "dropdown-menu-2btn-3z",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -11625,7 +11893,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-40"
+          "_anchor": "content5-40",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -11695,7 +11964,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-41"
+          "_anchor": "msg-box4-41",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -11747,7 +12017,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-42"
+          "_anchor": "msg-box3-42",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -11799,7 +12070,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-43"
+          "_anchor": "msg-box3-43",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -11851,7 +12123,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-44"
+          "_anchor": "msg-box3-44",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -11903,7 +12176,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-45"
+          "_anchor": "msg-box3-45",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11934,7 +12208,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-47"
+          "_anchor": "contacts2-47",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -11954,7 +12229,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-48"
+          "_anchor": "footer1-48",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -12027,7 +12303,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-5a"
+          "_anchor": "dropdown-menu-2btn-5a",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -12080,7 +12357,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-5d"
+          "_anchor": "content5-5d",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12097,7 +12375,8 @@
             "H3": {
               "font-size": "20px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>\n</p><div>Notions of chemical organization in biological systems. Structure, physical properties, reactivity, biomolecules analysis and applications. Introduction to the fields of biophysical, bioanalytical, bioorganic and bioinorganic chemistry.<br></div>",
@@ -12105,7 +12384,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-5f"
+          "_anchor": "content1-5f",
+          "_sourceTheme": "default"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://admission.umontreal.ca/en/cours-et-horaires/cours/chm-2501/?fbclid=IwAR2GIyjKAZXddQ3rLMh3ySjM44IYlTysxX_TOhqLT4yEpvrogi1PpTr5aXM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a> ",
@@ -12113,7 +12393,8 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-5h"
+          "_anchor": "buttons1-5h",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12130,7 +12411,8 @@
               "font-size": "20px"
             }
           },
-          "_anchor": "header3-5k"
+          "_anchor": "header3-5k",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>\n</p><div>Conjugated compounds; polyenes and aromatics. UV-visible spectroscopy. Electrophilic aromatic substitution and concerted reactions. Biologically significant compounds. Advanced NMR spectroscopy.</div>",
@@ -12138,7 +12420,8 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-5l"
+          "_anchor": "content1-5l",
+          "_sourceTheme": "default"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://admission.umontreal.ca/en/cours-et-horaires/cours/chm-2302/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a> ",
@@ -12146,7 +12429,8 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-5m"
+          "_anchor": "buttons1-5m",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -12199,7 +12483,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2z"
+          "_anchor": "content5-2z",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12216,7 +12501,8 @@
               "font-size": "20px"
             }
           },
-          "_anchor": "header3-2w"
+          "_anchor": "header3-2w",
+          "_sourceTheme": "default"
         },
         {
           "text": "<p>\n</p><div>Concepts derived from nature that transform chemistry, including: self-assembly, molecular switches, biocatalysis, molecular library selection, medicinal chemistry, nanotechnology and synthetic biology.\n</div>",
@@ -12225,7 +12511,8 @@
           ],
           "_name": "content1",
           "_params": {},
-          "_anchor": "content1-2x"
+          "_anchor": "content1-2x",
+          "_sourceTheme": "default"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://admission.umontreal.ca/cours-et-horaires/cours/chm-3331/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a> ",
@@ -12234,7 +12521,8 @@
           ],
           "_name": "buttons1",
           "_params": {},
-          "_anchor": "buttons1-2y"
+          "_anchor": "buttons1-2y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12265,7 +12553,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-5b"
+          "_anchor": "contacts2-5b",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12285,7 +12574,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-5c"
+          "_anchor": "footer1-5c",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -12358,7 +12648,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2v"
+          "_anchor": "dropdown-menu-2btn-2v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -12411,7 +12702,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2w"
+          "_anchor": "content5-2w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -12481,7 +12773,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2x"
+          "_anchor": "msg-box4-2x",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -12534,7 +12827,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2y"
+          "_anchor": "msg-box3-2y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -12586,7 +12880,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2z"
+          "_anchor": "msg-box3-2z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -12638,7 +12933,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-30"
+          "_anchor": "msg-box3-30",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -12690,7 +12986,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-31"
+          "_anchor": "msg-box3-31",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -12742,7 +13039,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-32"
+          "_anchor": "msg-box3-32",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12773,7 +13071,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-33"
+          "_anchor": "contacts2-33",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -12793,7 +13092,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-34"
+          "_anchor": "footer1-34",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -12866,7 +13166,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-4d"
+          "_anchor": "dropdown-menu-2btn-4d",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -12919,7 +13220,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4e"
+          "_anchor": "content5-4e",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -12990,7 +13292,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-4f"
+          "_anchor": "msg-box4-4f",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13044,7 +13347,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4g"
+          "_anchor": "msg-box3-4g",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13096,7 +13400,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4h"
+          "_anchor": "msg-box3-4h",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13148,7 +13453,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4i"
+          "_anchor": "msg-box3-4i",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13200,7 +13506,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4j"
+          "_anchor": "msg-box3-4j",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13252,7 +13559,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4k"
+          "_anchor": "msg-box3-4k",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -13283,7 +13591,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-4l"
+          "_anchor": "contacts2-4l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -13303,7 +13612,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-4m"
+          "_anchor": "footer1-4m",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -13376,7 +13686,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-3t"
+          "_anchor": "dropdown-menu-2btn-3t",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -13429,7 +13740,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-3u"
+          "_anchor": "content5-3u",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -13500,7 +13812,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3v"
+          "_anchor": "msg-box4-3v",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13554,7 +13867,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3w"
+          "_anchor": "msg-box3-3w",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13606,7 +13920,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3x"
+          "_anchor": "msg-box3-3x",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13658,7 +13973,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3y"
+          "_anchor": "msg-box3-3y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13710,7 +14026,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3z"
+          "_anchor": "msg-box3-3z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -13762,7 +14079,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-40"
+          "_anchor": "msg-box3-40",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -13793,7 +14111,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-41"
+          "_anchor": "contacts2-41",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -13813,7 +14132,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-42"
+          "_anchor": "footer1-42",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -13886,7 +14206,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-4r"
+          "_anchor": "dropdown-menu-2btn-4r",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -13939,7 +14260,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4s"
+          "_anchor": "content5-4s",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -14010,7 +14332,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-4t"
+          "_anchor": "msg-box4-4t",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14064,7 +14387,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4u"
+          "_anchor": "msg-box3-4u",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14116,7 +14440,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4v"
+          "_anchor": "msg-box3-4v",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14168,7 +14493,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4w"
+          "_anchor": "msg-box3-4w",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14220,7 +14546,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-4y"
+          "_anchor": "msg-box3-4y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -14251,7 +14578,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-4z"
+          "_anchor": "contacts2-4z",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -14271,7 +14599,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-50"
+          "_anchor": "footer1-50",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -14344,7 +14673,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-51"
+          "_anchor": "dropdown-menu-2btn-51",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -14397,7 +14727,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-52"
+          "_anchor": "content5-52",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -14468,7 +14799,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-53"
+          "_anchor": "msg-box4-53",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14522,7 +14854,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-54"
+          "_anchor": "msg-box3-54",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14574,7 +14907,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-55"
+          "_anchor": "msg-box3-55",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14626,7 +14960,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-56"
+          "_anchor": "msg-box3-56",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14678,7 +15013,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-58"
+          "_anchor": "msg-box3-58",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -14730,7 +15066,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-59"
+          "_anchor": "msg-box3-59",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -14761,7 +15098,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-5a"
+          "_anchor": "contacts2-5a",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -14781,7 +15119,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-5b"
+          "_anchor": "footer1-5b",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -14854,7 +15193,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-5d"
+          "_anchor": "dropdown-menu-2btn-5d",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -14907,7 +15247,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-5e"
+          "_anchor": "content5-5e",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -14978,7 +15319,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-5f"
+          "_anchor": "msg-box4-5f",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15031,7 +15373,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5g"
+          "_anchor": "msg-box3-5g",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15083,7 +15426,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5h"
+          "_anchor": "msg-box3-5h",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15135,7 +15479,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5i"
+          "_anchor": "msg-box3-5i",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15187,7 +15532,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5j"
+          "_anchor": "msg-box3-5j",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15239,7 +15585,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5k"
+          "_anchor": "msg-box3-5k",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15270,7 +15617,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-5l"
+          "_anchor": "contacts2-5l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15290,7 +15638,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-5m"
+          "_anchor": "footer1-5m",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -15363,7 +15712,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-65"
+          "_anchor": "dropdown-menu-2btn-65",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15394,7 +15744,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-66"
+          "_anchor": "contacts2-66",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15414,7 +15765,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-67"
+          "_anchor": "footer1-67",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -15487,7 +15839,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-6b"
+          "_anchor": "dropdown-menu-2btn-6b",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -15540,7 +15893,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6c"
+          "_anchor": "content5-6c",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -15590,7 +15944,7 @@
             }
           },
           "title": "STELLA CELLIER-GOETGHEBEUR",
-          "text": "<p>M. Sc. Student, Biochemistry</p><p>Department of biochemistry</p><p><br></p><p>Université de Montréal<br></p><p>- MIL campus - B-6227<br></p><p>- @ : <a href=\"mailto:stella.cellier-goetghebeur@umontreal.ca\" class=\"text-warning\">stella.cellier-goetghebeur@umontreal.ca</a><br></p>",
+          "text": "<p>Ph. D. Student, Biochemistry</p><p>Department of biochemistry</p><p><br></p><p>Université de Montréal<br></p><p>- MIL campus - B-6227<br></p><p>- @ : <a href=\"mailto:stella.cellier-goetghebeur@umontreal.ca\" class=\"text-warning\">stella.cellier-goetghebeur@umontreal.ca</a><br></p>",
           "_tags": [
             "Thème"
           ],
@@ -15611,7 +15965,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6d"
+          "_anchor": "msg-box4-6d",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15665,7 +16020,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6e"
+          "_anchor": "msg-box3-6e",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15717,7 +16073,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6f"
+          "_anchor": "msg-box3-6f",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15769,7 +16126,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6g"
+          "_anchor": "msg-box3-6g",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -15821,7 +16179,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6h"
+          "_anchor": "msg-box3-6h",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15852,7 +16211,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-6j"
+          "_anchor": "contacts2-6j",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -15872,7 +16232,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-6k"
+          "_anchor": "footer1-6k",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -15896,7 +16257,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research_themes.html\">Research themes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Last_articles.html\">Latest articles</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Joelle_Pelletier.html\" aria-expanded=\"false\">Pr. Joelle N. Pelletier</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Current members</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Donya.html\" aria-expanded=\"false\"><p>Donya Valikhani</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Adem_Parisien.html\" aria-expanded=\"false\">Adem H. Parisien</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Claudele_Lemay-St-Denis.html\" aria-expanded=\"false\"><p>Claudèle Lemay St-Denis</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Ali_Fendri.html\" aria-expanded=\"false\">Ali Fendri</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JonathanBesna.html\" aria-expanded=\"false\">Jonathan N. Besna</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"KianaLafontaine.html\" aria-expanded=\"false\">Kiana Lafontaine</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Stella-Cellier-Goetghebeur.html\" aria-expanded=\"false\">Stella&nbsp;Cellier-Goetghebeur</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Hadi.html\" aria-expanded=\"false\">Abdelhadi Djaileb&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Megan-Faye_Parker.html\" aria-expanded=\"false\">Megan-Faye Parker</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Maxime_Saint-Aubin.html\" aria-expanded=\"false\">Maxime Saint-Aubin</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Visitors.html\" aria-expanded=\"false\">Visitors</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Interns.html\" aria-expanded=\"false\">Interns</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-2b\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://esilrch1.esi.umontreal.ca/~pelletjo/PageFR/Accueil\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research_themes.html\">Research themes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Last_articles.html\">Latest articles</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Joelle_Pelletier.html\" aria-expanded=\"false\">Pr. Joelle N. Pelletier</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Current members</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Donya.html\" aria-expanded=\"false\"><p>Donya Valikhani</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Adem_Parisien.html\" aria-expanded=\"false\">Adem H. Parisien</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Claudele_Lemay-St-Denis.html\" aria-expanded=\"false\"><p>Claudèle Lemay St-Denis</p></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Ali_Fendri.html\" aria-expanded=\"false\">Ali Fendri</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JonathanBesna.html\" aria-expanded=\"false\">Jonathan N. Besna</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"KianaLafontaine.html\" aria-expanded=\"false\">Kiana Lafontaine</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Stella-Cellier-Goetghebeur.html\" aria-expanded=\"false\">Stella&nbsp;Cellier-Goetghebeur</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Hadi.html\" aria-expanded=\"false\">Abdelhadi Djaileb&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Megan-Faye_Parker.html\" aria-expanded=\"false\">Megan-Faye Parker</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Maxime_Saint-Aubin.html\" aria-expanded=\"false\">Maxime Saint-Aubin</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Visitors.html\" aria-expanded=\"false\">Visitors</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Interns.html\" aria-expanded=\"false\">Interns</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-2b\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://esilrch1.esi.umontreal.ca/~pelletjo/PageFR/Accueil\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -15945,7 +16306,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-6l"
+          "_anchor": "dropdown-menu-2btn-6l",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -15998,7 +16360,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6m"
+          "_anchor": "content5-6m",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -16069,7 +16432,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6n"
+          "_anchor": "msg-box4-6n",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16122,7 +16486,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6o"
+          "_anchor": "msg-box3-6o",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16168,13 +16533,14 @@
           },
           "title": "Education\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; B.Sc. 2021 (Biochemistry), Département de Biochimie - Honors, Université de Montréal, Canada</p>",
+          "text": "<p>•&nbsp; &nbsp; M.Sc. 2021 (Biochemistry), Département de Biochimie, Université de Sherbrooke, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6p"
+          "_anchor": "msg-box3-6p",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16220,13 +16586,14 @@
           },
           "title": "Research Experience\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;05/2021 - 12/2021: Undergraduate internship, ELISA characterization of immune response of Anti-Spike IgG Antibody levels in non-hospitalized individuals against COVID-19. Joelle Pelletier Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;07/2018 - 08/2018: Collaborative internship, Héma-Québec, Québec.</p>",
+          "text": "<p>• &nbsp; &nbsp;09/2018 - 04/2019: Undergraduate internship, Maturation of microRNAs associated with stress-related behavior, Pascale Legault Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate internship, Characterization of variants of TEM-1 β-lactamase, Joelle Pelletier Lab, Université de Montréal, Canada</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6q"
+          "_anchor": "msg-box3-6q",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16272,13 +16639,14 @@
           },
           "title": "Scholarship and Awards\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• 08/2022 - 08/2024: CREATE-APRENTICE Scholarship Trainee Program - uOttawa (NSERC)&nbsp;&nbsp;</p><p>• 08/2022 - 08/2024: CIHR Grant - Master's Studentships&nbsp; &nbsp;&nbsp;</p><p>• 05/2022: NORVATIS Prize - Oral presentation - 55th Research Intern Convention&nbsp;</p><p>• 05/2021 - 08/2021: PROTEO Grant - Summer internship (declined) </p><p>• 05/2021 - 08/2021: PREMIER Grant - Summer internship (accepted)</p><p>\n</p><p>\n</p>",
+          "text": "<p>• 08/2022 - 08/2024: IRSC Grant - Master's Studentships&nbsp; &nbsp;&nbsp;</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6r"
+          "_anchor": "msg-box3-6r",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16330,7 +16698,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6s"
+          "_anchor": "msg-box3-6s",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -16361,7 +16730,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-6t"
+          "_anchor": "contacts2-6t",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -16381,7 +16751,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-6u"
+          "_anchor": "footer1-6u",
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -16454,7 +16825,8 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-6v"
+          "_anchor": "dropdown-menu-2btn-6v",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -16507,7 +16879,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6w"
+          "_anchor": "content5-6w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -16578,7 +16951,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6x"
+          "_anchor": "msg-box4-6x",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16631,7 +17005,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6y"
+          "_anchor": "msg-box3-6y",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16683,7 +17058,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-6z"
+          "_anchor": "msg-box3-6z",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16735,7 +17111,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-70"
+          "_anchor": "msg-box3-70",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16787,7 +17164,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-71"
+          "_anchor": "msg-box3-71",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -16839,7 +17217,8 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-72"
+          "_anchor": "msg-box3-72",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -16870,7 +17249,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-73"
+          "_anchor": "contacts2-73",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -16890,7 +17270,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-74"
+          "_anchor": "footer1-74",
+          "_sourceTheme": "default"
         }
       ]
     }
