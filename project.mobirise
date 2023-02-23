@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index.html",
+    "currentPage": "index_en.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20607,13 +20607,13 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "headerAlign": "left",
@@ -21166,13 +21166,13 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "headerAlign": "left",
