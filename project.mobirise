@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index_en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 397,
+    "uniqCompNum": 400,
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/th-1-128x93_1.png",
@@ -1079,7 +1079,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1255,7 +1255,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1788,7 +1788,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2213,7 +2213,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2678,7 +2678,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3196,7 +3196,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3767,7 +3767,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4285,7 +4285,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6533,7 +6533,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6903,7 +6903,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7420,7 +7420,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7990,7 +7990,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -8454,7 +8454,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -8918,7 +8918,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -9382,7 +9382,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -9899,7 +9899,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -10416,7 +10416,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -11301,7 +11301,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -11765,7 +11765,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -12110,7 +12110,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -12628,7 +12628,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -13148,7 +13148,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -13668,7 +13668,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -14135,7 +14135,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -14655,7 +14655,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -15174,7 +15174,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -15641,7 +15641,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -16160,7 +16160,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -16682,7 +16682,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -17168,7 +17168,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -17281,7 +17281,7 @@
           "title": "Thèmes de recherche",
           "meta": "Intérêts de recherche : Ingénierie des protéines, biocatalyse, enzymologie, biologie structurale, modélisation moléculaire et dynamique des protéines.<br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"research.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -17924,7 +17924,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Les monooxygénases P450 sont des enzymes contenant un groupement hème, qui sont utilisées en biocatalyse. Ces dernières années, l'utilisation des enzymes P450 comme biocatalyseurs a suscité un intérêt croissant en raison de leur capacité à effectuer des réactions hautement sélectives dans des conditions douces, réduisant ainsi l'impact environnemental des processus chimiques. La P450 BM3 de Bacillus megaterium hydroxyle divers substrats en utilisant le NADPH et l'oxygène moléculaire. Des mutations près de l'hème ont élargi sa gamme de substrats au-delà des acides gras. Les méthodes colorimétriques, telles que les essais basés sur les colonies bactériennes, accélèrent le dépistage de nouveaux substrats. L'élargissement de la gamme de substrats de la P450 BM3 pour les réactions industrielles pertinentes améliorerait l'efficacité et la durabilité en réduisant la dépendance à l'égard des catalyseurs chimiques agressifs. Cette enzyme polyvalente pourrait être utilisée dans les secteurs de la pharmacie, de l'agrochimie et de la chimie fine, donnant accès à de nouveaux échafaudages chimiques et à des stéréoisomères pour des produits de grande valeur.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -17944,7 +17944,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "L'adaptation de l'enzyme P450 BM3 à un système de réacteur à flux pourrait permettre de relever certains défis tels que la dépendance coûteuse aux cofacteurs, la réutilisation de l'enzyme et l'efficacité du découplage. La chimie en flux consiste à effectuer des réactions chimiques dans un réacteur à flux, tel qu'un dispositif capillaire ou micro-structuré, le temps de séjour déterminant alors le temps de réaction. Les réactifs sont d'abord pompés à travers un dispositif de mélange, puis conduits dans un réacteur à flux à température contrôlée. La technologie de la chimie en flux permet de mieux contrôler les paramètres de réaction, tels que le mélange, les concentrations, la température ou le temps de réaction. Cela signifie que nous pouvons tirer parti de réactions plus productives, plus sélectives et plus propres. Il s'agit d'une approche qui offre un meilleur contrôle de la réaction et réduit les réactions secondaires. Elle est donc radicalement différente de la chimie traditionnelle qui consiste à effectuer des réactions dans des flacons en verre ou dans des réacteurs à agitation continue.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -18268,7 +18268,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -18377,7 +18377,7 @@
           "title": "Research Themes",
           "meta": "Research interests : Protein Engineering, Biocatalysis, Enzymology, Structural Biology, Molecular Modelling and Protein Dynamics",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">FRANCAIS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"recherche.html\" data-toolbar=\"-mbrBtnMove\">FRANCAIS</a>",
           "_tags": [
             "Theme"
           ],
@@ -19020,7 +19020,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "P450 monooxygenases are heme-containing enzymes used in biocatalysis. In recent years, there has been increasing interest in using P450 enzymes as biocatalysts due to their ability to perform highly selective reactions under mild conditions, reducing the environmental impact of chemical processes. P450 BM3 from Bacillus megaterium hydroxylates various substrates using NADPH and molecular oxygen. Mutations near the heme have expanded its substrate range beyond fatty acids. Colorimetric methods, such as bacterial colony-based assays, accelerate substrate screening. Expanding P450 BM3's substrate range for industrially relevant reactions would improve efficiency and sustainability by reducing reliance on harsh chemical catalysts. This versatile enzyme could be used in pharmaceuticals, agrochemicals, and fine chemicals, providing access to new chemical scaffolds and stereoisomers for high-value products.\n<br>\n<br>\n<br>\n<br>",
+          "caption1": "<br>P450 monooxygenases are heme-containing enzymes used in biocatalysis. In recent years, there has been increasing interest in using P450 enzymes as biocatalysts due to their ability to perform highly selective reactions under mild conditions, reducing the environmental impact of chemical processes. P450 BM3 from Bacillus megaterium hydroxylates various substrates using NADPH and molecular oxygen. Mutations near the heme have expanded its substrate range beyond fatty acids. Colorimetric methods, such as bacterial colony-based assays, accelerate substrate screening. Expanding P450 BM3's substrate range for industrially relevant reactions would improve efficiency and sustainability by reducing reliance on harsh chemical catalysts. This versatile enzyme could be used in pharmaceuticals, agrochemicals, and fine chemicals, providing access to new chemical scaffolds and stereoisomers for high-value products.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -19040,7 +19040,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Adapting the P450 BM3 enzyme to a flow reactor system could address certain challenges such as costly cofactor dependency, enzyme reusability and uncoupling efficiency. Flow chemistry is the process of performing chemical reactions in a flow reactor, such as a capillary or micro- structured device, then, the residence time determines the reaction time. The reactants are first pumped through a mixing device and then driven into a controlled temperature flow reactor; the technology of the flow chemistry makes it possible to better control the reaction parameters, such as the mixing, concentrations, the temperature or the reaction time. This means that we can take advantage of more productive, selective and cleaner reactions. It is an approach that offers better reaction control and reduces side reactions, therefore radically different from the traditional chemistry of performing reactions in glass vials or Continuous stirred-tank reactors.\n<br>\n<br><br><br>",
+          "caption2": "<br>Adapting the P450 BM3 enzyme to a flow reactor system could address certain challenges such as costly cofactor dependency, enzyme reusability and uncoupling efficiency. Flow chemistry is the process of performing chemical reactions in a flow reactor, such as a capillary or micro- structured device, then, the residence time determines the reaction time. The reactants are first pumped through a mixing device and then driven into a controlled temperature flow reactor; the technology of the flow chemistry makes it possible to better control the reaction parameters, such as the mixing, concentrations, the temperature or the reaction time. This means that we can take advantage of more productive, selective and cleaner reactions. It is an approach that offers better reaction control and reduces side reactions, therefore radically different from the traditional chemistry of performing reactions in glass vials or Continuous stirred-tank reactors.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -19135,7 +19135,7 @@
             "showTitles": false,
             "showCaptions": false,
             "showButtons": false,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "columns": 5,
             "bgImageRadio": false,
@@ -19366,7 +19366,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#999ca5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -19398,7 +19398,7 @@
             }
           },
           "title": "JOELLE PELLETIER",
-          "text": "<p>Professeur titulaire / Tenured Professor,&nbsp; Département de Chimie, Université de Montréal&nbsp;</p><p>Professeur accrédité / Accredited professor, Département de Biochimie, Université de Montréal<br></p><p>VP Recherche / VP of Research, Affinité Instruments </p><p>Après avoir complété son doctorat en biochimie à l'Université McGill, Dr Pelletier a effectué des études postdoctorales à l'Université de Montréal (Dr. S. Michnick) et à l'Universität Zürich (Dr. A. Plückthun). Elle a été récipiendaire du prix Clara-Benson en 2021 (Canadian Council of University Chemistry Chairs) et détient la Chaire de Recherche du Canada en ingénierie des protéines appliquées. Elle est présentement co-directrice du Canadian Green Chemistry and Engineering Network (CGCEN) et est conseillère technique du Green Centre Canada.</p><p>After completing her Ph.D. in Biochemistry at McGill University, Dr. Pelletier did postdoctoral studies at the University of Montreal (Dr. S. Michnick) and at the Universität Zürich (Dr. A. Plückthun). She was the recipient of the Clara Benson Award in 2021 (Canadian Council of University Chemistry Chairs) and holds the Canada Research Chair in Applied Protein Engineering. She is currently co-director of the Canadian Green Chemistry and Engineering Network (CGCEN) and is a technical advisor to Green Centre Canada.</p><p><a href=\"page30.html#bottom\" class=\"text-primary\">Contact us / Contactez nous!</a></p>",
+          "text": "<p>Professeur titulaire / Tenured Professor,&nbsp; Département de Chimie, Université de Montréal&nbsp;</p><p>Professeur accrédité / Accredited professor, Département de Biochimie, Université de Montréal<br></p><p>VP Recherche / VP of Research, Affinité Instruments </p><p>Après avoir complété son doctorat en biochimie à l'Université McGill, Dr Pelletier a effectué des études postdoctorales à l'Université de Montréal (Dr. S. Michnick) et à l'Universität Zürich (Dr. A. Plückthun). Elle a été récipiendaire du prix Clara-Benson en 2021 (Canadian Council of University Chemistry Chairs) et détient la Chaire de Recherche du Canada en ingénierie des protéines appliquées. Elle est présentement co-directrice du Canadian Green Chemistry and Engineering Network (CGCEN) et est conseillère technique du Green Centre Canada.</p><p>After completing her Ph.D. in Biochemistry at McGill University, Dr. Pelletier did postdoctoral studies at the University of Montreal (Dr. S. Michnick) and at the Universität Zürich (Dr. A. Plückthun). She was the recipient of the Clara Benson Award in 2021 (Canadian Council of University Chemistry Chairs) and holds the Canada Research Chair in Applied Protein Engineering. She is currently co-director of the Canadian Green Chemistry and Engineering Network (CGCEN) and is a technical advisor to Green Centre Canada.</p><p><a href=\"team_members.html#bottom\" class=\"text-warning\">Contact us / Contactez nous!</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -19415,7 +19415,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Scholar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://ca.linkedin.com/in/joelle-n-pelletier-0834619b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a>",
           "_name": "msg-box4",
           "_sourceTheme": "default",
           "_anchor": "msg-box4-7g"
@@ -19433,7 +19433,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -19515,7 +19515,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/daniela-quaglia-512x512.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/daniela-quaglia-600x400.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19534,11 +19534,11 @@
           },
           "title1": "Daniela Quaglia, Ph.D., MBA",
           "caption1": "Conseillère principale recherche / Principal consultant of research<br>COVID, Dégradation enzymatique du plastique / Enzymatic plastic degradation",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/danielaquaglia/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn<br></a> <a data-app-btn=\"true\" href=\"https://twitter.com/dny_q?lang=en\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Twitter<br></a> <a data-app-btn=\"true\" href=\"http://www.danielaquaglia.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Website<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/danielaquaglia/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn<br></a> <a data-app-btn=\"true\" href=\"https://twitter.com/dny_q?lang=en\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Twitter<br></a> <a data-app-btn=\"true\" href=\"http://www.danielaquaglia.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Website<br></a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hadi2-1-600x1082.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/hadi2-2-600x1082.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19557,12 +19557,16 @@
           },
           "title2": "Abdelhadi Djaileb, B.Sc.",
           "caption2": "Assistant de recherche / Research Assistant<br>COVID",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
+          "button2": " <a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/abdelhadi-djaileb-3b0080173\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a>",
           "media3": {
             "image": {
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/douglas-fansher-600x800.jpeg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -19575,13 +19579,12 @@
               "family": "Mobirise2",
               "link": "",
               "size": 0,
-              "color": "#c1c1c1",
-              "active": true
+              "color": "#c1c1c1"
             }
           },
           "title3": "Douglas Fansher, Ph.D.",
           "caption3": "Post-doc<br>P450",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/douglas-fansher-ab1b25163\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a> ",
           "media4": {
             "image": {
               "active": true,
@@ -19661,7 +19664,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
@@ -19832,7 +19835,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "4",
@@ -20230,7 +20233,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Dominic Bastien, M.Sc. : 2012\n<br>Natalia Timchenko, M.Sc. : 2011\n<br>Elena Fossati, M.Sc. : 2009\n<br>Jordan Volpato, Ph.D. : 2009\n<br>Pierre-Yves De Wals, M.Sc. : 2007\n<br>Roberto Antonio Chica, Ph.D. : 2007\n<br>Nicolas Doucet, Ph.D. : 2007\n<br>Tan Wang, M.Sc. : 2006",
+          "caption2": "Dominic Bastien, M.Sc. : 2012\n<br>Natalia Timchenko, M.Sc. : 2011\n<br>Elena Fossati, M.Sc. : 2009\n<br>Jordan Volpato, Ph.D. : 2009\n<br>Pierre-Yves De Wals, M.Sc. : 2007\n<br>Roberto Antonio Chica, Ph.D. : 2007\n<br>Nicolas Doucet, Ph.D. : 2007\n<br>Tan Wang, M.Sc. : 2006<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -20403,7 +20406,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -20543,13 +20546,165 @@
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index_en.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
           "_sourceTheme": "default",
           "_anchor": "msg-box3-b0"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "45",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpeg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BIENVENUE!",
+          "text": "<p>Notre groupe de recherche se consacre à l'avancement des connaissances sur les relations structure-fonction des enzymes afin de faciliter leur modification à des fins spécifiques. La modification d'enzymes est un domaine en pleine expansion en réponse aux nouvelles politiques promouvant l’application de catalyseurs respectueux de l’environnement. Notre approche implique la mutagenèse combinatoire de sites actifs d'enzymes, la sélection d'enzymes par évolution accélérée, et leur caractérisation à l'aide d'analyses cinétiques et structurelles, ainsi que la modélisation moléculaire assistée par ordinateur. Notre travail vise également à mieux comprendre la résistance aux médicaments induite par les enzymes dans le secteur des sciences de la santé. Notre travail interdisciplinaire en chimie bio-organique, biochimie et bio-informatique contribue au développement de l'enzymologie moderne.</p><p>\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#slider-97\" data-toolbar=\"-mbrBtnMove\">EN APPRENDRE PLUS</a>",
+          "_name": "msg-box4",
+          "_sourceTheme": "default",
+          "_anchor": "msg-box4-b1"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showBullets": true,
+            "bgColor": "#000000",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Nouveau projet sérologique sur la COVID-19",
+                "contentAlign": "center",
+                "text": "En collaboration avec les laboratoires de recherche de Jean-François Masson (U. de Montréal) et Denis Boudreau (U. Laval), l'aide d'organismes tels que Instruments Scientifiques Affinité, Héma-Québec ainsi que de nombreux autres collaborateurs, nous développons actuellement une approche combinée ELISA et SPR (Surface Plasmon Resonance) afin de quantifier et de caractériser les anticorps contre le virus SRAS-CoV-2.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"recherche.html\" data-toolbar=\"-mbrBtnMove\">Détails</a>  ",
+                "overlay": true,
+                "overlayColor": "#fac51c"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Transglutaminase microbienne<br><br>",
+                "contentAlign": "center",
+                "text": "Les transglutaminases catalysent la réticulation des protéines, en liant une amine (une lysine liée à une protéine ou à un peptide) à l'amide terminal d'une glutamine liée à une protéine ou à un peptide. Les transglutaminases sont de plus en plus utilisées dans les systèmes de marquage des protéines, où divers composés aminés sont liés aux protéines, ce qui confère aux protéines modifiées de nouvelles propriétés.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"recherche.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#b8312f"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Cytochromes P450<br><br>",
+                "contentAlign": "center",
+                "text": "Les cytochromes P450 oxydent les composés hydrophobes pour augmenter la capacité de l'organisme à éliminer ces composés. Les réactions d'oxydation qu'ils catalysent présentent un grand potentiel pour les applications biocatalytiques. Cependant, il est nécessaire d'adapter les cytochromes P450 pour qu'ils catalysent des réactions spécifiques, pertinentes pour l'industrie. Nous contribuons à un effort conjoint de calcul et d'expérimentation pour améliorer l'efficacité de l'évolution de cette classe d'enzymes.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"recherche.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
+                "overlay": true,
+                "overlayColor": "#27aae0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Dihydrofolate Réductases<br><br>",
+                "contentAlign": "center",
+                "text": "Les dihydrofolate réductases (ou Dfrs) sont essentielles dans toutes les cellules en division. Par conséquent, elles sont des cibles médicamenteuses cruciales dans les maladies prolifératives telles que le cancer et les infections bactériennes. Nous avons fait évoluer la Dfr humaine (hDfr) pour qu'elle soit hautement résistante au méthotrexate, un médicament de chimiothérapie, afin d'améliorer l'efficacité de la thérapie génique.<br>Les bactéries acquièrent de plus en plus un Dfr distinct, intrinsèquement résistant aux médicaments (DfrB1). Nous avons contribué à comprendre les propriétés de cette enzyme et avons découvert ses premiers inhibiteurs.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"recherche.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
+                "overlay": true,
+                "overlayColor": "#fac51c"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_sourceTheme": "default",
+          "_anchor": "slider-97"
         },
         {
           "_params": {
@@ -20560,7 +20715,7 @@
             "showCaptions": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
@@ -20600,7 +20755,7 @@
           },
           "title1": "BOURSES DE VOYAGE ACCORDÉES POUR LE SYMPOSIUM DE LA SOCIÉTÉ DES PROTÉINES - PRÉSENTATIONS D'AFFICHES",
           "caption1": "&nbsp;Félicitations à Adem H.-Parisien et Jonathan Besna pour leurs bourses de voyage de la Protein Society. Le symposium annuel 2022 de la Protein Society (PS36) aura lieu du 7 au 10 juillet, à San Francisco, en Californie.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.proteinsociety.org/page/PROGRAM-AND-SPEAKERS\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.proteinsociety.org/page/PROGRAM-AND-SPEAKERS\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DETAILS</a>",
           "media2": {
             "image": {
               "active": true,
@@ -20623,7 +20778,7 @@
           },
           "title2": "NOUVEAUX STAGIAIRES D'ÉTÉ - 2022<div></div>",
           "caption2": "Bienvenue aux 4 nouveaux stagiaires du laboratoire Joelle Pelletier et félicitations à Alexis Bonneau-Burke pour son prix de présentation d'affiche au 12e symposium annuel du CGCC!<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page30.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -20646,7 +20801,7 @@
           },
           "title3": "NOUVEAUX ÉTUDIANTS GRADUÉS<div><br></div>",
           "caption3": "Le laboratoire Joelle Pelletier&nbsp;est heureux d'accueillir deux nouveaux étudiants diplômés :  Maxime Saint-Aubin et Megan-Faye Parker (boursière de l'IRSC).",
-          "button3": "<a data-app-btn=\"true\" href=\"page30.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -20669,7 +20824,7 @@
           },
           "title4": "2 REVUES RÉCENTES ONT ÉTÉ PUBLIÉES&nbsp;",
           "caption4": "Cytochrome P450 Immobilization Strategies [...] a été publié dans ACS catalysis.<br>_________________________<br><br><i>Methods of mutagenesis and library creation</i> a été publié dans BioEssays.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLES</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media5": {
             "image": {
               "active": true,
@@ -20731,130 +20886,6 @@
           },
           "_sourceTheme": "default",
           "_anchor": "features1-95"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Photo du Laboratoire Joelle Pelletier - Été 2022",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-96"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "showBullets": true,
-            "bgColor": "#000000",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Nouveau projet sérologique sur la COVID-19",
-                "contentAlign": "center",
-                "text": "En collaboration avec les laboratoires de recherche de Jean-François Masson (U. de Montréal) et Denis Boudreau (U. Laval), l'aide d'organismes tels que Instruments Scientifiques Affinité, Héma-Québec ainsi que de nombreux autres collaborateurs, nous développons actuellement une approche combinée ELISA et SPR (Surface Plasmon Resonance) afin de quantifier et de caractériser les anticorps contre le virus SRAS-CoV-2.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">Détails</a>  ",
-                "overlay": true,
-                "overlayColor": "#fac51c"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Transglutaminase microbienne<br><br>",
-                "contentAlign": "center",
-                "text": "Les transglutaminases catalysent la réticulation des protéines, en liant une amine (une lysine liée à une protéine ou à un peptide) à l'amide terminal d'une glutamine liée à une protéine ou à un peptide. Les transglutaminases sont de plus en plus utilisées dans les systèmes de marquage des protéines, où divers composés aminés sont liés aux protéines, ce qui confère aux protéines modifiées de nouvelles propriétés.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "overlayColor": "#b8312f"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Cytochromes P450<br><br>",
-                "contentAlign": "center",
-                "text": "Les cytochromes P450 oxydent les composés hydrophobes pour augmenter la capacité de l'organisme à éliminer ces composés. Les réactions d'oxydation qu'ils catalysent présentent un grand potentiel pour les applications biocatalytiques. Cependant, il est nécessaire d'adapter les cytochromes P450 pour qu'ils catalysent des réactions spécifiques, pertinentes pour l'industrie. Nous contribuons à un effort conjoint de calcul et d'expérimentation pour améliorer l'efficacité de l'évolution de cette classe d'enzymes.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
-                "overlay": true,
-                "overlayColor": "#27aae0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Dihydrofolate Réductases<br><br>",
-                "contentAlign": "center",
-                "text": "Les dihydrofolate réductases (ou Dfrs) sont essentielles dans toutes les cellules en division. Par conséquent, elles sont des cibles médicamenteuses cruciales dans les maladies prolifératives telles que le cancer et les infections bactériennes. Nous avons fait évoluer la Dfr humaine (hDfr) pour qu'elle soit hautement résistante au méthotrexate, un médicament de chimiothérapie, afin d'améliorer l'efficacité de la thérapie génique.<br>Les bactéries acquièrent de plus en plus un Dfr distinct, intrinsèquement résistant aux médicaments (DfrB1). Nous avons contribué à comprendre les propriétés de cette enzyme et avons découvert ses premiers inhibiteurs.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">Détails</a> ",
-                "overlay": true,
-                "overlayColor": "#fac51c"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Dégradation enzymatique du plastique<br><br>",
-                "contentAlign": "center",
-                "text": "À venir!<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">Détails</a>  ",
-                "overlay": true,
-                "overlayColor": "#553982"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_sourceTheme": "default",
-          "_anchor": "slider-97"
         },
         {
           "_params": {
@@ -20934,7 +20965,7 @@
             "fontName": {},
             "fontColor": "#205896"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page34.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH /<br>&nbsp; &nbsp; &nbsp; &nbsp;RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page30.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page32.html#contacts2-91\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page33.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -21057,10 +21088,10 @@
             "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/csm_galerie_campusmil-005_7a9a2f188c-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -21074,13 +21105,165 @@
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page33.html\" data-toolbar=\"-mbrBtnMove\">FRANCAIS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">FRANCAIS</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
           "_sourceTheme": "default",
           "_anchor": "msg-box3-az"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpeg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WELCOME!",
+          "text": "<p>Our research group focuses on advancing knowledge of structure-function relationships in enzymes to facilitate enzyme modification for specific purposes. Enzyme modification is a growing field in response to policies promoting environmentally friendly catalysts. Our approach involves combinatorial mutagenesis of enzyme active sites, selecting enzymes through accelerated evolution, and characterizing them using kinetic and structural analyses, as well as computer-assisted molecular modeling. Our work also aims to better understand enzyme-induced drug resistance in the health sciences sector. Our interdisciplinary work in bio-organic chemistry, biochemistry, and bioinformatics contributes to the development of modern enzymology.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index_en.html#slider-90\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_sourceTheme": "default",
+          "_anchor": "msg-box4-b3"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showBullets": true,
+            "bgColor": "#000000",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "New serological project on COVID-19",
+                "contentAlign": "center",
+                "text": "In collaboration with the research laboratories of Jean-François Masson (U. de Montréal) and Denis Boudreau (U. Laval), the help of organisms such as Instruments Scientifiques Affinité, Héma-Québec as well as many other collaborators, we are currently developing a combined ELISA and SPR (Surface Plasmon Resonance) approach in order to quantify and characterize antibodies against the SARS-CoV-2 virus.<br>We are participating in a collaborative effort to make clinical biodetection more readily available.&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research.html\" data-toolbar=\"-mbrBtnMove\">More</a>  ",
+                "overlay": true,
+                "overlayColor": "#fac51c"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Microbial transglutaminase<br><br>",
+                "contentAlign": "center",
+                "text": "Transglutaminases  catalyze protein cross-linking, by  bonding an amine (a protein- or peptide-bound lysine) to the terminal amide of a protein- or peptide-bound glutamine. Transglutaminases are increasingly applied to protein-tagging schemes, where various amine-bearing compounds are linked to proteins, providing modified proteins with new properties.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#b8312f"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Cytochrome P450s<br><br>",
+                "contentAlign": "center",
+                "text": "Cytochrome P450s oxidize hydrophobic compounds to increase the body's capacity to eliminate those compounds. The oxidation reactions they catalyze hold great potential for biocatalytic applications. However, there is a need to tailor cytochrome P450s to catalyze specific, industrially-relevant reactions. We are contributing to a joint computational/experimental effort to improve the efficiency of evolution of this class of enzymes.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
+                "overlay": true,
+                "overlayColor": "#27aae0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Dihydrofolate Reductases<br><br>",
+                "contentAlign": "center",
+                "text": "Dihydrofolate reductases (or Dfrs) are essential in all dividing cells. As a result, they are crucial drug targets in proliferative diseases such as cancer and bacterial infections. We have evolved human Dfr (<strong>hDfr</strong>) to be highly resistant to the chemotherapy drug methotrexate, as a tool to improve the efficiency of gene therapy.<br>Bacteria are increasingly acquiring a distinct, inherently drug-resistant Dfr (<b>DfrB1</b>). We have contributed to understand the properties of this enzyme and have discovered its first inhibitors.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
+                "overlay": true,
+                "overlayColor": "#fac51c"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_sourceTheme": "default",
+          "_anchor": "slider-90"
         },
         {
           "_params": {
@@ -21091,7 +21274,7 @@
             "showCaptions": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
@@ -21154,7 +21337,7 @@
           },
           "title2": "NEW SUMMER INTERNS - 2022<div></div>",
           "caption2": "Welcome to all 4 new interns at the Joelle Pelletier Lab and congratulations to Alexis Bonneau-Burke for his poster presentation prize at the CGCC's 12th annual symposium!<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page30.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
           "media3": {
             "image": {
               "active": true,
@@ -21177,7 +21360,7 @@
           },
           "title3": "RECENT GRADUATE STUDENTS ACCEPTED<div><br></div>",
           "caption3": "The Joelle Pelletier Lab is happy to welcome two new graduate students:&nbsp; Maxime Saint-Aubin and Megan-Faye Parker (IRSC scholarship recipient).",
-          "button3": "<a data-app-btn=\"true\" href=\"Megan-Faye_Parker.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
           "media4": {
             "image": {
               "active": true,
@@ -21262,130 +21445,6 @@
           },
           "_sourceTheme": "default",
           "_anchor": "features1-8y"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Joelle Pelletier Group Lab Photo - Summer 2022",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-8z"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "showBullets": true,
-            "bgColor": "#000000",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "New serological project on COVID-19",
-                "contentAlign": "center",
-                "text": "In collaboration with the research laboratories of Jean-François Masson (U. de Montréal) and Denis Boudreau (U. Laval), the help of organisms such as Instruments Scientifiques Affinité, Héma-Québec as well as many other collaborators, we are currently developing a combined ELISA and SPR (Surface Plasmon Resonance) approach in order to quantify and characterize antibodies against the SARS-CoV-2 virus.<br>We are participating in a collaborative effort to make clinical biodetection more readily available.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">More</a>  ",
-                "overlay": true,
-                "overlayColor": "#fac51c"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Microbial transglutaminase<br><br>",
-                "contentAlign": "center",
-                "text": "Transglutaminases  catalyze protein cross-linking, by  bonding an amine (a protein- or peptide-bound lysine) to the terminal amide of a protein- or peptide-bound glutamine. Transglutaminases are increasingly applied to protein-tagging schemes, where various amine-bearing compounds are linked to proteins, providing modified proteins with new properties.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "overlayColor": "#b8312f"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Cytochrome P450s<br><br>",
-                "contentAlign": "center",
-                "text": "Cytochrome P450s oxidize hydrophobic compounds to increase the body's capacity to eliminate those compounds. The oxidation reactions they catalyze hold great potential for biocatalytic applications. However, there is a need to tailor cytochrome P450s to catalyze specific, industrially-relevant reactions. We are contributing to a joint computational/experimental effort to improve the efficiency of evolution of this class of enzymes.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
-                "overlay": true,
-                "overlayColor": "#27aae0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Dihydrofolate Reductases<br><br>",
-                "contentAlign": "center",
-                "text": "Dihydrofolate reductases (or Dfrs) are essential in all dividing cells. As a result, they are crucial drug targets in proliferative diseases such as cancer and bacterial infections. We have evolved human Dfr (<strong>hDfr</strong>) to be highly resistant to the chemotherapy drug methotrexate, as a tool to improve the efficiency of gene therapy.<br>Bacteria are increasingly acquiring a distinct, inherently drug-resistant Dfr (<b>DfrB1</b>). We have contributed to understand the properties of this enzyme and have discovered its first inhibitors.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
-                "overlay": true,
-                "overlayColor": "#fac51c"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Plastic degradation<br><br>",
-                "contentAlign": "center",
-                "text": "Coming soon!",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">More</a>  ",
-                "overlay": true,
-                "overlayColor": "#553982"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_sourceTheme": "default",
-          "_anchor": "slider-90"
         },
         {
           "_params": {
