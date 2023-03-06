@@ -20776,7 +20776,12 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_sourceTheme": "default",
-          "_anchor": "content4-b4"
+          "_anchor": "content4-b4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -20788,7 +20793,7 @@
             "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
             "parallax": true,
@@ -20825,9 +20830,9 @@
               "size": 0
             }
           },
-          "title1": "ARTICLES PUBLIÉS EN 2023",
-          "caption1": "&nbsp;A conserved SH3-like fold in diverse putative proteins tetramerizes [...] a été publié dans&nbsp;Philosophical Transactions of the Royal Society B.<br>_________________________<br>Epistasis between promoter activity and coding mutations shapes gene evolvability a été publié dans Science Advances, en collaboration le laboratoire Landry (U. Laval).<br>_________________________<br>Integrating dynamics into enzyme engineering a été publié dans PEDS, en collaboration avec le laboratoire Doucet (INRS).<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
+          "title1": "BOURSE DE VOYAGE ATTRIBUÉE",
+          "caption1": "Félicitations à Adem H.-Parisien pour avoir remporté le prix Simon-Pierre-Noel, attribué sous forme de bourse de voyage pour la meilleure présentation à la journée Simon-Pierre-Noel !&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://biochimie.umontreal.ca/2023/03/03/journee-simon-pierre-noel-2/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EN SAVOIR PLUS</a>",
           "media2": {
             "image": {
               "active": true,
@@ -20848,8 +20853,8 @@
               "size": 0
             }
           },
-          "title2": "ARTICLES RÉCEMMENT PUBLIÉS EN 2022<div></div>",
-          "caption2": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase a été publié dans RSC Advances.\n<br>_________________________\n<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] a été publié dans Frontiers in Immunology.\n<br>_________________________\n<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering a été publié dans Biochemistry.<br>",
+          "title2": "ARTICLES PUBLIÉS EN 2023<div></div>",
+          "caption2": "A conserved SH3-like fold in diverse putative proteins tetramerizes [...] a été publié dans Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>Epistasis between promoter activity and coding mutations shapes gene evolvability a été publié dans Science Advances, en collaboration le laboratoire Landry (U. Laval).\n<br>_________________________\n<br>Integrating dynamics into enzyme engineering a été publié dans PEDS, en collaboration avec le laboratoire Doucet (INRS).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media3": {
             "image": {
@@ -20871,9 +20876,9 @@
               "size": 0
             }
           },
-          "title3": "NOUVEAUX MEMBRES DE L'ÉQUIPE<div><br></div>",
-          "caption3": "Le laboratoire Joelle Pelletier&nbsp;est heureux d'accueillir deux nouveaux employés : Douglas Fansher (post-doc) et Daniela Quaglia (Conseillère principale recherche) ainsi qu'un nouvel étudiant au doctorat : Samy Faraj.",
-          "button3": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
+          "title3": "ARTICLES RÉCEMMENT PUBLIÉS EN 2022",
+          "caption3": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase a été publié dans RSC Advances.\n<br>_________________________\n<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] a été publié dans Frontiers in Immunology.\n<br>_________________________\n<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering a été publié dans Biochemistry.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LIRE LES ARTICLES</a>",
           "media4": {
             "image": {
               "active": true,
@@ -20894,9 +20899,9 @@
               "size": 0
             }
           },
-          "title4": "ARTICLES RÉCEMMENT PUBLIÉS EN 2022&nbsp;",
-          "caption4": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase a été publié dans RSC Advances.<br>_________________________<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] a été publié dans Frontiers in Immunology.<br>_________________________<br>Discovery of Highly Trimethoprim-Resistant DfrB Dihydrofolate Reductases in Diverse Environmental Settings [...] a été publié dans Antibiotics.<br>__________________________<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering a été publié dans Biochemistry.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
+          "title4": "NOUVEAUX MEMBRES DE L'ÉQUIPE",
+          "caption4": "Le laboratoire Joelle Pelletier est heureux d'accueillir deux nouveaux employés : Douglas Fansher (post-doc) et Daniela Quaglia (Conseillère principale recherche) ainsi qu'un nouvel étudiant au doctorat : Samy Faraj.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -21407,7 +21412,12 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_sourceTheme": "default",
-          "_anchor": "content4-b5"
+          "_anchor": "content4-b5",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -21419,7 +21429,7 @@
             "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csm-galerie-campusmil-005-7a9a2f188c-1920x1280.jpg",
             "parallax": true,
@@ -21456,9 +21466,9 @@
               "size": 0
             }
           },
-          "title1": "ARTICLES PUBLISHED IN 2023",
-          "caption1": "A conserved SH3-like fold in diverse putative proteins tetramerizes [...] was published in Philosophical Transactions of the Royal Society B.<br>_________________________<br>Epistasis between promoter activity and coding mutations shapes gene evolvability was published in Science Advances, in collaboration with the Landry laboratory (U. Laval).<br>_________________________<br>Integrating dynamics into enzyme engineering was published in PEDS, in collaboration with the Doucet laboratory (INRS).<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
+          "title1": "TRAVEL GRANT AWARDED",
+          "caption1": "Congratulations to Adem H.-Parisien for winning the&nbsp;Simon-Pierre-Noel prize, awarded as a travel grant for the best presentation at the Simon-Pierre-Noel day!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://biochimie.umontreal.ca/2023/03/03/journee-simon-pierre-noel-2/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -21479,8 +21489,8 @@
               "size": 0
             }
           },
-          "title2": "ARTICLES RECENTLY PUBLISHED IN 2022<div></div>",
-          "caption2": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase was published in RSC Advances.<br>_________________________<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] was published in Frontiers in Immunology.<br>_________________________<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering was published in Biochemistry.<br>",
+          "title2": "ARTICLES PUBLISHED IN 2023<div></div>",
+          "caption2": "A conserved SH3-like fold in diverse putative proteins tetramerizes [...] was published in Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>Epistasis between promoter activity and coding mutations shapes gene evolvability was published in Science Advances, in collaboration with the Landry laboratory (U. Laval).\n<br>_________________________\n<br>Integrating dynamics into enzyme engineering was published in PEDS, in collaboration with the Doucet laboratory (INRS).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">READ THE ARTICLES</a>",
           "media3": {
             "image": {
@@ -21502,9 +21512,9 @@
               "size": 0
             }
           },
-          "title3": "NEW TEAM MEMBERS",
-          "caption3": "The Joelle Pelletier laboratory is pleased to welcome two new employees: Douglas Fansher (post-doc) and Daniela Quaglia (Senior Research Advisor) as well as a new PhD student: Samy Faraj.",
-          "button3": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
+          "title3": "ARTICLES RECENTLY PUBLISHED IN 2022",
+          "caption3": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase was published in RSC Advances.\n<br>_________________________\n<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] was published in Frontiers in Immunology.\n<br>_________________________\n<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering was published in Biochemistry.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media4": {
             "image": {
               "active": true,
@@ -21525,9 +21535,9 @@
               "size": 0
             }
           },
-          "title4": "2 RECENT REVIEWS HAVE RECENTLY BEEN PUBLISHED",
-          "caption4": "<i>Cytochrome P450 Immobilization Strategies</i> [...] was published in ACS catalysis.<br>_________________________<br><br><i>Methods of mutagenesis and library creation</i> was published in BioEssays.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLES</a>",
+          "title4": "NEW TEAM MEMBERS",
+          "caption4": "The Joelle Pelletier laboratory is pleased to welcome two new employees: Douglas Fansher (post-doc) and Daniela Quaglia (Senior Research Advisor) as well as a new PhD student: Samy Faraj.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
           "media5": {
             "image": {
               "active": true,
