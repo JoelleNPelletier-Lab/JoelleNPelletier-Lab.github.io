@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index_en.html",
+    "currentPage": "team_members.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 402,
+    "uniqCompNum": 403,
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/th-1-128x93_1.png",
@@ -19667,7 +19667,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -19838,7 +19838,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -19858,7 +19858,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276-1.webp",
+              "src": "@PROJECT_PATH@/assets/images/jonathan-2-600x692.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19875,14 +19875,18 @@
               "size": 0
             }
           },
-          "title1": "Stella Cellier-Goetghebeur",
-          "caption1": "Ph.D.<br>Dihydrofolate reductase",
+          "title1": "Jonathan Besna",
+          "caption1": "Ph.D.<br>P450",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media2": {
             "image": {
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276.webp",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -19895,17 +19899,16 @@
               "family": "Mobirise2",
               "link": "",
               "size": 0,
-              "active": true,
               "color": "#c1c1c1"
             }
           },
-          "title2": "Samy Faraj",
+          "title2": "Stella Cellier-Goetghebeur",
           "caption2": "Ph.D.<br>Dihydrofolate reductase",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/maxime-st-aubin-1-1400x1867.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19922,8 +19925,8 @@
               "size": 0
             }
           },
-          "title3": "Maxime Saint-Aubin",
-          "caption3": "M.Sc.<br>Dihydrofolate reductase",
+          "title3": "Samy Faraj",
+          "caption3": "Ph.D.\n<br>Dihydrofolate reductase",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media4": {
             "image": {
@@ -19994,6 +19997,174 @@
           "_name": "features1",
           "_sourceTheme": "default",
           "_anchor": "features1-7i",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxime-st-aubin-600x800.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Maxime Saint-Aubin",
+          "caption1": "M.Sc.\n<br>Dihydrofolate reductase",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/126912250-3382412045139627-399114037261310840-n-600x584.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Megan-Faye Parker",
+          "caption2": "M.Sc.\n<br>COVID",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alexis-600x799.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Alexis Bonneau-Burke",
+          "caption3": "M.Sc.\n<br>Dihydrofolate reductase",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_sourceTheme": "default",
+          "_anchor": "features1-b6",
           "_styles": {
             "P": {
               "text-align": "center"
@@ -20831,7 +21002,7 @@
             }
           },
           "title1": "NOUVEAUX STAGIAIRES",
-          "caption1": "Le laboratoire Joelle Pelletier est heureux d'accueillir deux stagiaires qui nous rejoindront pour l'été : Arianne Pageau-Ruffet et Megan Sanda-Staicopol.<br>",
+          "caption1": "Le laboratoire Joelle Pelletier est heureux d'accueillir un nouvel étudiant à la maitrise, Alexis Bonneau-Burke, et deux stagiaires qui nous rejoindront pour l'été : Arianne Pageau-Ruffet et Megan Sanda-Staicopol.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ NOS PROJETS</a>",
           "media2": {
             "image": {
@@ -21466,8 +21637,8 @@
               "size": 0
             }
           },
-          "title1": "NEW INTERNS",
-          "caption1": "The Joelle Pelletier laboratory is pleased to welcome two interns who will be joining us this summer:&nbsp;Arianne Pageau-Ruffet and&nbsp;Megan Sanda-Staicopol.",
+          "title1": "NEW TEAM MEMBERS 2023",
+          "caption1": "The Joelle Pelletier laboratory is pleased to welcome a new Master student, Alexis Bonneau-Burke, and two interns who will be joining us this summer:&nbsp;Arianne Pageau-Ruffet and&nbsp;Megan Sanda-Staicopol.",
           "button1": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT OUR PROJECTS</a>",
           "media2": {
             "image": {
