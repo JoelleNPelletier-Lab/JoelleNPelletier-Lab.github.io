@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index.html",
+    "currentPage": "index_en.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20583,7 +20583,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-05-30-at-10.53.28-1400x1050.jpeg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -20830,9 +20830,9 @@
               "size": 0
             }
           },
-          "title1": "BOURSE DE VOYAGE ATTRIBUÉE",
-          "caption1": "Félicitations à Adem H.-Parisien pour avoir remporté le prix Simon-Pierre-Noel, attribué sous forme de bourse de voyage pour la meilleure présentation à la journée Simon-Pierre-Noel !&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://biochimie.umontreal.ca/2023/03/03/journee-simon-pierre-noel-2/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EN SAVOIR PLUS</a>",
+          "title1": "NOUVEAUX STAGIAIRES",
+          "caption1": "Le laboratoire Joelle Pelletier est heureux d'accueillir deux stagiaires qui nous rejoindront pour l'été : Arianne Pageau-Ruffet et Megan Sanda-Staicopol.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ NOS PROJETS</a>",
           "media2": {
             "image": {
               "active": true,
@@ -21219,7 +21219,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/f853066d-9a65-4494-bf17-b8fa6c3e2ecf-1400x1050.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-05-30-at-10.53.28-1400x1050.jpeg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -21466,9 +21466,9 @@
               "size": 0
             }
           },
-          "title1": "TRAVEL GRANT AWARDED",
-          "caption1": "Congratulations to Adem H.-Parisien for winning the&nbsp;Simon-Pierre-Noel prize, awarded as a travel grant for the best presentation at the Simon-Pierre-Noel day!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://biochimie.umontreal.ca/2023/03/03/journee-simon-pierre-noel-2/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "title1": "NEW INTERNS",
+          "caption1": "The Joelle Pelletier laboratory is pleased to welcome two interns who will be joining us this summer:&nbsp;Arianne Pageau-Ruffet and&nbsp;Megan Sanda-Staicopol.",
+          "button1": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT OUR PROJECTS</a>",
           "media2": {
             "image": {
               "active": true,
