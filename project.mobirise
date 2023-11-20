@@ -2193,471 +2193,6 @@
         }
       ]
     },
-    "Joelle_Pelletier.html": {
-      "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "Joelle Pelletier",
-        "order": "14"
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#205896"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "18px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#205896"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#205896"
-            },
-            "A": {
-              "font-size": "10px"
-            },
-            ".btn": {
-              "font-size": "8px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-udem-ccvc-proteo-604x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Logo",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2i",
-          "_sourceTheme": "default"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#075fb1",
-              "font-size": "20px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/labphoto2019top3-2000x547.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
-              "width": 1280,
-              "height": 720
-            },
-            "darkBackground": true,
-            "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "&nbsp;&nbsp;",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-2p",
-          "_sourceTheme": "default"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "36",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-3624-1400x1877.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Prof. JOELLE N. PELLETIER",
-          "text": "<p>Professor\n of the department of Chemistry&nbsp;</p><p>Accredited professor\n of the department of Biochemistry&nbsp;</p><p>VP of Research at Affinité Instruments</p><p><br></p><p>Université de Montréal<br></p><p>- MIL Campus - B-6227\n</p><p>\n</p><p>\n</p><p><br></p><p><a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-danger\">Contact us</a>:</p><p>- @: <a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\">joelle.pelletier@umontreal.ca&nbsp;</a></p><p>- Phone: +1 (514) 343-2124<br></p><p>- Fax: +1 (514) 343-7586 \n</p><p><br></p>",
-          "_tags": [
-            "Thème"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2m",
-          "_sourceTheme": "default"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Current positions\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; Professor, Department of Chemistry, Université de Montréal</p><p>•&nbsp; &nbsp; Accredited professor of the department of Biochemistry, Université de Montréal</p><p>•&nbsp; &nbsp; VP of Research at Affinité Instruments&nbsp;</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;Co-director of Canadian Green Chemistry and Engineering Network<br></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;Technical Advisor, Green Centre Canada\n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2r",
-          "_sourceTheme": "default"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Education\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;Ph.D. 1995 (Biochemistry), McGill University\n</p><p>• &nbsp; &nbsp;B.Sc.Honours 1989 (Biochemistry, minor: Chemistry), summa cum laude, Ottawa University\n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2t",
-          "_sourceTheme": "default"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Research Experience\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;06/2011 - Present: Full professor Department of Chemistry, Université de Montréal\n</p><p>• &nbsp; &nbsp;01/2000 - Present: Adjunct professor, Department of Biochemistry, Université de Montréal\n</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;06/2005 until 05/2011: Associate professor and FQRNT Research Professor, Department of Chemistry, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Université de Montréal\n</p><p>• &nbsp; &nbsp;11/1999 to 06/2005: Assistant professor, Department of Chemistry, Université de Montréal\n</p><p>• &nbsp; &nbsp;06/1998 to 11/1999: NSERC Postdoctoral Fellow, Biochemistry Institute, Universität Zürich under the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction of Prof. Andreas Plückthun\n</p><p>• &nbsp; &nbsp;09/1995 to 06/1998: FRSQ Postdoctoral Fellow, Department of Biochemistry, Université de Montréal &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under the direction of Prof. Stephen W. Michnick\n</p><p>• &nbsp; &nbsp;09/1989 to 08/1995: NSERC Doctoral Student, Department of Biochemistry, McGill University under the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction of Prof. Robert E. MacKenzie\n</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2u",
-          "_sourceTheme": "default"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Prizes - Distinctions- Positions",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; Clara-Benson award (2021) - Awarded by the Canadian Council of University Chemistry Chairs (CCUCC)</p><p>•&nbsp; &nbsp; Co-director of PROTEO (2014 -2021) - Québec network for research on protein structure, function and engineering&nbsp;</p><p><br></p><p>\n</p><p>\n</p><p>\n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-64",
-          "_sourceTheme": "default"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LIENS / LINKS</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://www.proteo.ca/en/\" target=\"_blank\" class=\"text-warning\">PROTEO</a></b></p><p class=\"mbr-contacts__text\"><u><a href=\"https://chimie.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14450/sg/Joelle%20Pelletier/\" class=\"text-gray\" target=\"_blank\">Joelle Pelletier - Chemistry Dpt.</a></u><br></p><p class=\"mbr-contacts__text\"><u><a href=\"http://ccvc.research.mcgill.ca/home.html\" class=\"text-warning\">Centre in Green Chemistry and Catalysis (<b>CGCC</b>)</a></u></p><p class=\"mbr-contacts__text\"><u><a href=\"https://www.affiniteinstruments.com/\" class=\"text-gray\" target=\"_blank\">Affinity Instruments</a></u></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-2j",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_sourceTheme": "default"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2k",
-          "_sourceTheme": "default"
-        }
-      ]
-    },
     "Ali_Fendri.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
@@ -19858,7 +19393,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jonathan-2-600x692.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jonathan-3-600x692.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19908,7 +19443,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-15.22.19-303x260.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -21001,9 +20536,9 @@
               "size": 0
             }
           },
-          "title1": "NOUVEAUX STAGIAIRES",
-          "caption1": "Le laboratoire Joelle Pelletier est heureux d'accueillir un nouvel étudiant à la maitrise, Alexis Bonneau-Burke, et deux stagiaires qui nous rejoindront pour l'été : Arianne Pageau-Ruffet et Megan Sanda-Staicopol.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ NOS PROJETS</a>",
+          "title1": "TRAVAUX DE VULGARISATION",
+          "caption1": "Claudèle Lemay-St-Denis, l'une de nos doctorantes, fait l'objet d'une bande dessinée sur ses études supérieures à l'Université de Montréal. Lisez la bande dessinée ici : https://mtlphd.com/2022 /09/20/claudele-doctorante-en-biochimie/. _________________________ <br>Stella Cellier-Goetghebeur, une de nos étudiantes au doctorat, a remporté un prix de vulgarisation pour l'article qu'elle a publié dans 'DIRE', le magazine de vulgarisation dans lequel sont publiés des articles rédigés par des étudiants diplômés de l'Université de Montréal.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire-archives/automne-2023/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS À PROPOS DE 'DIRE'</a>",
           "media2": {
             "image": {
               "active": true,
@@ -21025,7 +20560,7 @@
             }
           },
           "title2": "ARTICLES PUBLIÉS EN 2023<div></div>",
-          "caption2": "A conserved SH3-like fold in diverse putative proteins tetramerizes [...] a été publié dans Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>Epistasis between promoter activity and coding mutations shapes gene evolvability a été publié dans Science Advances, en collaboration le laboratoire Landry (U. Laval).\n<br>_________________________\n<br>Integrating dynamics into enzyme engineering a été publié dans PEDS, en collaboration avec le laboratoire Doucet (INRS).<br>",
+          "caption2": "'A conserved SH3-like fold in diverse putative proteins tetramerizes [...]' a été publié dans Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>'Epistasis between promoter activity and coding mutations shapes gene evolvability' a été publié dans Science Advances, en collaboration le laboratoire Landry (U. Laval).\n<br>_________________________\n<br>'From a binding module to essential catalytic activity: how nature stumbled on a good thing', un article de revue du projet DfrB a été publié dans Chemical Communications.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media3": {
             "image": {
@@ -21047,8 +20582,8 @@
               "size": 0
             }
           },
-          "title3": "ARTICLES RÉCEMMENT PUBLIÉS EN 2022",
-          "caption3": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase a été publié dans RSC Advances.\n<br>_________________________\n<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] a été publié dans Frontiers in Immunology.\n<br>_________________________\n<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering a été publié dans Biochemistry.",
+          "title3": "ARTICLES PUBLIÉS EN 2022",
+          "caption3": "'Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase' a été publié dans RSC Advances.\n<br>_________________________\n<br>'Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...]' a été publié dans Frontiers in Immunology.\n<br>_________________________\n<br>'Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering' a été publié dans Biochemistry.",
           "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LIRE LES ARTICLES</a>",
           "media4": {
             "image": {
@@ -21071,7 +20606,7 @@
             }
           },
           "title4": "NOUVEAUX MEMBRES DE L'ÉQUIPE",
-          "caption4": "Le laboratoire Joelle Pelletier est heureux d'accueillir deux nouveaux employés : Douglas Fansher (post-doc) et Daniela Quaglia (Conseillère principale recherche) ainsi qu'un nouvel étudiant au doctorat : Samy Faraj.<br>",
+          "caption4": "Le laboratoire Joelle Pelletier est heureux d'accueillir un nouvel employé : Douglas Fansher (post-doc) ainsi que deux nouveaux doctorants : Samy Faraj et Alexis Bonneau-Burke.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
           "media5": {
             "image": {
@@ -21637,9 +21172,9 @@
               "size": 0
             }
           },
-          "title1": "NEW TEAM MEMBERS 2023",
-          "caption1": "The Joelle Pelletier laboratory is pleased to welcome a new Master student, Alexis Bonneau-Burke, and two interns who will be joining us this summer:&nbsp;Arianne Pageau-Ruffet and&nbsp;Megan Sanda-Staicopol.",
-          "button1": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT OUR PROJECTS</a>",
+          "title1": "SCIENCE COMMUNICATION WORKS",
+          "caption1": "Claudèle Lemay-St-Denis, one of our PhD students, was featured in a comic about her graduate studies at Université de Montréal. Read the comic here:&nbsp; https://mtlphd.com/2022/09/20/claudele-doctorante-en-biochimie/.<br>_________________________<br>Stella Cellier-Goetghebeur, one of our PhD students, won a science communication prize for the article she published in 'DIRE',&nbsp;the popular science magazine in which articles written by graduate students at the University of Montreal are published.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire-archives/automne-2023/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT 'DIRE'</a>",
           "media2": {
             "image": {
               "active": true,
@@ -21661,7 +21196,7 @@
             }
           },
           "title2": "ARTICLES PUBLISHED IN 2023<div></div>",
-          "caption2": "A conserved SH3-like fold in diverse putative proteins tetramerizes [...] was published in Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>Epistasis between promoter activity and coding mutations shapes gene evolvability was published in Science Advances, in collaboration with the Landry laboratory (U. Laval).\n<br>_________________________\n<br>Integrating dynamics into enzyme engineering was published in PEDS, in collaboration with the Doucet laboratory (INRS).<br>",
+          "caption2": "'A conserved SH3-like fold in diverse putative proteins tetramerizes [...]' was published in Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>'Epistasis between promoter activity and coding mutations shapes gene evolvability' was published in Science Advances, in collaboration with the Landry laboratory (U. Laval).\n<br>_________________________\n<br>'From a binding module to essential catalytic activity: how nature stumbled on a good thing', a review of the DfrB project was published in Chemical Communications.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">READ THE ARTICLES</a>",
           "media3": {
             "image": {
@@ -21683,8 +21218,8 @@
               "size": 0
             }
           },
-          "title3": "ARTICLES RECENTLY PUBLISHED IN 2022",
-          "caption3": "Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase was published in RSC Advances.\n<br>_________________________\n<br>Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...] was published in Frontiers in Immunology.\n<br>_________________________\n<br>Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering was published in Biochemistry.",
+          "title3": "ARTICLES PUBLISHED IN 2022",
+          "caption3": "'Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase' was published in RSC Advances.\n<br>_________________________\n<br>'Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...]' was published in Frontiers in Immunology.\n<br>_________________________\n<br>'Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering' was published in Biochemistry.",
           "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media4": {
             "image": {
@@ -21707,7 +21242,7 @@
             }
           },
           "title4": "NEW TEAM MEMBERS",
-          "caption4": "The Joelle Pelletier laboratory is pleased to welcome two new employees: Douglas Fansher (post-doc) and Daniela Quaglia (Senior Research Advisor) as well as a new PhD student: Samy Faraj.<br>",
+          "caption4": "The Joelle Pelletier laboratory is pleased to welcome one new employees: Douglas Fansher (post-doc) as well as two new PhD students: Samy Faraj and Alexis Bonneau-Burke.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
           "media5": {
             "image": {
@@ -21823,6 +21358,471 @@
           "_name": "footer1",
           "_sourceTheme": "default",
           "_anchor": "footer1-92"
+        }
+      ]
+    },
+    "page_jp.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Joelle Pelletier",
+        "order": "14"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#205896"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"recherche.html\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH<br>&nbsp; &nbsp; &nbsp; RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"team_members.html\" aria-expanded=\"false\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span>TEAM <br>&nbsp; &nbsp; &nbsp; EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;COURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-98\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 5, 61);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#205896"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#205896"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-udem-ccvc-proteo-604x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2i",
+          "_sourceTheme": "default"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#075fb1",
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/labphoto2019top3-2000x547.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+              "width": 1280,
+              "height": 720
+            },
+            "darkBackground": true,
+            "overlay": false,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "&nbsp;&nbsp;",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2p",
+          "_sourceTheme": "default"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "36",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-3624-1400x1877.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Prof. JOELLE N. PELLETIER",
+          "text": "<p>Professor\n of the department of Chemistry&nbsp;</p><p>Accredited professor\n of the department of Biochemistry&nbsp;</p><p>VP of Research at Affinité Instruments</p><p><br></p><p>Université de Montréal<br></p><p>- MIL Campus - B-6227\n</p><p>\n</p><p>\n</p><p><br></p><p><a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-danger\">Contact us</a>:</p><p>- @: <a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\">joelle.pelletier@umontreal.ca&nbsp;</a></p><p>- Phone: +1 (514) 343-2124<br></p><p>- Fax: +1 (514) 343-7586 \n</p><p><br></p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2m",
+          "_sourceTheme": "default"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#252525",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "21px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Current positions\n",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>•&nbsp; &nbsp; Professor, Department of Chemistry, Université de Montréal</p><p>•&nbsp; &nbsp; Accredited professor of the department of Biochemistry, Université de Montréal</p><p>•&nbsp; &nbsp; VP of Research at Affinité Instruments&nbsp;</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;Co-director of Canadian Green Chemistry and Engineering Network<br></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;Technical Advisor, Green Centre Canada\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2r",
+          "_sourceTheme": "default"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#252525",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "21px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Education\n",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>• &nbsp; &nbsp;Ph.D. 1995 (Biochemistry), McGill University\n</p><p>• &nbsp; &nbsp;B.Sc.Honours 1989 (Biochemistry, minor: Chemistry), summa cum laude, Ottawa University\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2t",
+          "_sourceTheme": "default"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#252525",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "21px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Research Experience\n",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>• &nbsp; &nbsp;06/2011 - Present: Full professor Department of Chemistry, Université de Montréal\n</p><p>• &nbsp; &nbsp;01/2000 - Present: Adjunct professor, Department of Biochemistry, Université de Montréal\n</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;06/2005 until 05/2011: Associate professor and FQRNT Research Professor, Department of Chemistry, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Université de Montréal\n</p><p>• &nbsp; &nbsp;11/1999 to 06/2005: Assistant professor, Department of Chemistry, Université de Montréal\n</p><p>• &nbsp; &nbsp;06/1998 to 11/1999: NSERC Postdoctoral Fellow, Biochemistry Institute, Universität Zürich under the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction of Prof. Andreas Plückthun\n</p><p>• &nbsp; &nbsp;09/1995 to 06/1998: FRSQ Postdoctoral Fellow, Department of Biochemistry, Université de Montréal &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under the direction of Prof. Stephen W. Michnick\n</p><p>• &nbsp; &nbsp;09/1989 to 08/1995: NSERC Doctoral Student, Department of Biochemistry, McGill University under the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction of Prof. Robert E. MacKenzie\n</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2u",
+          "_sourceTheme": "default"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#252525",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "21px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Prizes - Distinctions- Positions",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>•&nbsp; &nbsp; Clara-Benson award (2021) - Awarded by the Canadian Council of University Chemistry Chairs (CCUCC)</p><p>•&nbsp; &nbsp; Co-director of PROTEO (2014 -2021) - Québec network for research on protein structure, function and engineering&nbsp;</p><p><br></p><p>\n</p><p>\n</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-64",
+          "_sourceTheme": "default"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "MIL campus",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LIENS / LINKS</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://www.proteo.ca/en/\" target=\"_blank\" class=\"text-warning\">PROTEO</a></b></p><p class=\"mbr-contacts__text\"><u><a href=\"https://chimie.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14450/sg/Joelle%20Pelletier/\" class=\"text-gray\" target=\"_blank\">Joelle Pelletier - Chemistry Dpt.</a></u><br></p><p class=\"mbr-contacts__text\"><u><a href=\"http://ccvc.research.mcgill.ca/home.html\" class=\"text-warning\">Centre in Green Chemistry and Catalysis (<b>CGCC</b>)</a></u></p><p class=\"mbr-contacts__text\"><u><a href=\"https://www.affiniteinstruments.com/\" class=\"text-gray\" target=\"_blank\">Affinity Instruments</a></u></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-2j",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "default"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2k",
+          "_sourceTheme": "default"
         }
       ]
     }
