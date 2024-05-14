@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "team_members.html",
+    "currentPage": "index_en.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19027,7 +19027,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "3",
@@ -19050,7 +19050,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/daniela-quaglia-600x400.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/douglas-fansher-600x800.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19067,13 +19067,13 @@
               "size": 0
             }
           },
-          "title1": "Daniela Quaglia, Ph.D., MBA",
-          "caption1": "Conseillère principale recherche / Principal consultant of research<br>COVID, Dégradation enzymatique du plastique / Enzymatic plastic degradation",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/danielaquaglia/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn<br></a> <a data-app-btn=\"true\" href=\"https://twitter.com/dny_q?lang=en\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Twitter<br></a> <a data-app-btn=\"true\" href=\"http://www.danielaquaglia.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Website<br></a>",
+          "title1": "Douglas Fansher, Ph.D.",
+          "caption1": "Post-doc<br>P450",
+          "button1": "<a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/douglas-fansher-ab1b25163\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn<br></a>  ",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hadi2-2-600x1082.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/ali-1400x1867.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19090,12 +19090,12 @@
               "size": 0
             }
           },
-          "title2": "Abdelhadi Djaileb, B.Sc.",
-          "caption2": "Assistant de recherche / Research Assistant<br>COVID",
+          "title2": "Ali Fendri",
+          "caption2": "Ph.D.\n<br>Cytochrome P450",
           "button2": " <a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/abdelhadi-djaileb-3b0080173\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/douglas-fansher-600x800.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/adem-1129x1025.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19117,8 +19117,8 @@
               "color": "#c1c1c1"
             }
           },
-          "title3": "Douglas Fansher, Ph.D.",
-          "caption3": "Post-doc<br>P450",
+          "title3": "Adem H.Parisien",
+          "caption3": "Ph.D.\n<br>Transglutaminase",
           "button3": "<a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/douglas-fansher-ab1b25163\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a> ",
           "media4": {
             "image": {
@@ -19222,52 +19222,6 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ali-1400x1867.jpeg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "Ali Fendri",
-          "caption1": "Ph.D.<br>Cytochrome P450",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/adem-1129x1025.jpeg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "Adem H.-Parisien",
-          "caption2": "Ph.D.<br>Transglutaminase",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
-          "media3": {
-            "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/claudele-2-1400x1623.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
@@ -19285,7 +19239,53 @@
               "size": 0
             }
           },
-          "title3": "Claudèle Lemay-St-Denis",
+          "title1": "Claudèle Lemay-St-Denis",
+          "caption1": "Ph.D.<br>Dihydrofolate reductase",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jonathan-2-600x692.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Jonathan Besna",
+          "caption2": "Ph.D.<br>P450",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276-2.webp",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Stella Cellier-Goetghebeur",
           "caption3": "Ph.D.<br>Dihydrofolate reductase",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media4": {
@@ -19393,7 +19393,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jonathan-3-600x692.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-15.22.19-303x260.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19410,12 +19410,12 @@
               "size": 0
             }
           },
-          "title1": "Jonathan Besna",
-          "caption1": "Ph.D.<br>P450",
+          "title1": "Samy Faraj",
+          "caption1": "Ph.D.\n<br>Dihydrofolate reductase",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cellier-goetghbeur-stella-d0407276.webp",
+              "src": "@PROJECT_PATH@/assets/images/alexis-600x799.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19437,13 +19437,13 @@
               "color": "#c1c1c1"
             }
           },
-          "title2": "Stella Cellier-Goetghebeur",
+          "title2": "Alexis Bonneau-Burke",
           "caption2": "Ph.D.<br>Dihydrofolate reductase",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-15.22.19-303x260.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/126912250-3382412045139627-399114037261310840-n-600x584.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19460,8 +19460,8 @@
               "size": 0
             }
           },
-          "title3": "Samy Faraj",
-          "caption3": "Ph.D.\n<br>Dihydrofolate reductase",
+          "title3": "Megan-Faye Parker",
+          "caption3": "M.Sc.<br>Transglutaminase",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media4": {
             "image": {
@@ -19539,174 +19539,6 @@
           }
         },
         {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/maxime-st-aubin-600x800.jpeg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "Maxime Saint-Aubin",
-          "caption1": "M.Sc.\n<br>Dihydrofolate reductase",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/126912250-3382412045139627-399114037261310840-n-600x584.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "Megan-Faye Parker",
-          "caption2": "M.Sc.\n<br>COVID",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alexis-600x799.jpeg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "Alexis Bonneau-Burke",
-          "caption3": "M.Sc.\n<br>Dihydrofolate reductase",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_sourceTheme": "default",
-          "_anchor": "features1-b6",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_inherit": "features1",
           "_params": {
             "showHeader": true,
@@ -19755,7 +19587,7 @@
             }
           },
           "title1": "2022",
-          "caption1": "<b>2022</b><br>Frédérick Langlois (B.Sc. U. de Montréal)\n<br>Alexis Bonneau-Burke (B.Sc. U. de Montréal)\n<br>Ithiele Princesse Tsamo Tiobou (B.Sc. U. de Montréal)\n<br>Chloé Louis-Gavet (Master I CPE Lyon)<br><br><b>2021</b><br>Alizée Débiais (B.Sc. U. de Montréal)\n<br>Maxime Saint-Aubin (B.Sc. U. de Montréal)\n<br>Yasmine Ghribi (B.Sc. U. de Montréal)\n<br>Megan-Faye Parker (B.Sc. U. de Montréal)<br><br><b>2020\n</b><br>Léa Rochet (Master I CPE Lyon)\n<br>Abdelhadi Djaileb (B.Sc. U. de Montréal)\n<br>Stella Cellier-Goetghebeur (B.Sc. U. de Montréal)\n<br>Katia Hitache (B.Sc. U. de Montréal)\n<br>Sarah-Slim Diwan (B.Sc. U. de Montréal)<br>",
+          "caption1": "<b>2024</b><br>Pauline Daclin (Master 1 Université de Nantes)<br>Ève Ouimet&nbsp; (B.Sc. U. de Montréal)<br>Mehdi Zemouri&nbsp; (B.Sc. U. de Montréal)<br><br><b>2023</b><br>Arianne Pageau-Ruffet (B.Sc. U. de Montréal)<br>Megan Sanda-Staicopol&nbsp; (B.Sc. U. de Montréal)<br><br><b>2022</b><br>Frédérick Langlois (B.Sc. U. de Montréal)\n<br>Alexis Bonneau-Burke (B.Sc. U. de Montréal)\n<br>Ithiele Princesse Tsamo Tiobou (B.Sc. U. de Montréal)\n<br>Chloé Louis-Gavet (Master I CPE Lyon)<br><br><b>2021</b><br>Alizée Débiais (B.Sc. U. de Montréal)\n<br>Maxime Saint-Aubin (B.Sc. U. de Montréal)\n<br>Yasmine Ghribi (B.Sc. U. de Montréal)\n<br>Megan-Faye Parker (B.Sc. U. de Montréal)<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -19775,7 +19607,7 @@
             }
           },
           "title2": "2021",
-          "caption2": "<b>2019</b><br>Jonathan Besna (B.Sc. U. de Montréal)\n<br>Kiana Lafontaine (B.Sc. U. de Montréal)\n<br>Charlotte-Skye Fullerton (B.Sc. U. de Montréal)<br><br><b>2018\n</b><br>Adem H.-Parisien (B.Sc. U. de Montréal)\n<br>Christophe Lastrade-Brais (B.Sc. U. de Montréal)\n<br>Claudèle Lemay-St-Denis (B.Sc. U. de Montréal)\n<br>Benjamin Ouimet (B.Sc. U. de Montréal)\n<br>\n<br><b>2017\n</b><br>Joaquin Guzman (M.Sc. U. de Montréal)\n<br>Sara Ouadhi (B.Sc. U. de Montréal)\n<br>Saathanan Iyathurai (B.Sc. U. de Montréal)<br><br>",
+          "caption2": "<b>2020\n</b><br>Léa Rochet (Master I CPE Lyon)\n<br>Abdelhadi Djaileb (B.Sc. U. de Montréal)\n<br>Stella Cellier-Goetghebeur (B.Sc. U. de Montréal)\n<br>Katia Hitache (B.Sc. U. de Montréal)\n<br>Sarah-Slim Diwan (B.Sc. U. de Montréal)<br><br><b>2019</b><br>Jonathan Besna (B.Sc. U. de Montréal)\n<br>Kiana Lafontaine (B.Sc. U. de Montréal)\n<br>Charlotte-Skye Fullerton (B.Sc. U. de Montréal)<br><br><b>2018\n</b><br>Adem H.-Parisien (B.Sc. U. de Montréal)\n<br>Christophe Lastrade-Brais (B.Sc. U. de Montréal)\n<br>Claudèle Lemay-St-Denis (B.Sc. U. de Montréal)\n<br>Benjamin Ouimet (B.Sc. U. de Montréal)<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -19795,7 +19627,7 @@
             }
           },
           "title3": "2020",
-          "caption3": "2016\n<br>Antoine Daigneault-Demers (B.Sc. U. de Montréal)\n<br>Tiffany Cristarella (B.Sc. U. de Montréal)\n<br>Zineb El Ouali (B.Sc. U. de Montréal)<br><br><b>2015\n</b><br>Simon Duerr (B.Sc. U. of Konstanz)\n<br>\n<br><b>2014\n</b><br>Vanessa Guerrero\n<br>Kevin Delorme (B.Sc. U. de Montréal)\n<br>Nadia Nouasria (B.Sc. U. de Montréal)\n<br>Olivier Rousseau (B.Sc. U. de Montréal)\n<br>\n<br><b>2013\n</b><br>François Gingras (B.Sc. U. de Montréal)\n<br>Alessandro Siddi (M.Sc. U. de Mons)<br>",
+          "caption3": "<b>2017\n</b><br>Joaquin Guzman (M.Sc. U. de Montréal)\n<br>Sara Ouadhi (B.Sc. U. de Montréal)\n<br>Saathanan Iyathurai (B.Sc. U. de Montréal)<br><br><b>2016\n</b><br>Antoine Daigneault-Demers (B.Sc. U. de Montréal)\n<br>Tiffany Cristarella (B.Sc. U. de Montréal)\n<br>Zineb El Ouali (B.Sc. U. de Montréal)<br><br><b>2015\n</b><br>Simon Duerr (B.Sc. U. of Konstanz)\n<br>\n<br><b>2014\n</b><br>Vanessa Guerrero\n<br>Kevin Delorme (B.Sc. U. de Montréal)\n<br>Nadia Nouasria (B.Sc. U. de Montréal)\n<br>Olivier Rousseau (B.Sc. U. de Montréal)\n<br>\n<br><b>2013\n</b><br>François Gingras (B.Sc. U. de Montréal)\n<br>Alessandro Siddi (M.Sc. U. de Mons)<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -20536,9 +20368,9 @@
               "size": 0
             }
           },
-          "title1": "TRAVAUX DE VULGARISATION",
-          "caption1": "Claudèle Lemay-St-Denis, l'une de nos doctorantes, fait l'objet d'une bande dessinée sur ses études supérieures à l'Université de Montréal. Lisez la bande dessinée ici : https://mtlphd.com/2022 /09/20/claudele-doctorante-en-biochimie/. _________________________ <br>Stella Cellier-Goetghebeur, une de nos étudiantes au doctorat, a remporté un prix de vulgarisation pour l'article qu'elle a publié dans 'DIRE', le magazine de vulgarisation dans lequel sont publiés des articles rédigés par des étudiants diplômés de l'Université de Montréal.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire-archives/automne-2023/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS À PROPOS DE 'DIRE'</a>",
+          "title1": "PRIX DE PRÉSENTATION",
+          "caption1": "Félicitations à Alexis Bonneau-Burke, Samy Faraj, Douglas Fansher et Jonathan Besna pour leurs prix de meilleure affiche au Symposium PROTEO 2024!\n<br>_________________________\n<br>Félicitations à Claudèle Lemay-St-Denis pour son prix de meilleure présentation orale au Symposium PROTEO 2024! Claudèle a également récemment soutenu sa thèse avec succès!<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://proteo.ca/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS À PROPOS DE PROTEO</a>",
           "media2": {
             "image": {
               "active": true,
@@ -20559,9 +20391,9 @@
               "size": 0
             }
           },
-          "title2": "ARTICLES PUBLIÉS EN 2023<div></div>",
-          "caption2": "'A conserved SH3-like fold in diverse putative proteins tetramerizes [...]' a été publié dans Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>'Epistasis between promoter activity and coding mutations shapes gene evolvability' a été publié dans Science Advances, en collaboration le laboratoire Landry (U. Laval).\n<br>_________________________\n<br>'From a binding module to essential catalytic activity: how nature stumbled on a good thing', un article de revue du projet DfrB a été publié dans Chemical Communications.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
+          "title2": "NOUVEAUX MEMBRES<div></div>",
+          "caption2": "Le laboratoire Pelletier est heureux d'accueillir trois nouveaux stagiaires pour l'été : Pauline Daclin, Ève Ouimet et Mehdi Zemouri.<br><br>Pauline et Mehdi travailleront sur le projet P450, Ève travaillera sur le projet DfrB.",
+          "button2": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">PROJETS DE RECHERCHE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -20582,9 +20414,9 @@
               "size": 0
             }
           },
-          "title3": "ARTICLES PUBLIÉS EN 2022",
-          "caption3": "'Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase' a été publié dans RSC Advances.\n<br>_________________________\n<br>'Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...]' a été publié dans Frontiers in Immunology.\n<br>_________________________\n<br>'Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering' a été publié dans Biochemistry.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LIRE LES ARTICLES</a>",
+          "title3": "TRAVAUX DE VULGARISATION",
+          "caption3": "Claudèle Lemay-St-Denis, l'une de nos doctorantes, fait l'objet d'une bande dessinée sur ses études supérieures à l'Université de Montréal. Lisez la bande dessinée ici : https://mtlphd.com/2022 /09/20/claudele-doctorante-en-biochimie/. _________________________\n<br>Stella Cellier-Goetghebeur, une de nos étudiantes au doctorat, a remporté un prix de vulgarisation pour l'article qu'elle a publié dans 'DIRE', le magazine de vulgarisation dans lequel sont publiés des articles rédigés par des étudiants diplômés de l'Université de Montréal.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire/archives/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS À PROPOS DE 'DIRE'</a>",
           "media4": {
             "image": {
               "active": true,
@@ -20605,9 +20437,9 @@
               "size": 0
             }
           },
-          "title4": "NOUVEAUX MEMBRES DE L'ÉQUIPE",
-          "caption4": "Le laboratoire Joelle Pelletier est heureux d'accueillir un nouvel employé : Douglas Fansher (post-doc) ainsi que deux nouveaux doctorants : Samy Faraj et Alexis Bonneau-Burke.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">DÉCOUVREZ L'ÉQUIPE</a>",
+          "title4": "ARTICLES RÉCENTS",
+          "caption4": "'Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants' a été publié dans ACS Catalysis.&nbsp;<br>_________________________<br>'Mediated electron transfer in a photo-bioreactor: continuous flow hydroxylation using cytochrome P450 BM3 in NADPH-free conditions' a été publié dans&nbsp;Reaction Chemistry &amp; Engineering.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media5": {
             "image": {
               "active": true,
@@ -21172,9 +21004,9 @@
               "size": 0
             }
           },
-          "title1": "SCIENCE COMMUNICATION WORKS",
-          "caption1": "Claudèle Lemay-St-Denis, one of our PhD students, was featured in a comic about her graduate studies at Université de Montréal. Read the comic here:&nbsp; https://mtlphd.com/2022/09/20/claudele-doctorante-en-biochimie/.<br>_________________________<br>Stella Cellier-Goetghebeur, one of our PhD students, won a science communication prize for the article she published in 'DIRE',&nbsp;the popular science magazine in which articles written by graduate students at the University of Montreal are published.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire-archives/automne-2023/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT 'DIRE'</a>",
+          "title1": "CONFERENCE PRIZES",
+          "caption1": "Congratulations to Alexis Bonneau-Burke, Samy Faraj, Douglas Fansher and Jonathan Besna for winning a poster presentation prize at the PROTEO Symposium 2024!<br>_________________________<br>Congratulations to Claudèle Lemay-St-Denis for winning an oral&nbsp;presentation prize at the PROTEO Symposium 2024! Claudèle also recently successfully defended her thesis!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://proteo.ca/en/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT PROTEO</a>",
           "media2": {
             "image": {
               "active": true,
@@ -21195,9 +21027,9 @@
               "size": 0
             }
           },
-          "title2": "ARTICLES PUBLISHED IN 2023<div></div>",
-          "caption2": "'A conserved SH3-like fold in diverse putative proteins tetramerizes [...]' was published in Philosophical Transactions of the Royal Society B.\n<br>_________________________\n<br>'Epistasis between promoter activity and coding mutations shapes gene evolvability' was published in Science Advances, in collaboration with the Landry laboratory (U. Laval).\n<br>_________________________\n<br>'From a binding module to essential catalytic activity: how nature stumbled on a good thing', a review of the DfrB project was published in Chemical Communications.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">READ THE ARTICLES</a>",
+          "title2": "NEW INTERNS<div></div>",
+          "caption2": "The Pelletier Lab is happy to welcome 3 new interns for the summer : Pauline Daclin, Ève Ouimet et Mehdi Zemouri.<br><br>Pauline and Mehdi will be working on the P450 project; Ève will be working on the DfrB project.",
+          "button2": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE RESEARCH PROJECTS</a>",
           "media3": {
             "image": {
               "active": true,
@@ -21218,9 +21050,9 @@
               "size": 0
             }
           },
-          "title3": "ARTICLES PUBLISHED IN 2022",
-          "caption3": "'Tag-free, specific conjugation of glycosylated IgG1 antibodies using microbial transglutaminase' was published in RSC Advances.\n<br>_________________________\n<br>'Assessment of the longitudinal humoral response in non-hospitalized SARS-CoV-2-positive individuals [...]' was published in Frontiers in Immunology.\n<br>_________________________\n<br>'Tuning Selectivity in CalA Lipase: Beyond Tunnel Engineering' was published in Biochemistry.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
+          "title3": "SCIENCE COMMUNICATION WORKS",
+          "caption3": "Claudèle Lemay-St-Denis, one of our PhD students, was featured in a comic about her graduate studies at Université de Montréal. Read the comic here: https://mtlphd.com/2022/09/20/claudele-doctorante-en-biochimie/.\n<br>_________________________\n<br>Stella Cellier-Goetghebeur, one of our PhD students, won a science communication prize for the article she published in 'DIRE', the popular science magazine in which articles written by graduate students at the University of Montreal are published.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.ficsum.com/dire-archives/automne-2023/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT 'DIRE'</a>",
           "media4": {
             "image": {
               "active": true,
@@ -21241,9 +21073,9 @@
               "size": 0
             }
           },
-          "title4": "NEW TEAM MEMBERS",
-          "caption4": "The Joelle Pelletier laboratory is pleased to welcome one new employees: Douglas Fansher (post-doc) as well as two new PhD students: Samy Faraj and Alexis Bonneau-Burke.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"team_members.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEAM MEMBERS</a>",
+          "title4": "RECENT ARTICLES",
+          "caption4": "'Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants' was published in ACS Catalysis. \n<br>_________________________\n<br>'Mediated electron transfer in a photo-bioreactor: continuous flow hydroxylation using cytochrome P450 BM3 in NADPH-free conditions' was published in Reaction Chemistry &amp; Engineering.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media5": {
             "image": {
               "active": true,
@@ -21364,7 +21196,7 @@
     "page_jp.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Joelle Pelletier",
+        "title": "JP",
         "order": "14"
       },
       "components": [
