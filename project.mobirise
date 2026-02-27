@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index.html",
+    "currentPage": "team_members.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16881,382 +16881,7 @@
             "showTitles": false,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "Exploration de la spécificité du substrat de l'enzyme \"bio-colle\" : la transglutaminase",
-          "subheader": "Membres de l'équipe :&nbsp;Adem H.-Parisien, Megan-Faye Parker",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Les transglutaminases (TGase) catalysent la formation de liaisons crosslink entre les protéines ou les peptides. Chez l'homme, la réticulation des protéines par les TGases est impliquée dans la coagulation du sang, l'endocytose, l'apoptose et peut également entraîner des troubles physiologiques tels que la formation de la cataracte et la maladie cœliaque. Il s'agit donc d'une cible pour la conception de médicaments. Dans le cadre d'une collaboration de longue date avec le professeur Jeffrey Keillor (Université d'Ottawa), nous avons généré un modèle pour la liaison des substrats peptidiques donneurs de petits acyles à la transglutaminase des tissus de mammifères en vue du développement de substrats et d'inhibiteurs modèles (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15010546/\" class=\"text-danger\" target=\"_blank\">Chica et al. (2004)</a>), et avons exploré l'utilisation de substrats non natifs (<a href=\"https://cdnsciencepub.com/doi/abs/10.1139/v08-024\" class=\"text-danger\" target=\"_blank\">Keillor et al.(2008)</a>). En utilisant de nouveaux tests tels que ce test fluorométrique pour l'activité de transamidation (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19660958/\" class=\"text-danger\" target=\"_blank\">Gnaccarini et al. (2009)</a>), nous avons découvert de puissants inhibiteurs cinnamoyles de la TGase des mammifères (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19271761/\" class=\"text-danger\" target=\"_blank\">Pardin et al.(2009)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/18582115/\" class=\"text-danger\" target=\"_blank\">Pardin et al. (2008)</a>).<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "Dans le but de développer son utilisation en tant que biocatalyseur, nous avons également démontré la propargylation de protéines spécifique au site en utilisant la transglutaminase des tissus de mammifères (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22653499/\" class=\"text-danger\" target=\"_blank\">Gnaccarini et al.(2012)</a>). Nous nous sommes plus récemment tournés vers les transglutaminases microbiennes (MTG) comme alternative verte à la synthèse des amides. La MTG est largement utilisée dans l'industrie alimentaire et textile. La MTG est tolérante à une large gamme de conditions de réaction et est donc adaptée à un développement ultérieur en tant que biocatalyseur. Nous avons étudié une large gamme de substrats non naturels, de petites molécules, qui ont été choisis pour explorer la réactivité de l'enzyme et pour obtenir des produits synthétiques pertinents. Nos résultats indiquent qu'une variété d'amines fonctionne comme substrat accepteur, mais que des exigences plus strictes s'appliquent au substrat donneur. Nous avons démontré que la MTG peut être utilisée pour ajouter un alcyne ou un azide sur une chaîne peptidique, pour une réaction \"Click\" ultérieure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23615739/\" class=\"text-danger\" target=\"_blank\">Gundersen et al. (2014)</a>).<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_sourceTheme": "default",
-          "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#2969b0"
-            },
-            "P": {
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "content4-aq"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/transglutaminase-research-2-378x154.jpeg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Ingénierie de biocatalystes pour augmenter la sélectivité",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-ar"
-        },
-        {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": false,
-            "showTitles": false,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "Intégration clinique d'un dispositif SPR portable pour la surveillance des biomarqueurs liés aux maladies",
-          "subheader": "Membres de l'équipe : Abdelhadi Djaileb, Megan-Faye Parker, Daniela Quaglia",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Les biomarqueurs sont des molécules spécifiques qui présentent une corrélation avec la progression des maladies ou avec la sensibilité d'une maladie à un traitement donné. Ce sont des indicateurs utiles pour suivre l'état d'avancement ou le traitement d'une maladie particulière. Nous développons des protocoles pour surveiller différents biomarqueurs liés au cancer en utilisant la résonance plasmonique de surface (SPR). La fixation d'une protéine d'intérêt particulière sur une surface en or permet la détection spécifique de l'interaction protéine-protéine ou la liaison d'une molécule cible d'intérêt en utilisant la SPR. Par exemple, la fixation d'un anticorps sur une surface en or permet la détection de son antigène spécifique dans des échantillons cliniques ou la fixation d'un antigène spécifique sur la surface peut permettre de surveiller le niveau d'anticorps, un indicateur utile de l'évolution du traitement de nombreuses maladies.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "Nous développons des protocoles adaptables à un nouveau dispositif SPR portable conçu par le professeur Jean-François Masson. Nous avons développé et breveté différents types de monocouches de surface empêchant l'adsorption non spécifique qui permettent la détection SPR de molécules spécifiques en utilisant du sérum brut (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23706008/\" class=\"text-danger\" target=\"_blank\">Ratel et al. (2013)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/23845017/\" class=\"text-danger\" target=\"_blank\">Aubé et al. (2013)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/21698315/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2011)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/20353164/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2010)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/19606821/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2009)</a>). Nous utilisons cette approche pour surveiller le méthotrexate dans les échantillons cliniques de patients cancéreux (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22943049/\" class=\"text-danger\" target=\"_blank\">Zhao et al. (2012)</a>). Nous avons maintenant développé différents nouveaux tests SPR pour la surveillance de l'évolution d'infections par le SRAS-CoV-2 (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34250530/\" class=\"text-danger\" target=\"_blank\">Djaileb et al. (2021)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/34750399/\" class=\"text-danger\" target=\"_blank\">Hojjat Jodaylami et al. (2021)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/36741379/\" class=\"text-danger\" target=\"_blank\">Djaileb et al. (2023)</a>).&nbsp;Nous travaillons à l'amélioration de la sensibilité de la détection en optimisant les aspects physiques et biologiques du système SPR. Notre travail comprend l'ingénierie des protéines et la chimie des surfaces afin d'élaborer de nouveaux protocoles SPR pour améliorer l'accessibilité du diagnostic en surveillant la progression, le cours du traitement ou le dépistage de différentes maladies.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_sourceTheme": "default",
-          "_anchor": "content4-as"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spr-research-1-797x565.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Immobilisation d'anticorps pour l'utilisation de biocapteurs",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-at"
-        },
-        {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": false,
-            "showTitles": false,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
@@ -17277,7 +16902,7 @@
           ],
           "headerAlign": "left",
           "header": "La dihydrofolate réductase de type B : une nouvelle source de résistance aux antibiotiques",
-          "subheader": "Membres de l'équipe : Claudèle Lemay-St-Denis, Stella Cellier-Goetghebeur, Maxime Saint-Aubin, Samy Faraj",
+          "subheader": "Membres de l'équipe : Stella Cellier-Goetghebeur, Samy Faraj, Roxana Tarabuta",
           "media1": {
             "image": {
               "active": true,
@@ -17296,7 +16921,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "L'utilisation croissante du triméthoprime comme antibiotique courant à usage médical et son application préventive dans l'élevage d'animaux terrestres et aquatiques ont augmenté sa prévalence dans l'environnement. Cela s'est accompagné d'une résistance accrue aux médicaments, notamment par l'émergence d'une dihydrofolate réductase de type B (DfrB) intrinsèquement résistante au TMP. La DfrB1, également connue sous le nom de dihydrofolate réductase R67, est la plus largement étudiée au sein de cette famille d'enzymes. Il est impératif de découvrir des inhibiteurs de cette nouvelle source de résistance aux antibiotiques, afin de maintenir l'efficacité du triméthoprime dans le traitement de maladies telles que la pneumonie, la gonorrhée et les infections adventices chez les patients atteints du SIDA.<br>Nous avons rapporté les premiers inhibiteurs spécifiques de cette cible médicamenteuse émergente, obtenus par conception à base de fragments (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22424148/\" class=\"text-danger\" target=\"_blank\">Bastien et al. (2012)</a>). Nous avons développé une plateforme de criblage fonctionnel pour l'identification d'inhibiteurs sélectifs d'enzymes bactériennes de résistance au triméthoprime, les DfrB. La plateforme est basée sur la détermination semi-automatique de l'activité enzymatique en présence d'une variété de fragments, ou de composés simples similaires aux ligands natifs de l'enzyme, pour évaluer l'inhibition.<br>",
+          "caption1": "La résistance aux antibiotiques naturels est un phénomène qui existe depuis des millions d'années, à cause d'interactions compétitives au sein de communautés microbiennes. Le développement récent d'antibiotiques synthétiques et leur utilisation à grande échelle ont contribué à l'émergence de nouveaux mécanismes de résistance. Le triméthoprime est un antibiotique synthétique utilisé couramment pour le traitement d'infections urinaires et à titre préventif pour l'élevage de bétail et la pisciculture. La dihydrofolate réductase de type B (DfrB) confère efficacement de la résistance au triméthoprime : ce dernier cible la dihydrofolate réductase ubiquitaire bactérienne, FolA, mais n'interagit pas avec la DfrB à cause de différences structurelles trop importantes entre ces deux dihydrofolate réductases. La DfrB est une enzyme homotétramérique, dont l'efficacité est 100x moindre en comparaison à la FolA, une enzyme monomérique. Le laboratoire Pelletier s'intéresse à l'évolution de la capacité de multimérisation de la DfrB et de sa fonction (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40972559/\" class=\"text-danger\" target=\"_blank\">Lemay-St-Denis et al. (2025)</a>). En parallèle, nous investiguons les chemins évolutifs qui ont permis le recrutement de gènes DfrB dans le résistome moderne : nous avons rapporté que des DfrB fonctionnelles sont retrouvées dans divers environnements qui ne sont pas liés aux activités humaines (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33924456/\" class=\"text-danger\" target=\"_blank\">Lemay-St-Denis et al. (2021)</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/36551425/\" class=\"text-danger\" target=\"_blank\">Cellier-Goetghebeur et al. (2022)</a>).&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -17316,7 +16941,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Nous avons observé qu'une variété de petits composés aromatiques offrent une inhibition millimolaire de la DfrB1, ce qui est cohérent avec la nature \"primitive\" proposée de son site de liaison relativement promiscuitaire (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15576381/\" class=\"text-danger\" target=\"_blank\">Schmitzer et al. (2004)</a>). Par ces moyens, de petites molécules aromatiques de 150-250 g/mol (fragments) inhibant sélectivement la DfrB1 dans la gamme des faibles millimolaires ont été identifiées. Les molécules faiblement inhibitrices ont servi de base pour tester des composés de plus grande complexité, qui ont permis une augmentation de l'affinité du millimolaire au micromolaire. Des bis-benzimidazoles symétriques plus complexes et un bis-carboxyphényle ont permis une inhibition sélective de la cible dans la gamme des faibles micromolaires (Ki = 2-4 μM). Le docking moléculaire utilisant notre structure cristalline à haute résolution (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22102224/\" class=\"text-danger\" target=\"_blank\">Yachnin et al. (2011)</a>) a permis de mieux comprendre le mode de liaison de ces inhibiteurs. De façon importante, nous avons criblé la dihydrofolate réductase humaine en parallèle avec le DfrB1 pour identifier les composés présentant les meilleures perspectives d'inhibition sélective. Nous avons ainsi identifié une nouvelle classe d'inhibiteurs sélectifs, symétriques et compétitifs de la DfrB1. Nous travaillons actuellement sur la prochaine génération d'inhibiteurs des DfrB.<br>",
+          "caption2": "Bien que la DfrB confère de la résistance à l'antibiotique triméthoprime, il n'existe toujours pas d'antibiotique qui cible la DfrB. Nous avons aussi rapporté les premiers inhibiteurs spécifiques de cette cible médicamenteuse émergente, obtenus par conception à base de fragments (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22424148/\" class=\"text-danger\" target=\"_blank\">Bastien et al. (2012)</a>). Nous avons observé qu'une variété de petits composés aromatiques offrent une inhibition millimolaire de la DfrB1, ce qui est cohérent avec la nature \"primitive\" proposée de son site de liaison relativement promiscuitaire (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15576381/\" class=\"text-danger\" target=\"_blank\">Schmitzer et al. (2004)</a>). Par ces moyens, de petites molécules aromatiques de 150-250 g/mol (fragments) inhibant sélectivement la DfrB1 dans la gamme des faibles millimolaires ont été identifiées. Les molécules faiblement inhibitrices ont servi de base pour tester des composés de plus grande complexité, qui ont permis une augmentation de l'affinité du millimolaire au micromolaire. Des bis-benzimidazoles symétriques plus complexes et un bis-carboxyphényle ont permis une inhibition sélective de la cible dans la gamme des faibles micromolaires (Ki = 2-4 μM)&nbsp;(<a href=\"https://pubmed.ncbi.nlm.nih.gov/22102224/\" class=\"text-danger\" target=\"_blank\">Yachnin et al. (2011)</a>).&nbsp;Nous travaillons actuellement sur la prochaine génération d'inhibiteurs des DfrB, en testant à la fois des inhibiteurs covalents et des inhibiteurs compétitifs qui combinent nos travaux précédents et nos connaissances sur les ligands naturels de cette enzyme.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -17440,7 +17065,7 @@
           ],
           "headerAlign": "left",
           "header": "Ingénierie des enzymes du cytochrome P450 pour des applications industrielles",
-          "subheader": "Membres de l'équipe : Ali Fendri, Jonathan Besna, Douglas Fansher",
+          "subheader": "Membres de l'équipe : Jonathan Besna, Douglas Fansher",
           "media1": {
             "image": {
               "active": true,
@@ -17977,382 +17602,7 @@
             "showTitles": false,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "Exploring the substrate specificity of the 'bio-glue' enzyme: transglutaminase",
-          "subheader": "Team members:&nbsp;Adem H.-Parisien, Megan-Faye Parker",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Transglutaminases (TGase) catalyse the formation of crosslinks between proteins or peptides. In humans, the TGase-mediated cross-linking of proteins is implicated in blood clotting, endocytosis, apoptosis and can also lead to physiological disorders such as cataract formation and Celiac disease. It is thus a target for drug design. In a long-standing collaboration with Professor Jeffrey Keillor (Ottawa U.), we generated a model for the binding of small acyl-donor peptide substrates to mammalian tissue transglutaminase toward the development of model substrates and inhibitors (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15010546/\" class=\"text-danger\" target=\"_blank\">Chica et al. (2004)</a>), and explored the use of non-native substrates (<a href=\"https://cdnsciencepub.com/doi/abs/10.1139/v08-024\" class=\"text-danger\" target=\"_blank\">Keillor et al.(2008)</a>). Making use of new assays such as this fluorometric assay for transamidation activity (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19660958/\" class=\"text-danger\" target=\"_blank\">Gnaccarini et al. (2009)</a>) we discovered potent cinnamoyl inhibitors of mammalian TGase (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19271761/\" class=\"text-danger\" target=\"_blank\">Pardin et al.(2009)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/18582115/\" class=\"text-danger\" target=\"_blank\">Pardin et al. (2008)</a>).<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "In a bid to develop its use as a biocatalyst, we also demonstrated site-specific protein propargylation using mammalian tissue transglutaminase (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22653499/\" class=\"text-danger\" target=\"_blank\">Gnaccarini et al.(2012)</a>). We have more recently turned to microbial transglutaminases (MTG) as a green alternative to amide synthesis. MTG is widely used in the food and textile industries. MTG is tolerant to a broad range of reaction conditions and is therefore suitable for further development as a biocatalyst. We investigated a wide range of non-natural, small-molecule substrates, which were chosen to explore enzyme reactivity and to yield synthetically relevant products. Our results indicate that a variety of amines function as an acceptor substrate, but stricter requirements apply for the donor substrate. Importantly, we demonstrated that MTG can be used to add an alkyne or an azide onto a peptide chain, for ulterior 'Click' reaction (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23615739/\" class=\"text-danger\" target=\"_blank\">Gundersen et al. (2014)</a>).<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_sourceTheme": "default",
-          "_anchor": "content4-a3",
-          "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#2969b0"
-            },
-            "P": {
-              "color": "#2969b0"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/transglutaminase-research-2-378x154.jpeg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Engineering biocatalysts for increase selectivity",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-8e"
-        },
-        {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": false,
-            "showTitles": false,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "Clinical integration of portable SPR device for monitoring disease-related biomarkers",
-          "subheader": "Team members: Abdelhadi Djaileb, Megan-Faye Parker, Daniela Quaglia",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Biomarkers are specific molecules that correlate with the progression of diseases or with the susceptibility of a disease to a given treatment. They are useful indicators for monitoring the state of progression or the treatment of a particular disease. We are developing protocols for monitoring different cancer-related biomarkers using surface plasmon resonance (SPR). The attachment of a particular protein of interest on gold surface allows for specific detection of protein-protein interaction or binding of a target molecule of interest using SPR. For example the attachment of an antibody on a gold surface allows for the detection of its specific antigen in clinical samples or the attachment of a specific antigen on the surface may allow for monitoring the level of antibody, a useful indicator of the course of treatment of many diseases.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "We are developing protocols adaptable to a new portable SPR device designed by Professor Jean-François Masson. We developed and patented different types of surface monolayers preventing non-specific adsorption that allow for SPR detection of specific molecules using crude serum (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23706008/\" class=\"text-danger\" target=\"_blank\">Ratel et al. (2013)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/23845017/\" class=\"text-danger\" target=\"_blank\">Aubé et al. (2013)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/21698315/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2011)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/20353164/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2010)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/19606821/\" class=\"text-danger\" target=\"_blank\">Bolduc et al. (2009)</a>). We employ this approach for monitoring methotrexate in clinical samples of cancer patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22943049/\" class=\"text-danger\" target=\"_blank\">Zhao et al. (2012)</a>). We have now developed different new SPR assays for monitoring the evolution of SARS-CoV-2 infections (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34250530/\" class=\"text-danger\" target=\"_blank\">Djaileb et al. (2021)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/34750399/\" class=\"text-danger\" target=\"_blank\">Hojjat Jodaylami et al. (2021)</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/36741379/\" class=\"text-danger\" target=\"_blank\">Djaileb et al. (2023)</a>). We are working on improving the sensitivity of detection by optimizing both the physical and the biological aspects of the SPR system. Our work includes protein engineering and surface chemistry to work out new SPR protocols for improving the accessibility of diagnosis by monitoring the progression, the course of treatment or the screening of different diseases.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_sourceTheme": "default",
-          "_anchor": "content4-a6"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spr-research-1-797x565.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Antibody immobilization for use of biosensors",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_sourceTheme": "default",
-          "_anchor": "image2-8i"
-        },
-        {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": false,
-            "showTitles": false,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
@@ -18373,7 +17623,7 @@
           ],
           "headerAlign": "left",
           "header": "R67 dihydrofolate reductase: a new source of antibiotic resistance",
-          "subheader": "Team members: Claudèle Lemay-St-Denis, Stella Cellier-Goetghebeur, Maxime Saint-Aubin, Samy Faraj",
+          "subheader": "Team members: Stella Cellier-Goetghebeur, Samy Faraj, Roxana Tarabuta",
           "media1": {
             "image": {
               "active": true,
@@ -18392,7 +17642,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "The continuously increasing use of trimethoprim as a common antibiotic for medical use and its preventive application in terrestrial and aquatic animal farming has increased its prevalence in the environment. This has been accompanied by increased drug resistance, including through the emergence of an intrinsically TMP resistant type B dihydrofolate reductase (DfrB). DfrB1, also known as R67 dihydrofolate reductase, is the most broadly studied variant. It is imperative to discover inhibitors of this new source of antibiotic resistance, to maintain the efficacy of trimethoprim in treatment of diseases including pneumonia, gonorrhea and adventitious infections in AIDS patients.<br>We have reported the first specific inhibitors of this emerging drug target, obtained by fragment-based design (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22424148/\" class=\"text-danger\" target=\"_blank\">Bastien et al. (2012)</a>). We developed a functional screening platform for the identification of selective inhibitors of bacterial trimethoprim resistant enzymes, the DfrB family. The platform is based on semiautomated determination of enzymatic activity in the presence of a variety of fragments, or simple compounds similar to the native ligands of the enzyme, to assess inhibition.<br>",
+          "caption1": "Resistance to natural antibiotics is a phenomenon that has existed for millions of years, due to competitive interactions within microbial communities. The recent development of synthetic antibiotics and their widespread use have contributed to the emergence of new resistance mechanisms. Trimethoprim is a synthetic antibiotic commonly used to treat urinary tract infections and as a preventive measure in livestock and fish farming. Dihydrofolate reductase type B (DfrB) effectively confers resistance to trimethoprim: the latter targets the ubiquitous bacterial dihydrofolate reductase, FolA, but does not interact with DfrB due to significant structural differences between these two dihydrofolate reductases. DfrB is a homotetrameric enzyme, whose efficiency is 100 times lower than that of FolA, a monomeric enzyme. The Pelletier laboratory is interested in the evolution of the multimerization capacity of DfrB and its function (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40972559/\" class=\"text-danger\" target=\"_blank\">Lemay-St-Denis et al. (2025)</a>). At the same time, we are investigating the evolutionary pathways that have led to the recruitment of DfrB genes into the modern resistome: we have reported that functional DfrBs are found in various environments that are not linked to human activities (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33924456/\" class=\"text-danger\" target=\"_blank\">Lemay-St-Denis et al. (2021)</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/36551425/\" class=\"text-danger\" target=\"_blank\">Cellier-Goetghebeur et al. (2022)</a>).&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -18412,7 +17662,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "We observed that a variety of small aromatic compounds offer millimolar range inhibition of DfrB1, which is consistent with the proposed “primitive” nature of its relatively promiscuous binding site (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15576381/\" class=\"text-danger\" target=\"_blank\">Schmitzer et al. (2004)</a>). By those means, small aromatic molecules of 150−250 g/mol (fragments) inhibiting DfrB1 selectively in the low millimolar range were identified. Weakly inhibiting molecules provided the basis for testing compounds of greater complexity, which provided an increase in affinity from millimolar to micromolar. More complex, symmetrical bis-benzimidazoles and a bis-carboxyphenyl procured selective inhibition of the target in the low micromolar range (Ki = 2−4 μM). Molecular docking using our high-resolution crystal structure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22102224/\" class=\"text-danger\" target=\"_blank\">Yachnin et al. (2011)</a>) offered insights into the binding mode of these inhibitors. Importantly, we screened the human dihydrofolate reductase in parallel with DfrB1 to identify compounds with the best prospects for selective inhibition. Thus, we identified a new class of selective, symmetrical, and competitive inhibitors of DfrB1. We are currently working on the next generation of DfrB inhibitors.<br>",
+          "caption2": "Although DfrB confers resistance to the antibiotic trimethoprim, there is still no antibiotic that targets DfrB. We have also reported the first specific inhibitors of this emerging drug target, obtained through fragment-based design (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22424148/\" class=\"text-danger\">Bastien et al. (2012)</a>). We observed that a variety of small aromatic compounds offer millimolar inhibition of DfrB1, which is consistent with the proposed “primitive” nature of its relatively promiscuous binding site (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15576381/\" class=\"text-danger\">Schmitzer et al. (2004)</a>). By these means, small aromatic molecules of 150-250 g/mol (fragments) selectively inhibiting DfrB1 in the low millimolar range were identified. The weakly inhibitory molecules served as a basis for testing more complex compounds, which allowed an increase in affinity from the millimolar to the micromolar range. More complex symmetrical bis-benzimidazoles and a bis-carboxyphenyl allowed selective inhibition of the target in the low micromolar range (Ki = 2-4 μM) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22102224/\" class=\"text-danger\" target=\"_blank\">Yachnin et al. (2011)</a>). We are currently working on the next generation of DfrB inhibitors, testing both covalent and competitive inhibitors that combine our previous work and our knowledge of natural ligands for this enzyme.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -18516,7 +17766,7 @@
             "showCaptions": true,
             "showButtons": false,
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -18536,7 +17786,7 @@
           ],
           "headerAlign": "left",
           "header": "Engineering cytochrome P450 enzymes for industrial applications",
-          "subheader": "Team members: Ali Fendri, Jonathan Besna, Douglas Fansher",
+          "subheader": "Team members: Jonathan Besna, Douglas Fansher, Mehdi Zemouri, Ahmad&nbsp;Salehikahrizsangi",
           "media1": {
             "image": {
               "active": true,
@@ -18660,169 +17910,6 @@
           "_name": "content4",
           "_sourceTheme": "default",
           "_anchor": "content4-al"
-        },
-        {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": false,
-            "showTitles": false,
-            "showCaptions": false,
-            "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "columns": 5,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "Enzymatic plastic degradation",
-          "subheader": "Coming soon!",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_sourceTheme": "default",
-          "_anchor": "content4-a8",
-          "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#2969b0"
-            },
-            ".mbr-header__subtext": {
-              "color": "#2969b0"
-            }
-          }
         },
         {
           "_params": {
@@ -19068,12 +18155,12 @@
             }
           },
           "title1": "Douglas Fansher, Ph.D.",
-          "caption1": "Post-doc<br>P450",
+          "caption1": "Post-doc<br>Cytochrome P450",
           "button1": "<a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/douglas-fansher-ab1b25163\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn<br></a>  ",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ali-1400x1867.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19090,12 +18177,12 @@
               "size": 0
             }
           },
-          "title2": "Ali Fendri",
-          "caption2": "Ph.D.\n<br>Cytochrome P450",
+          "title2": "Ahmad Salehikahrizsangi",
+          "caption2": "Post-doc<br>Cytochrome P450",
           "button2": " <a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/abdelhadi-djaileb-3b0080173\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/adem-1129x1025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -19117,8 +18204,8 @@
               "color": "#c1c1c1"
             }
           },
-          "title3": "Adem H.Parisien",
-          "caption3": "Ph.D.\n<br>Transglutaminase",
+          "title3": "Mehdi Zemouri",
+          "caption3": "M.Sc.<br>Cytochrome P450",
           "button3": "<a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/douglas-fansher-ab1b25163\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a> ",
           "media4": {
             "image": {
@@ -19263,7 +18350,7 @@
             }
           },
           "title2": "Jonathan Besna",
-          "caption2": "Ph.D.<br>P450",
+          "caption2": "Ph.D.<br>Cytochrome P450",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media3": {
             "image": {
@@ -19373,7 +18460,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -19411,7 +18498,7 @@
             }
           },
           "title1": "Alexis Bonneau-Burke",
-          "caption1": "Ph.D.\n<br>Dihydrofolate reductase",
+          "caption1": "<br>M.Sc.<br>Dihydrofolate reductase",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media2": {
             "image": {
@@ -19751,7 +18838,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Kiana Lafontaine, M.Sc. : 2023<br>Lorea Alejaldre Ripalda, Ph.D. : 2021\n<br>Olivier Rousseau, M.Sc. : 2019<br>Jacynthe Toulouse, Ph.D. : 2019\n<br>Maximilian Ebert, Ph.D. : 2017<br>Nathalie Rachel, Ph.D. : 2017\n<br>Sarah Melissa Jane Abraham, M.Sc. : 2017\n<br>Sophie Gobeil, Ph.D. : 2017\n<br>Maria Gundersen, M.Sc. : 2013",
+          "caption1": "Claudèle Lemay-St-Denis, Ph.D. : 2024<br>Maxime St-Aubin, M.Sc. : 2023<br>Kiana Lafontaine, M.Sc. : 2023<br>Lorea Alejaldre Ripalda, Ph.D. : 2021\n<br>Olivier Rousseau, M.Sc. : 2019<br>Jacynthe Toulouse, Ph.D. : 2019\n<br>Maximilian Ebert, Ph.D. : 2017<br>Nathalie Rachel, Ph.D. : 2017\n<br>Sarah Melissa Jane Abraham, M.Sc. : 2017<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -19771,7 +18858,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Dominic Bastien, M.Sc. : 2012\n<br>Natalia Timchenko, M.Sc. : 2011\n<br>Elena Fossati, M.Sc. : 2009\n<br>Jordan Volpato, Ph.D. : 2009\n<br>Pierre-Yves De Wals, M.Sc. : 2007\n<br>Roberto Antonio Chica, Ph.D. : 2007\n<br>Nicolas Doucet, Ph.D. : 2007\n<br>Tan Wang, M.Sc. : 2006<br>",
+          "caption2": "Sophie Gobeil, Ph.D. : 2017\n<br>Maria Gundersen, M.Sc. : 2013<br>Dominic Bastien, M.Sc. : 2012\n<br>Natalia Timchenko, M.Sc. : 2011\n<br>Elena Fossati, M.Sc. : 2009\n<br>Jordan Volpato, Ph.D. : 2009\n<br>Pierre-Yves De Wals, M.Sc. : 2007\n<br>Roberto Antonio Chica, Ph.D. : 2007\n<br>Nicolas Doucet, Ph.D. : 2007\n<br>Tan Wang, M.Sc. : 2006<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -20392,7 +19479,7 @@
             }
           },
           "title2": "NOUVEAUX MEMBRES DU LABO<div></div>",
-          "caption2": "Le laboratoire Pelletier est heureux d'accueillir 2 nouveaux étudiants : Roxana Tarabuta et Carlos Martinez.\n<br>\n<br>Roxana commence son doctorat sur le projet DfrB, et Carlos sera co-supervisé par le Dr. Pelletier alors qu'il poursuit son projet de doctorat sur les polymères.",
+          "caption2": "Le laboratoire Pelletier est heureux d'accueillir 1 nouveau stagiaire post-doctoral, Ahmad Salehikahrizsangi, et un nouvel étudiant à la maitrise, Mehdi Zemouri.\n<br>\n<br>Ahmad et Mehdi travailleront sur le projet P450.",
           "button2": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">PROJETS DE RECHERCHE</a>",
           "media3": {
             "image": {
@@ -20438,7 +19525,7 @@
             }
           },
           "title4": "ARTICLES RÉCENTS",
-          "caption4": "'Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants' a été publié dans ACS Catalysis.&nbsp;<br>_________________________<br>'Mediated electron transfer in a photo-bioreactor: continuous flow hydroxylation using cytochrome P450 BM3 in NADPH-free conditions' a été publié dans&nbsp;Reaction Chemistry &amp; Engineering.<br>",
+          "caption4": "'Indigo Formation as a Predictor of Non-Native Aromatic Hydroxylation in Cytochrome P450 BM3' a été publié dans ACS Catalysis. \n<br>_________________________\n<br>'From binding to catalysis: emergence of a rudimentary enzyme conferring intrinsic antibiotic resistance' a été publié dans Molecular Biology and Evolution.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media5": {
             "image": {
@@ -21028,7 +20115,7 @@
             }
           },
           "title2": "NEW LAB MEMBERS<div></div>",
-          "caption2": "The Pelletier Lab is happy to welcome 2 new students : Roxana Tarabuta and Carlos Martinez.<br><br>Roxana is starting her PhD on the DfrB project, and Carlos will be&nbsp; codirected by Dr Pelletier as he continues his PhD project on polymers.",
+          "caption2": "The Pelletier lab is happy to welcome a new post-doc, Ahmad Salehikahrizsangi, and a new master's student, Mehdi Zemouri.\n<br>\n<br>Ahmad and Mehdi will work on the P450 project.",
           "button2": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE RESEARCH PROJECTS</a>",
           "media3": {
             "image": {
@@ -21074,7 +20161,7 @@
             }
           },
           "title4": "RECENT ARTICLES",
-          "caption4": "'Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants' was published in ACS Catalysis. \n<br>_________________________\n<br>'Mediated electron transfer in a photo-bioreactor: continuous flow hydroxylation using cytochrome P450 BM3 in NADPH-free conditions' was published in Reaction Chemistry &amp; Engineering.<br>",
+          "caption4": "'Indigo Formation as a Predictor of Non-Native Aromatic Hydroxylation in Cytochrome P450 BM3' was published in ACS Catalysis. \n<br>_________________________\n<br>'From binding to catalysis: emergence of a rudimentary enzyme conferring intrinsic antibiotic resistance' was published in Molecular Biology and Evolution.&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media5": {
             "image": {
