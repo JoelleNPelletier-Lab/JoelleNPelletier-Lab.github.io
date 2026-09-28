@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index_en.html",
+    "currentPage": "team_members.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2196,7 +2196,7 @@
               "size": 0
             }
           },
-          "title2": "Ahmad Salehi",
+          "title2": "Ahmad Salehi, Ph.D.",
           "caption2": "Post-doc<br>Cytochrome P450",
           "button2": " <a data-app-btn=\"true\" href=\"https://ca.linkedin.com/in/abdelhadi-djaileb-3b0080173\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LinkedIn</a>",
           "media3": {
