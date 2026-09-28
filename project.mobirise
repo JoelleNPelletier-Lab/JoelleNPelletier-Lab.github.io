@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joelle Pelletier Lab_mai2022",
-    "currentPage": "index.html",
+    "currentPage": "index_en.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -338,9 +338,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -370,7 +369,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -827,9 +826,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -859,7 +857,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -1389,9 +1387,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -1421,7 +1418,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -1947,9 +1944,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -1979,7 +1975,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -2355,7 +2351,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jonathan-2-600x692.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2372,8 +2368,8 @@
               "size": 0
             }
           },
-          "title2": "Jonathan Besna",
-          "caption2": "Ph.D.<br>Cytochrome P450",
+          "title2": "Tom Descours--Mussati",
+          "caption2": "Ph.D.<br>Dihydrofolate reductase",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media3": {
             "image": {
@@ -2503,7 +2499,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alexis-600x799.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2520,8 +2516,8 @@
               "size": 0
             }
           },
-          "title1": "Alexis Bonneau-Burke",
-          "caption1": "<br>M.Sc.<br>Dihydrofolate reductase",
+          "title1": "Marie-Claire Gobeil",
+          "caption1": "M.Sc.<br>Dihydrofolate reductase",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Google Scholar</a>",
           "media2": {
             "image": {
@@ -2861,7 +2857,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Ali Fendri, Ph.D. : 2024<br>Claudèle Lemay-St-Denis, Ph.D. : 2024<br>Maxime St-Aubin, M.Sc. : 2023<br>Kiana Lafontaine, M.Sc. : 2023<br>Lorea Alejaldre Ripalda, Ph.D. : 2021\n<br>Olivier Rousseau, M.Sc. : 2019<br>Jacynthe Toulouse, Ph.D. : 2019\n<br>Maximilian Ebert, Ph.D. : 2017<br>Nathalie Rachel, Ph.D. : 2017\n<br>Sarah Melissa Jane Abraham, M.Sc. : 2017<br>",
+          "caption1": "Jonathan Besna, Ph.D : 2026<br>Ali Fendri, Ph.D. : 2024<br>Claudèle Lemay-St-Denis, Ph.D. : 2024<br>Maxime St-Aubin, M.Sc. : 2023<br>Kiana Lafontaine, M.Sc. : 2023<br>Lorea Alejaldre Ripalda, Ph.D. : 2021\n<br>Olivier Rousseau, M.Sc. : 2019<br>Jacynthe Toulouse, Ph.D. : 2019\n<br>Maximilian Ebert, Ph.D. : 2017<br>Nathalie Rachel, Ph.D. : 2017\n<br>Sarah Melissa Jane Abraham, M.Sc. : 2017<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2989,9 +2985,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -3021,7 +3016,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -3231,7 +3226,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2026-05-13-at-13.29.41-1400x1867.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2026-09-28-at-09.45.12-1200x1600.jpeg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3340,7 +3335,7 @@
             }
           },
           "title2": "DIHYDROFOLATE RÉDUCTASES DFRB",
-          "caption2": "Les dihydrofolate réductases (Dfr) sont essentielles pour la prolifération cellulaire. Par conséquent, elles sont la cible de l'antibiotique triméthoprime. L'émergence d'une Dfr alternative, la Dfr de type B (DfrB), confère une résistance insurmontable au triméthoprime. Nous investiguons l'évolution et le fonctionnement de cette enzyme en combinant des méthodes bio-informatiques et expérimentales pour informer notre conception d'inhibiteurs spécifiques aux DfrB.",
+          "caption2": "Les dihydrofolate réductases (Dfr) sont essentielles pour la prolifération cellulaire. Par conséquent, elles sont la cible de l'antibiotique triméthoprime. L'émergence d'une famille de Dfr alternatives, les Dfr de type B (DfrB), confère une résistance insurmontable au triméthoprime. Nous investiguons l'évolution et le fonctionnement de cette enzyme en combinant des méthodes bio-informatiques et expérimentales pour informer notre conception d'inhibiteurs spécifiques aux DfrB.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -3481,8 +3476,8 @@
               "size": 0
             }
           },
-          "title1": "PRIX DE PRÉSENTATION",
-          "caption1": "Félicitations à Alexis Bonneau-Burke, Samy Faraj, Douglas Fansher et Jonathan Besna pour leurs prix de meilleure affiche au Symposium PROTEO 2024!\n<br>_________________________\n<br>Félicitations à Claudèle Lemay-St-Denis pour son prix de meilleure présentation orale au Symposium PROTEO 2024! Claudèle a également récemment défendu sa thèse avec succès!<br>",
+          "title1": "PRIX DE PRÉSENTATION ET NOUVELLES",
+          "caption1": "Félicitations à Dr Douglas Fansher, Dr Ahmad Salehi et Stella Cellier-Goetghebeur pour leurs prix de meilleure affiche au Symposium PROTEO 2026! Dr Douglas Fansher débutera son laboratoire à l'Université Wilfrid Laurier University à l'automne 2026.<br>_________________________\n<br>Félicitations à Jonathan Besna pour avoir défendu sa thèse avec succès!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://proteo.ca/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS À PROPOS DE PROTEO</a>",
           "media2": {
             "image": {
@@ -3505,7 +3500,7 @@
             }
           },
           "title2": "NOUVEAUX MEMBRES DU LABO<div></div>",
-          "caption2": "Le laboratoire Pelletier est heureux d'accueillir un nouveau stagiaire post-doctoral, Ahmad Salehikahrizsangi, et un nouvel étudiant à la maitrise, Mehdi Zemouri.&nbsp;Ahmad et Mehdi travailleront sur le projet P450. Ahmad a récemment défendu sa thèse après avoir complété ses travaux doctoraux dans le laboratoire de Dave Palmer!<br><br>Le laboratoire accueille également deux stagiaires d'été,&nbsp;Eugénie Daubas-Prade (projet P450) et Sai&nbsp;Rishissen Ritchie Ittoo (projet DfrB).",
+          "caption2": "Le laboratoire Pelletier est heureux d'accueillir une nouvelle étudiante à la maitrise, Marie-Claire Gobeil, et un nouvel étudiant au doctorat, Tom Descours--Mussati.&nbsp;Marie-Claire et Tom travailleront sur le projet DfrB.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"recherche.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">PROJETS DE RECHERCHE</a>",
           "media3": {
             "image": {
@@ -3527,9 +3522,9 @@
               "size": 0
             }
           },
-          "title3": "TRAVAUX DE VULGARISATION",
-          "caption3": "Le projet de recherche de Samy Faraj, l'un de nos doctorants, a été présenté dans un épisode du podcast Recherche en cours, qui met en lumière les activités de recherche d'étudiants gradués québécois.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://baladoquebec.ca/recherche-en-cours/episode-1-la-resilience-de-nos-systemes\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ÉCOUTER L'ÉPISODE</a>",
+          "title3": "ARTICLES DE REVUE RÉCENTS",
+          "caption3": "'Recent advances in oxidative biocatalysis: From natural reactivity to new-to-nature transformations' a été publié dans Current Opinion in Green and Sustainable Chemistry.\n<br>_________________________\n<br>Dr Douglas Fansher et Dr Joelle Pelletier ont contribué à l'article de revue collaboratif 'Protein engineering: status report' en l'honneur du 40e anniversaire du journal Protein Engineering, Design and Selection (PEDS).&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media4": {
             "image": {
               "active": true,
@@ -3550,7 +3545,7 @@
               "size": 0
             }
           },
-          "title4": "ARTICLES RÉCENTS",
+          "title4": "ARTICLES DE RECHERCHE RÉCENTS",
           "caption4": "'Indigo Formation as a Predictor of Non-Native Aromatic Hydroxylation in Cytochrome P450 BM3' a été publié dans ACS Catalysis. \n<br>_________________________\n<br>'From binding to catalysis: emergence of a rudimentary enzyme conferring intrinsic antibiotic resistance' a été publié dans Molecular Biology and Evolution.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?view_op=list_works&amp;hl=fr&amp;hl=fr&amp;user=FYazIkcAAAAJ&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIRE LES ARTICLES</a>",
           "media5": {
@@ -3628,9 +3623,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -3660,7 +3654,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
@@ -3870,7 +3864,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2026-05-13-at-13.29.41-1400x1867.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2026-09-28-at-09.45.12-1200x1600.jpeg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3980,7 +3974,7 @@
             }
           },
           "title2": "DFRB DIHYDROFOLATE REDUCTASES",
-          "caption2": "Dihydrofolate reductases (Dfr) are essential for cell proliferation. Therefore, they are the target of the antibiotic trimethoprim. The emergence of an alternative Dfr, Dfr type B (DfrB), confers insurmountable resistance to trimethoprim. We investigate the evolution and function of this enzyme by combining bioinformatics and experimental methods to inform our design of DfrB-specific inhibitors.",
+          "caption2": "Dihydrofolate reductases (Dfr) are essential for cell proliferation. Therefore, they are the target of the antibiotic trimethoprim. The emergence of an alternative Dfr, Type B Dfr (DfrB), confers insurmountable resistance to trimethoprim. We investigate the evolution and function of this enzyme by combining bioinformatics and experimental methods to inform our design of DfrB-specific inhibitors.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -4121,8 +4115,8 @@
               "size": 0
             }
           },
-          "title1": "CONFERENCE PRIZES",
-          "caption1": "Congratulations to Alexis Bonneau-Burke, Samy Faraj, Douglas Fansher and Jonathan Besna for winning a poster presentation prize at the PROTEO Symposium 2024!<br>_________________________<br>Congratulations to Claudèle Lemay-St-Denis for winning an oral&nbsp;presentation prize at the PROTEO Symposium 2024! Claudèle also recently defended her PhD thesis!",
+          "title1": "PRIZES AND NEWS",
+          "caption1": "Congratulations to Dr Douglas Fansher, Dr Ahmad Salehi and Stella Cellier-Goetghebeur for winning a poster presentation prize at the PROTEO Symposium 2026! Dr Douglas Fansher will also be starting his lab at Wilfrid Laurier University in Fall 2026.<br>_________________________<br>Congratulations to Jonathan Besna for successfully defending his PhD thesis!",
           "button1": "<a data-app-btn=\"true\" href=\"https://proteo.ca/en/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT PROTEO</a>",
           "media2": {
             "image": {
@@ -4145,7 +4139,7 @@
             }
           },
           "title2": "NEW LAB MEMBERS<div></div>",
-          "caption2": "The Pelletier lab is happy to welcome a new post-doc, Ahmad Salehi, and a new master's student, Mehdi Zemouri. Ahmad and Mehdi will work on the P450 project. Ahmad recently defended his thesis after completing his PhD in the Dave Palmer Lab!&nbsp;<br><br>The Pelletier lab also welcomes two interns for summer 2026, Eugénie Daubas-Prade (P450 project) and Sai Rishissen Ritchie Ittoo (DfrB project).<br>",
+          "caption2": "The Pelletier lab is happy to welcome a new master's student, Marie-Claire Gobeil, and a new PhD student, Tom Descours--Mussati. Marie-Claire and Tom will work on the DfrB project.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"research.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE RESEARCH PROJECTS</a>",
           "media3": {
             "image": {
@@ -4167,9 +4161,9 @@
               "size": 0
             }
           },
-          "title3": "SCIENCE COMMUNICATION WORKS",
-          "caption3": "The research project of Samy Faraj, one of our PhD students, was featured in an episode of the podcast Recherche en cours, which highlights the research activities of graduate students in Quebec.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://baladoquebec.ca/recherche-en-cours/episode-1-la-resilience-de-nos-systemes\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISTEN TO THE EPISODE</a>",
+          "title3": "RECENT REVIEW ARTICLES",
+          "caption3": "'Recent advances in oxidative biocatalysis: From natural reactivity to new-to-nature transformations' was published in Current Opinion in Green and Sustainable Chemistry.<br>_________________________<br>Dr Douglas Fansher and Dr Joelle Pelletier also contributed to the 'Protein engineering: status report' collaborative review in honor of the 40th anniversary of&nbsp;Protein Engineering, Design and Selection (PEDS).&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?hl=fr&amp;user=FYazIkcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media4": {
             "image": {
               "active": true,
@@ -4190,7 +4184,7 @@
               "size": 0
             }
           },
-          "title4": "RECENT ARTICLES",
+          "title4": "RECENT RESEARCH ARTICLES",
           "caption4": "'Indigo Formation as a Predictor of Non-Native Aromatic Hydroxylation in Cytochrome P450 BM3' was published in ACS Catalysis. \n<br>_________________________\n<br>'From binding to catalysis: emergence of a rudimentary enzyme conferring intrinsic antibiotic resistance' was published in Molecular Biology and Evolution.&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://scholar.google.com/citations?user=FYazIkcAAAAJ&amp;hl=fr\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ THE ARTICLES</a>",
           "media5": {
@@ -4268,9 +4262,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "MIL campus",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3523744089043!2d-73.62223542339086!3d45.52311412950551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9199fe37a36dd%3A0xcfd3c8d7ac8d70f8!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Campus%20MIL!5e0!3m2!1sfr!2sca!4v1790603450114!5m2!1sfr!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+              "state": "ok"
             }
           },
           "text1": "<strong>ADRESSE / ADDRESS</strong><br><br>Université de Montréal \n<br>Département de Chimie<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning text-primary\" target=\"_blank\">Campus MIL</a> - Local B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACT</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-warning\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-warning\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
@@ -4300,7 +4293,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 07/2021.",
+          "text": "Copyright (c) 2026 Laboratory Joelle Pelletier | Website created with Mobirise, by Stella Cellier, Jonathan Besna &amp; Ali Fendri | Updated on 09/2026.",
           "_tags": [
             "Theme"
           ],
